@@ -1,0 +1,95 @@
+{
+  "case_id": "T06",
+  "version": 1,
+  "captions": [
+    {
+      "id": "V015-c045",
+      "segment_id": "V015",
+      "speaker": "A",
+      "text": "这 60 组听下来",
+      "start": 0.171333,
+      "end": 1.541333
+    },
+    {
+      "id": "V015-c046",
+      "segment_id": "V015",
+      "speaker": "A",
+      "text": "有 6 组我判定为“都不好”",
+      "start": 1.541333,
+      "end": 4.121333
+    },
+    {
+      "id": "V015-c047",
+      "segment_id": "V015",
+      "speaker": "A",
+      "text": "主要集中在中英混读、带货和数字日期上",
+      "start": 4.121333,
+      "end": 7.361333
+    },
+    {
+      "id": "V018-c048",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "但翻车最严重的是 MiniMax",
+      "start": 7.731333,
+      "end": 10.731333
+    },
+    {
+      "id": "V018-c049",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "也是在中英混读这段",
+      "start": 10.731333,
+      "end": 12.571333
+    },
+    {
+      "id": "V018-c050",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "前 11 秒都对",
+      "start": 12.571333,
+      "end": 14.291333
+    },
+    {
+      "id": "V018-c051",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "后面直接“借题发挥”",
+      "start": 14.291333,
+      "end": 16.331333
+    },
+    {
+      "id": "V018-c052",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "自己多念了整整 40 秒原文里根本没有的内容",
+      "start": 16.331333,
+      "end": 19.371333
+    },
+    {
+      "id": "V019-c053",
+      "segment_id": "V019",
+      "speaker": "A",
+      "text": "所以不管你用哪家",
+      "start": 32.473333,
+      "end": 33.903333
+    },
+    {
+      "id": "V019-c054",
+      "segment_id": "V019",
+      "speaker": "A",
+      "text": "第一次跑出来的结果",
+      "start": 33.903333,
+      "end": 35.703333
+    },
+    {
+      "id": "V019-c055",
+      "segment_id": "V019",
+      "speaker": "A",
+      "text": "一定记得自己先听一遍再用",
+      "start": 35.703333,
+      "end": 37.383333
+    }
+  ],
+  "planned_windows_only": false
+}

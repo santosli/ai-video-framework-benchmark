@@ -1,0 +1,891 @@
+{
+  "fps": 30,
+  "duration_seconds": 27,
+  "events": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "start_frame": 0,
+      "end_frame_exclusive": 72,
+      "state": "scope",
+      "readable_hold_seconds_min": 2.4,
+      "asset": "assets/chart-reference.svg",
+      "voice_anchor_ids": [
+        "c01"
+      ]
+    },
+    {
+      "start": 2.4,
+      "end": 6.166666666666667,
+      "start_frame": 72,
+      "end_frame_exclusive": 185,
+      "state": "historical_cutoff",
+      "readable_hold_seconds_min": 3,
+      "asset": "assets/chart-reference.svg",
+      "voice_anchor_ids": [
+        "c02"
+      ]
+    },
+    {
+      "start": 6.166666666666667,
+      "end": 11.933333333333334,
+      "start_frame": 185,
+      "end_frame_exclusive": 358,
+      "state": "three_planets",
+      "readable_hold_seconds_min": 3,
+      "asset": "assets/chart-reference.svg",
+      "voice_anchor_ids": [
+        "c03",
+        "c04",
+        "c05"
+      ]
+    },
+    {
+      "start": 11.933333333333334,
+      "end": 14.533333333333333,
+      "start_frame": 358,
+      "end_frame_exclusive": 436,
+      "state": "total",
+      "readable_hold_seconds_min": 2.5999999999999996,
+      "asset": "assets/chart-reference.svg",
+      "voice_anchor_ids": [
+        "c06"
+      ]
+    },
+    {
+      "start": 14.533333333333333,
+      "end": 27,
+      "start_frame": 436,
+      "end_frame_exclusive": 810,
+      "state": "boundary",
+      "readable_hold_seconds_min": 3,
+      "asset": "assets/chart-reference.svg",
+      "voice_anchor_ids": [
+        "c07",
+        "c08"
+      ]
+    }
+  ],
+  "speech_events": [
+    {
+      "segment_id": "S01-R01",
+      "start": 0.25,
+      "end": 1.81,
+      "words": [
+        {
+          "word": "土",
+          "start": 0.25,
+          "end": 0.51,
+          "start_sample": 12000,
+          "end_sample": 24480,
+          "probability": 0.9658203125
+        },
+        {
+          "word": "星",
+          "start": 0.51,
+          "end": 0.67,
+          "start_sample": 24480,
+          "end_sample": 32160,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "到底",
+          "start": 0.67,
+          "end": 0.85,
+          "start_sample": 32160,
+          "end_sample": 40800,
+          "probability": 0.9765625
+        },
+        {
+          "word": "有",
+          "start": 0.85,
+          "end": 1.05,
+          "start_sample": 40800,
+          "end_sample": 50400,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "多少",
+          "start": 1.05,
+          "end": 1.31,
+          "start_sample": 50400,
+          "end_sample": 62880,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "颗",
+          "start": 1.31,
+          "end": 1.49,
+          "start_sample": 62880,
+          "end_sample": 71520,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "卫",
+          "start": 1.49,
+          "end": 1.63,
+          "start_sample": 71520,
+          "end_sample": 78240,
+          "probability": 0.996337890625
+        },
+        {
+          "word": "星",
+          "start": 1.63,
+          "end": 1.81,
+          "start_sample": 78240,
+          "end_sample": 86880,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "segment_id": "S01-R09",
+      "start": 2.388,
+      "end": 5.148,
+      "words": [
+        {
+          "word": "按",
+          "start": 2.388,
+          "end": 2.668,
+          "start_sample": 114624,
+          "end_sample": 128064,
+          "probability": 0.9921875
+        },
+        {
+          "word": "20",
+          "start": 2.668,
+          "end": 2.868,
+          "start_sample": 128064,
+          "end_sample": 137664,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "25",
+          "start": 2.868,
+          "end": 3.148,
+          "start_sample": 137664,
+          "end_sample": 151104,
+          "probability": 0.99609375
+        },
+        {
+          "word": "年",
+          "start": 3.148,
+          "end": 3.328,
+          "start_sample": 151104,
+          "end_sample": 159744,
+          "probability": 0.99609375
+        },
+        {
+          "word": "3",
+          "start": 3.328,
+          "end": 3.528,
+          "start_sample": 159744,
+          "end_sample": 169344,
+          "probability": 0.98681640625
+        },
+        {
+          "word": "月",
+          "start": 3.528,
+          "end": 3.668,
+          "start_sample": 169344,
+          "end_sample": 176064,
+          "probability": 1.0
+        },
+        {
+          "word": "那",
+          "start": 3.668,
+          "end": 3.768,
+          "start_sample": 176064,
+          "end_sample": 180864,
+          "probability": 0.8916015625
+        },
+        {
+          "word": "批",
+          "start": 3.768,
+          "end": 3.948,
+          "start_sample": 180864,
+          "end_sample": 189504,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "新",
+          "start": 3.948,
+          "end": 4.128,
+          "start_sample": 189504,
+          "end_sample": 198144,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "确",
+          "start": 4.128,
+          "end": 4.328,
+          "start_sample": 198144,
+          "end_sample": 207744,
+          "probability": 0.999267578125
+        },
+        {
+          "word": "认",
+          "start": 4.328,
+          "end": 4.448,
+          "start_sample": 207744,
+          "end_sample": 213504,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "之",
+          "start": 4.448,
+          "end": 4.568,
+          "start_sample": 213504,
+          "end_sample": 219264,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "后",
+          "start": 4.568,
+          "end": 4.708,
+          "start_sample": 219264,
+          "end_sample": 225984,
+          "probability": 1.0
+        },
+        {
+          "word": "的",
+          "start": 4.708,
+          "end": 4.808,
+          "start_sample": 225984,
+          "end_sample": 230784,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "记",
+          "start": 4.808,
+          "end": 4.968,
+          "start_sample": 230784,
+          "end_sample": 238464,
+          "probability": 0.953125
+        },
+        {
+          "word": "录",
+          "start": 4.968,
+          "end": 5.148,
+          "start_sample": 238464,
+          "end_sample": 247104,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "segment_id": "S01-R03",
+      "start": 6.031333333333333,
+      "end": 7.471333333333333,
+      "words": [
+        {
+          "word": "天",
+          "start": 6.031333333333333,
+          "end": 6.271333333333334,
+          "start_sample": 289504,
+          "end_sample": 301024,
+          "probability": 0.92724609375
+        },
+        {
+          "word": "王",
+          "start": 6.271333333333334,
+          "end": 6.491333333333333,
+          "start_sample": 301024,
+          "end_sample": 311584,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "星",
+          "start": 6.491333333333333,
+          "end": 6.691333333333334,
+          "start_sample": 311584,
+          "end_sample": 321184,
+          "probability": 0.99169921875
+        },
+        {
+          "word": "二",
+          "start": 6.691333333333334,
+          "end": 6.971333333333333,
+          "start_sample": 321184,
+          "end_sample": 334624,
+          "probability": 0.4794921875
+        },
+        {
+          "word": "十",
+          "start": 6.971333333333333,
+          "end": 7.1113333333333335,
+          "start_sample": 334624,
+          "end_sample": 341344,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "八",
+          "start": 7.1113333333333335,
+          "end": 7.251333333333333,
+          "start_sample": 341344,
+          "end_sample": 348064,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "颗",
+          "start": 7.251333333333333,
+          "end": 7.471333333333333,
+          "start_sample": 348064,
+          "end_sample": 358624,
+          "probability": 0.84228515625
+        }
+      ]
+    },
+    {
+      "segment_id": "S01-R10",
+      "start": 7.988958333333334,
+      "end": 9.448958333333334,
+      "words": [
+        {
+          "word": "土",
+          "start": 7.988958333333334,
+          "end": 8.268958333333334,
+          "start_sample": 383470,
+          "end_sample": 396910,
+          "probability": 0.9853515625
+        },
+        {
+          "word": "星",
+          "start": 8.268958333333334,
+          "end": 8.468958333333333,
+          "start_sample": 396910,
+          "end_sample": 406510,
+          "probability": 0.6806640625
+        },
+        {
+          "word": "27",
+          "start": 8.468958333333333,
+          "end": 8.868958333333333,
+          "start_sample": 406510,
+          "end_sample": 425710,
+          "probability": 0.8564453125
+        },
+        {
+          "word": "4",
+          "start": 8.868958333333333,
+          "end": 9.288958333333333,
+          "start_sample": 425710,
+          "end_sample": 445870,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "克",
+          "start": 9.288958333333333,
+          "end": 9.448958333333334,
+          "start_sample": 445870,
+          "end_sample": 453550,
+          "probability": 0.55712890625
+        }
+      ]
+    },
+    {
+      "segment_id": "S01-R05",
+      "start": 10.05125,
+      "end": 11.27125,
+      "words": [
+        {
+          "word": "海",
+          "start": 10.05125,
+          "end": 10.31125,
+          "start_sample": 482460,
+          "end_sample": 494940,
+          "probability": 0.96337890625
+        },
+        {
+          "word": "王",
+          "start": 10.31125,
+          "end": 10.49125,
+          "start_sample": 494940,
+          "end_sample": 503580,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "星",
+          "start": 10.49125,
+          "end": 10.67125,
+          "start_sample": 503580,
+          "end_sample": 512220,
+          "probability": 0.75537109375
+        },
+        {
+          "word": "16",
+          "start": 10.67125,
+          "end": 11.01125,
+          "start_sample": 512220,
+          "end_sample": 528540,
+          "probability": 0.72802734375
+        },
+        {
+          "word": "颗",
+          "start": 11.01125,
+          "end": 11.27125,
+          "start_sample": 528540,
+          "end_sample": 541020,
+          "probability": 0.743408203125
+        }
+      ]
+    },
+    {
+      "segment_id": "S01-R11",
+      "start": 11.818458333333334,
+      "end": 13.938458333333333,
+      "words": [
+        {
+          "word": "三",
+          "start": 11.818458333333334,
+          "end": 12.118458333333333,
+          "start_sample": 567286,
+          "end_sample": 581686,
+          "probability": 0.75146484375
+        },
+        {
+          "word": "颗",
+          "start": 12.118458333333333,
+          "end": 12.278458333333333,
+          "start_sample": 581686,
+          "end_sample": 589366,
+          "probability": 0.979736328125
+        },
+        {
+          "word": "行",
+          "start": 12.278458333333333,
+          "end": 12.418458333333334,
+          "start_sample": 589366,
+          "end_sample": 596086,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "星",
+          "start": 12.418458333333334,
+          "end": 12.618458333333333,
+          "start_sample": 596086,
+          "end_sample": 605686,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "加",
+          "start": 12.618458333333333,
+          "end": 12.798458333333333,
+          "start_sample": 605686,
+          "end_sample": 614326,
+          "probability": 0.9521484375
+        },
+        {
+          "word": "起",
+          "start": 12.798458333333333,
+          "end": 12.938458333333333,
+          "start_sample": 614326,
+          "end_sample": 621046,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "来",
+          "start": 12.938458333333333,
+          "end": 13.058458333333334,
+          "start_sample": 621046,
+          "end_sample": 626806,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "3",
+          "start": 13.058458333333334,
+          "end": 13.238458333333334,
+          "start_sample": 626806,
+          "end_sample": 635446,
+          "probability": 0.91650390625
+        },
+        {
+          "word": "18",
+          "start": 13.238458333333334,
+          "end": 13.598458333333333,
+          "start_sample": 635446,
+          "end_sample": 652726,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "颗",
+          "start": 13.598458333333333,
+          "end": 13.938458333333333,
+          "start_sample": 652726,
+          "end_sample": 669046,
+          "probability": 0.928466796875
+        }
+      ]
+    },
+    {
+      "segment_id": "S01-R07",
+      "start": 14.527666666666667,
+      "end": 19.707666666666668,
+      "words": [
+        {
+          "word": "注意,",
+          "start": 14.527666666666667,
+          "end": 14.887666666666666,
+          "start_sample": 697328,
+          "end_sample": 714608,
+          "probability": 0.96142578125
+        },
+        {
+          "word": "这里",
+          "start": 15.127666666666666,
+          "end": 15.667666666666667,
+          "start_sample": 726128,
+          "end_sample": 752048,
+          "probability": 0.93115234375
+        },
+        {
+          "word": "数",
+          "start": 15.667666666666667,
+          "end": 15.847666666666667,
+          "start_sample": 752048,
+          "end_sample": 760688,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "的",
+          "start": 15.847666666666667,
+          "end": 15.967666666666666,
+          "start_sample": 760688,
+          "end_sample": 766448,
+          "probability": 0.91357421875
+        },
+        {
+          "word": "只是",
+          "start": 15.967666666666666,
+          "end": 16.127666666666666,
+          "start_sample": 766448,
+          "end_sample": 774128,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "已经",
+          "start": 16.127666666666666,
+          "end": 16.407666666666668,
+          "start_sample": 774128,
+          "end_sample": 787568,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "确",
+          "start": 16.407666666666668,
+          "end": 16.647666666666666,
+          "start_sample": 787568,
+          "end_sample": 799088,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "认",
+          "start": 16.647666666666666,
+          "end": 16.767666666666667,
+          "start_sample": 799088,
+          "end_sample": 804848,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "的",
+          "start": 16.767666666666667,
+          "end": 16.847666666666665,
+          "start_sample": 804848,
+          "end_sample": 808688,
+          "probability": 0.95947265625
+        },
+        {
+          "word": "卫",
+          "start": 16.847666666666665,
+          "end": 17.007666666666665,
+          "start_sample": 808688,
+          "end_sample": 816368,
+          "probability": 0.998046875
+        },
+        {
+          "word": "星,",
+          "start": 17.007666666666665,
+          "end": 17.207666666666668,
+          "start_sample": 816368,
+          "end_sample": 825968,
+          "probability": 1.0
+        },
+        {
+          "word": "土",
+          "start": 17.447666666666667,
+          "end": 17.887666666666668,
+          "start_sample": 837488,
+          "end_sample": 858608,
+          "probability": 0.9736328125
+        },
+        {
+          "word": "星",
+          "start": 17.887666666666668,
+          "end": 18.067666666666668,
+          "start_sample": 858608,
+          "end_sample": 867248,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "环",
+          "start": 18.067666666666668,
+          "end": 18.267666666666667,
+          "start_sample": 867248,
+          "end_sample": 876848,
+          "probability": 0.979736328125
+        },
+        {
+          "word": "里",
+          "start": 18.267666666666667,
+          "end": 18.36766666666667,
+          "start_sample": 876848,
+          "end_sample": 881648,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "那",
+          "start": 18.36766666666667,
+          "end": 18.487666666666666,
+          "start_sample": 881648,
+          "end_sample": 887408,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "些",
+          "start": 18.487666666666666,
+          "end": 18.607666666666667,
+          "start_sample": 887408,
+          "end_sample": 893168,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "数",
+          "start": 18.607666666666667,
+          "end": 18.767666666666667,
+          "start_sample": 893168,
+          "end_sample": 900848,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "不",
+          "start": 18.767666666666667,
+          "end": 18.887666666666668,
+          "start_sample": 900848,
+          "end_sample": 906608,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "清",
+          "start": 18.887666666666668,
+          "end": 18.987666666666666,
+          "start_sample": 906608,
+          "end_sample": 911408,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "的",
+          "start": 18.987666666666666,
+          "end": 19.107666666666667,
+          "start_sample": 911408,
+          "end_sample": 917168,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "冰",
+          "start": 19.107666666666667,
+          "end": 19.247666666666667,
+          "start_sample": 917168,
+          "end_sample": 923888,
+          "probability": 0.996337890625
+        },
+        {
+          "word": "块",
+          "start": 19.247666666666667,
+          "end": 19.407666666666668,
+          "start_sample": 923888,
+          "end_sample": 931568,
+          "probability": 0.990234375
+        },
+        {
+          "word": "不",
+          "start": 19.407666666666668,
+          "end": 19.547666666666668,
+          "start_sample": 931568,
+          "end_sample": 938288,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "算。",
+          "start": 19.547666666666668,
+          "end": 19.707666666666668,
+          "start_sample": 938288,
+          "end_sample": 945968,
+          "probability": 0.9912109375
+        }
+      ]
+    },
+    {
+      "segment_id": "S01-R08",
+      "start": 20.313291666666668,
+      "end": 23.153291666666668,
+      "words": [
+        {
+          "word": "而且",
+          "start": 20.313291666666668,
+          "end": 20.653291666666668,
+          "start_sample": 975038,
+          "end_sample": 991358,
+          "probability": 0.98779296875
+        },
+        {
+          "word": "这是",
+          "start": 20.653291666666668,
+          "end": 20.853291666666667,
+          "start_sample": 991358,
+          "end_sample": 1000958,
+          "probability": 0.96484375
+        },
+        {
+          "word": "当",
+          "start": 20.853291666666667,
+          "end": 21.013291666666667,
+          "start_sample": 1000958,
+          "end_sample": 1008638,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "时",
+          "start": 21.013291666666667,
+          "end": 21.173291666666668,
+          "start_sample": 1008638,
+          "end_sample": 1016318,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "的",
+          "start": 21.173291666666668,
+          "end": 21.273291666666665,
+          "start_sample": 1016318,
+          "end_sample": 1021118,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "记",
+          "start": 21.273291666666665,
+          "end": 21.433291666666666,
+          "start_sample": 1021118,
+          "end_sample": 1028798,
+          "probability": 0.98291015625
+        },
+        {
+          "word": "录",
+          "start": 21.433291666666666,
+          "end": 21.593291666666666,
+          "start_sample": 1028798,
+          "end_sample": 1036478,
+          "probability": 0.999755859375
+        },
+        {
+          "word": "这个",
+          "start": 22.033291666666667,
+          "end": 22.353291666666667,
+          "start_sample": 1057598,
+          "end_sample": 1072958,
+          "probability": 0.86376953125
+        },
+        {
+          "word": "数",
+          "start": 22.353291666666667,
+          "end": 22.513291666666667,
+          "start_sample": 1072958,
+          "end_sample": 1080638,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "字",
+          "start": 22.513291666666667,
+          "end": 22.673291666666668,
+          "start_sample": 1080638,
+          "end_sample": 1088318,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "还",
+          "start": 22.673291666666668,
+          "end": 22.853291666666667,
+          "start_sample": 1088318,
+          "end_sample": 1096958,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "在",
+          "start": 22.853291666666667,
+          "end": 22.973291666666668,
+          "start_sample": 1096958,
+          "end_sample": 1102718,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "变",
+          "start": 22.973291666666668,
+          "end": 23.153291666666668,
+          "start_sample": 1102718,
+          "end_sample": 1111358,
+          "probability": 0.9970703125
+        }
+      ]
+    }
+  ],
+  "word_bound_events": [
+    {
+      "action": "planet_value",
+      "label": "天王星",
+      "start": 6.17,
+      "end": 6.691333333333334,
+      "asr_word_indices": [
+        0,
+        2
+      ],
+      "phrase": "天王星",
+      "timing_source": "ASR + Claude waveform onset review 2026-10-14"
+    },
+    {
+      "action": "planet_value",
+      "label": "土星",
+      "start": 8.13,
+      "end": 8.468958333333333,
+      "asr_word_indices": [
+        0,
+        1
+      ],
+      "phrase": "土星",
+      "timing_source": "ASR + Claude waveform onset review 2026-10-14"
+    },
+    {
+      "action": "planet_value",
+      "label": "海王星",
+      "start": 10.18,
+      "end": 10.67125,
+      "asr_word_indices": [
+        0,
+        2
+      ],
+      "phrase": "海王星",
+      "timing_source": "ASR + Claude waveform onset review 2026-10-14"
+    },
+    {
+      "action": "total",
+      "start": 11.95,
+      "end": 13.058458333333334,
+      "asr_word_indices": [
+        0,
+        6
+      ],
+      "phrase": "三颗行星加起来",
+      "timing_source": "ASR + Claude waveform onset review 2026-10-14"
+    }
+  ],
+  "timing_source": "ASR + Claude waveform onset review 2026-10-14",
+  "manual_reviewed": false,
+  "protocol_amendment": "2026-10-14 approved natural narration; round event windows to nearest 30fps frame, preserve scene state order"
+}

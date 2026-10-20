@@ -1,0 +1,17 @@
+{
+ "case_id": "M07",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 6.9,
+ "frames_per_output": 207,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "在 assets/map.svg 底图上，按 assets/route.json 的路线逐段描边，并有一个点沿路线移动；说到哪个地点，该地点标签出现：公司 → 咖啡馆 → 公园 → 录音棚；终点显示“15 分钟”",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

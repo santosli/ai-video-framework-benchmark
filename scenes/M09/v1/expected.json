@@ -1,0 +1,17 @@
+{
+ "case_id": "M09",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 6.0,
+ "frames_per_output": 180,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "只有音乐，没有人声和字幕：用 assets/logo.svg 的图形组合出标志，再出现文字“木子San”和副标题“AI 实践”，最后定格；主要动作落在 assets/beats.json 给出的节拍上；音乐 0.3 秒淡入、结尾 1 秒淡出，峰值不超过 −1 dBFS",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

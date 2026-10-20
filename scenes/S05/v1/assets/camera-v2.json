@@ -1,0 +1,30 @@
+{
+  "fov_degrees": 45,
+  "radius": 8,
+  "azimuth_offset_degrees": 90,
+  "keyframes": [
+    {
+      "seconds": 0,
+      "azimuth_degrees": 90,
+      "elevation_degrees": 20
+    },
+    {
+      "seconds": 15,
+      "azimuth_degrees": 135,
+      "elevation_degrees": 30
+    },
+    {
+      "seconds": 30,
+      "azimuth_degrees": 90,
+      "elevation_degrees": 20
+    }
+  ],
+  "look_at": [
+    0,
+    0,
+    0
+  ],
+  "interpolation": "linear in angles; position=[r*sin(az)*cos(el),r*sin(el),r*cos(az)*cos(el)]",
+  "near": 0.1,
+  "far": 100
+}

@@ -1,0 +1,123 @@
+{
+  "case_id": "S01",
+  "version": 1,
+  "export_kind": "public-source-only",
+  "same_directory_for_both_frameworks": true,
+  "not_framework_result": true,
+  "original_manifest_sha256": "2a6038ec9a4434d3254a4f97475f67bd954bca0ea0ad0667dbb70b86596c513e",
+  "files": [
+    {
+      "path": "assets/captions-v1.json",
+      "sha256": "9673a863b1d19466b6b6b36901532739a4ad9de07c2f0afb332ea2df431c42e1",
+      "bytes": 23702,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/chart-reference.svg",
+      "sha256": "6f70640a2451b62f06988d9cee0962272c71672f3cf0e7572dce669bfeb0d7ab",
+      "bytes": 2311,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/data-v1.json",
+      "sha256": "a7895c8b6ef3f462fb643ee4188a23ded84d3fec5c83fdb574f380fb38c4b819",
+      "bytes": 464,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/events-v1.json",
+      "sha256": "eff0f9ea4be496ce7b016ee1e1b05bf07b15097763d4d5d8dbf670c9fec57af4",
+      "bytes": 23177,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/fonts/MiSans-Bold.ttf",
+      "sha256": "d0c1d327952ed935e86fb78a97a6c182b44f2c2b08777326786b1f8b26d1fe1e",
+      "bytes": 8009316,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/fonts/MiSans-license.pdf",
+      "sha256": "4a93a27cd2bd81b3b5ecfd0a853144a876fa26938a93a68443c67d74172fcb86",
+      "bytes": 79535,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/fonts/NOTICE.md",
+      "sha256": "1d693018307542cfec0deee538b94795060cddc7aa2de0cbc86646530dcacebc",
+      "bytes": 183,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/reference-frames.json",
+      "sha256": "daba0a46dfc2e1d4124d5f8c1c507a244f46e8979c3ddbead25f895988a7f805",
+      "bytes": 369,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/transcript-v1.txt",
+      "sha256": "26942a1f01d703029a314403e5d99219c915dbbfcde409c638eccc7fdc5d0944",
+      "bytes": 343,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/voice-v1.wav",
+      "sha256": "6f2a039db493d46340580c4a1fe1adbe461aa75df6b27fe1abf4ec6810975835",
+      "bytes": 2592044,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "brief.md",
+      "sha256": "b48eb2f568366b7b53fab03e520b555b54802a8e35ae94b71ea1177f59724a24",
+      "bytes": 677,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "captions.json",
+      "sha256": "9673a863b1d19466b6b6b36901532739a4ad9de07c2f0afb332ea2df431c42e1",
+      "bytes": 23702,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "events.json",
+      "sha256": "eff0f9ea4be496ce7b016ee1e1b05bf07b15097763d4d5d8dbf670c9fec57af4",
+      "bytes": 23177,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "expected.json",
+      "sha256": "35f9dc0f0216716b568a868fa1239179dd5bb9d6357df6551ff0b1182cde74b3",
+      "bytes": 1415,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "voice.wav",
+      "sha256": "6f2a039db493d46340580c4a1fe1adbe461aa75df6b27fe1abf4ec6810975835",
+      "bytes": 2592044,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "word-timing.json",
+      "sha256": "bfa5a0208173c4f4ee05b21d5e1cb62b49c0650e0cf5b7f007e69b4cb9ab2390",
+      "bytes": 40040,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    }
+  ],
+  "notice": "Missing media/fonts are explicitly listed. Replacement assets are a protocol adaptation, not byte-identical reproduction."
+}

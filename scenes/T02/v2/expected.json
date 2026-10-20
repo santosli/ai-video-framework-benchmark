@@ -1,0 +1,160 @@
+{
+  "case_id": "T02",
+  "version": 2,
+  "protocol_version": 6,
+  "source_revision": "2026-10-14-real-talk-01",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 43.03333333333333,
+  "frames_per_output": 1291,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "replacement_before_seconds": [
+      11.666666666666666,
+      22.366666666666667
+    ],
+    "replacement_after_seconds": [
+      11.666666666666666,
+      26.2
+    ],
+    "preserve_seconds": [
+      0,
+      11.666666666666666
+    ],
+    "shift_seconds": 3.8333333333333335,
+    "shifted_range_seconds": [
+      26.2,
+      43.03333333333333,
+      3.8333333333333335
+    ],
+    "auxiliary_asset_count": 4
+  },
+  "source_assembly": {
+    "seconds": 43.03333333333333,
+    "frames_at_30fps": 1291,
+    "parts": [
+      {
+        "source_id": "SANTOS002",
+        "source_in_seconds": 39.3,
+        "source_out_seconds": 50.96666666666667,
+        "output_in_seconds": 0,
+        "output_out_seconds": 11.666666666666666
+      },
+      {
+        "source_id": "V010x",
+        "source_in_seconds": 0,
+        "source_out_seconds": 14.533333333333333,
+        "output_in_seconds": 11.666666666666666,
+        "output_out_seconds": 26.2
+      },
+      {
+        "source_id": "SANTOS002",
+        "source_in_seconds": 61.666666666666664,
+        "source_out_seconds": 78.5,
+        "output_in_seconds": 26.2,
+        "output_out_seconds": 43.03333333333333
+      }
+    ]
+  },
+  "timing_tolerance_frames": 2,
+  "task_contract": "按 v2 的新锚点显示四份条件插图，V010x 实际时长及后段顺延已绑定本版底片，前段原声和出镜保留。 底片不含四份条件插图；参赛方必须读取本版 events.json 的 auxiliary_bindings，asset 按 start 出现、display_end 消失，end 仅表示锚点词语结束；插图身份正确、显隐起止误差 ≤2 帧。",
+  "acceptance": "按 v2 的新锚点显示四份条件插图，V010x 实际时长及后段顺延已绑定本版底片，前段原声和出镜保留。 底片不含四份条件插图；参赛方必须读取本版 events.json 的 auxiliary_bindings，asset 按 start 出现、display_end 消失，end 仅表示锚点词语结束；插图身份正确、显隐起止误差 ≤2 帧。 字幕按本版 captions.json 显示，真实语段完整，不变速、不掐音或语段内循环；画中画保护主体脸和双手。",
+  "source_visual_policy": "T02 RulesScene contains only the original Board background and camera movement, including V010x. Four complete condition PNGs are separate required contestant assets. Original host clips and their times are unchanged.",
+  "caption_windows": [
+    {
+      "id": "V008-c019",
+      "start": 0.273,
+      "end": 2.313
+    },
+    {
+      "id": "V008-c020",
+      "start": 2.313,
+      "end": 4.033
+    },
+    {
+      "id": "V009-c021",
+      "start": 4.413,
+      "end": 6.853
+    },
+    {
+      "id": "V009-c022",
+      "start": 6.853,
+      "end": 9.833
+    },
+    {
+      "id": "V009-c023",
+      "start": 9.833,
+      "end": 11.433
+    },
+    {
+      "id": "V010x-0",
+      "start": 12.047015065426997,
+      "end": 13.428280303030302
+    },
+    {
+      "id": "V010x-1",
+      "start": 14.429197141873278,
+      "end": 15.410095643939393
+    },
+    {
+      "id": "V010x-2",
+      "start": 15.91055406336088,
+      "end": 18.633047865013772
+    },
+    {
+      "id": "V010x-3",
+      "start": 19.15352462121212,
+      "end": 22.3764768422865
+    },
+    {
+      "id": "V010x-4",
+      "start": 23.517522038567492,
+      "end": 25.919722451790633
+    },
+    {
+      "id": "V011-c028",
+      "start": 26.331333,
+      "end": 28.981333
+    },
+    {
+      "id": "V011-c029",
+      "start": 28.981333,
+      "end": 30.681333
+    },
+    {
+      "id": "V011-c030",
+      "start": 30.681333,
+      "end": 32.141333
+    },
+    {
+      "id": "V011-c031",
+      "start": 32.141333,
+      "end": 34.101333
+    },
+    {
+      "id": "V011-c032",
+      "start": 34.101333,
+      "end": 35.521333
+    },
+    {
+      "id": "V012-c033",
+      "start": 35.965333,
+      "end": 37.855333
+    },
+    {
+      "id": "V012-c034",
+      "start": 37.855333,
+      "end": 40.515333
+    },
+    {
+      "id": "V012-c035",
+      "start": 40.515333,
+      "end": 42.595333
+    }
+  ],
+  "auxiliary_base_policy": "background_only"
+}

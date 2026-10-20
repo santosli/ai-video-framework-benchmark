@@ -1,0 +1,26 @@
+# T01 · v1 共用输入
+
+使用同目录给定人物、音轨、字幕与辅助素材完成本版口播视频。
+
+本版任务：按 gold.before 制作 5 条真实字幕并按 keywords.json 高亮；V004/V005 开场保留原声，不另加受测 cue。
+
+输出：1920×1080，30 fps，30.6 秒/918 帧；有声，给定共用音轨 48 kHz。
+输出列表：final.mp4。
+
+必要验收：逐条匹配 gold.before；按 gold.before 制作 5 条真实字幕并按 keywords.json 高亮；V004/V005 开场保留原声，不另加受测 cue。
+
+读取同目录 expected.json、events.json 及 input-manifest.json；文件接口映射见 required_asset_mapping。精确字幕、数据、事件及素材引用以本版结构化文件为准。
+
+编码：H.264/libx264/CRF 18/medium/yuv420p，捕获并发上限 4；两家使用相同参数。
+
+配色：浅底 #f4f7fb、深色正文 #172b45、蓝色强调 #2563eb。MiSans 原字体与许可保留在 assets/fonts/；参考 SVG/PNG 供内容检查，允许自选排版、动效及转场。
+
+本版源片段：SANTOS002[13,43.6) → [0,30.6) 秒。
+
+底片无音轨；使用独立 voice.wav（T06 按 audio-mix.json 混合三类轨与实际提示音）。
+
+visual_events 的 input_media / input_range_seconds 指向本目录实际可读源片；source_file 仅作原始素材溯源，不需访问包外路径。
+
+词时为共用自动转写，非逐词人工校准；输出验收对齐给定时间，误差 ≤2 帧（30 fps）。
+
+断行目标：同目录 t01-caption-layout-gold.json 的 gold.before（即各 cue 的 before 字段）；字号、字幕框和完整模型名/Canvas 不拆词规则按 gold。

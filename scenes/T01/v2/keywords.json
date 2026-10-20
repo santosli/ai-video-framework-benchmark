@@ -1,0 +1,134 @@
+{
+  "keywords": [
+    {
+      "anchor_id": "V006:4 个",
+      "cue_id": "c01",
+      "keyword": "4 个",
+      "start": 6.366666666666666,
+      "end": 6.6,
+      "source_anchor": {
+        "segment_id": "V006",
+        "phrase": "4 个",
+        "spoken_alias": "4个",
+        "start": 19.37472,
+        "end": 19.5949,
+        "method": "MMS_FA forced alignment",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "anchor_id": "V006:Qwen3-TTS",
+      "cue_id": "c02",
+      "keyword": "Qwen3-TTS",
+      "start": 10.366666666666667,
+      "end": 11.4,
+      "source_anchor": {
+        "segment_id": "V006",
+        "phrase": "Qwen3-TTS",
+        "spoken_alias": "千问3tts",
+        "start": 23.357976,
+        "end": 24.41,
+        "method": "MMS_FA forced alignment + reviewed waveform correction",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "anchor_id": "V006:IndexTTS 2.5",
+      "cue_id": "c02",
+      "keyword": "IndexTTS 2.5",
+      "start": 11.6,
+      "end": 12.866666666666667,
+      "source_anchor": {
+        "segment_id": "V006",
+        "phrase": "IndexTTS 2.5",
+        "spoken_alias": "indextts25",
+        "start": 24.61,
+        "end": 25.880038,
+        "method": "MMS_FA forced alignment + reviewed waveform correction",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "anchor_id": "V006:VoxCPM2",
+      "cue_id": "c02",
+      "keyword": "VoxCPM2",
+      "start": 13.566666666666666,
+      "end": 14.5,
+      "source_anchor": {
+        "segment_id": "V006",
+        "phrase": "VoxCPM2",
+        "spoken_alias": "voxcpm2",
+        "start": 26.580611,
+        "end": 27.501364,
+        "method": "MMS_FA forced alignment",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "anchor_id": "V006:CosyVoice 3",
+      "cue_id": "c02",
+      "keyword": "CosyVoice 3",
+      "start": 15.433333333333334,
+      "end": 16.166666666666668,
+      "source_anchor": {
+        "segment_id": "V006",
+        "phrase": "CosyVoice 3",
+        "spoken_alias": "cosyvoice3",
+        "start": 28.442133,
+        "end": 29.182738,
+        "method": "MMS_FA forced alignment",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "anchor_id": "V007:2 家",
+      "cue_id": "c03",
+      "keyword": "2 家",
+      "start": 17.266666666666666,
+      "end": 17.466666666666665,
+      "source_anchor": {
+        "segment_id": "V007",
+        "phrase": "2 家",
+        "spoken_alias": "2家",
+        "start": 30.26534,
+        "end": 30.465897,
+        "method": "MMS_FA forced alignment",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "anchor_id": "V007:Seed-TTS 2.0",
+      "cue_id": "c04",
+      "keyword": "Seed-TTS 2.0",
+      "start": 19.4,
+      "end": 20.566666666666666,
+      "source_anchor": {
+        "segment_id": "V007",
+        "phrase": "Seed-TTS 2.0",
+        "spoken_alias": "seedtts20",
+        "start": 32.391245,
+        "end": 33.554476,
+        "method": "MMS_FA forced alignment",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "anchor_id": "V007:MiniMax 的 Speech 2.8 HD",
+      "cue_id": "c04",
+      "keyword": "MiniMax 的 Speech 2.8 HD",
+      "start": 21.533333333333335,
+      "end": 23.3,
+      "source_anchor": {
+        "segment_id": "V007",
+        "phrase": "MiniMax 的 Speech 2.8 HD",
+        "spoken_alias": "minimax的speech28hd",
+        "start": 34.537206,
+        "end": 36.31,
+        "method": "MMS_FA forced alignment + reviewed waveform correction",
+        "manual_reviewed": false
+      }
+    }
+  ],
+  "color": "#2563eb",
+  "timing_tolerance_frames": 2
+}

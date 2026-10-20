@@ -1,0 +1,49 @@
+{
+  "aspect": 1.7777777777777777,
+  "fov_degrees": 40,
+  "keyframes": [
+    {
+      "seconds": 0,
+      "position": [
+        0,
+        0,
+        4
+      ],
+      "look_at": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "seconds": 15,
+      "position": [
+        1.5,
+        0.5,
+        4
+      ],
+      "look_at": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "seconds": 30,
+      "position": [
+        0,
+        0,
+        4
+      ],
+      "look_at": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "projection": "perspective",
+  "screen_uv": "front-facing positive Z, map upper-left source to upper-left visible screen; do not flip or stretch",
+  "screen_mesh_material": "screen",
+  "body_mesh_material": "body"
+}

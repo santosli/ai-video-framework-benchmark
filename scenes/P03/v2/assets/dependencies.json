@@ -1,0 +1,5 @@
+{
+  "react": "19.0.0",
+  "react-dom": "19.0.0",
+  "scope": "shared source QA dependency pins; framework environments locked separately"
+}

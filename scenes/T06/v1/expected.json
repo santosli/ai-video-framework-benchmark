@@ -1,0 +1,95 @@
+{
+  "case_id": "T06",
+  "version": 1,
+  "protocol_version": 6,
+  "source_revision": "2026-10-14-real-talk-01",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 39.43333333333333,
+  "frames_per_output": 1183,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "gain_change_db": 0,
+    "peak_ceiling_dbtp": -1,
+    "baseline_bgm_gain_db": -1.7307190797838252,
+    "gain_source": "audio-mix.json"
+  },
+  "source_assembly": {
+    "seconds": 39.43333333333333,
+    "frames_at_30fps": 1183,
+    "parts": [
+      {
+        "source_id": "SANTOS002",
+        "source_in_seconds": 96.36666666666666,
+        "source_out_seconds": 135.8,
+        "output_in_seconds": 0,
+        "output_out_seconds": 39.43333333333333
+      }
+    ]
+  },
+  "timing_tolerance_frames": 2,
+  "task_contract": "分轨混合真实主讲、MiniMax 试听、原版 BGM 和窗口内章节音效；主讲在试听期间静音；BGM 全程采用相同基线。",
+  "acceptance": "分轨混合真实主讲、MiniMax 试听、原版 BGM 和窗口内章节音效；主讲在试听期间静音；BGM 全程采用相同基线。 主讲在试听期间静音，三类独立轨与实际章节提示音按 audio-mix.json；真峰值 ≤-1 dBTP。",
+  "source_visual_policy": "Real host clips in original timeline host intervals; no host elsewhere; continuous caption-free published animation in non-host intervals; T04 tested condition headings omitted, V010x visual cues use actual retake clocks.",
+  "caption_windows": [
+    {
+      "id": "V015-c045",
+      "start": 0.171333,
+      "end": 1.541333
+    },
+    {
+      "id": "V015-c046",
+      "start": 1.541333,
+      "end": 4.121333
+    },
+    {
+      "id": "V015-c047",
+      "start": 4.121333,
+      "end": 7.361333
+    },
+    {
+      "id": "V018-c048",
+      "start": 7.731333,
+      "end": 10.731333
+    },
+    {
+      "id": "V018-c049",
+      "start": 10.731333,
+      "end": 12.571333
+    },
+    {
+      "id": "V018-c050",
+      "start": 12.571333,
+      "end": 14.291333
+    },
+    {
+      "id": "V018-c051",
+      "start": 14.291333,
+      "end": 16.331333
+    },
+    {
+      "id": "V018-c052",
+      "start": 16.331333,
+      "end": 19.371333
+    },
+    {
+      "id": "V019-c053",
+      "start": 32.473333,
+      "end": 33.903333
+    },
+    {
+      "id": "V019-c054",
+      "start": 33.903333,
+      "end": 35.703333
+    },
+    {
+      "id": "V019-c055",
+      "start": 35.703333,
+      "end": 37.383333
+    }
+  ]
+}

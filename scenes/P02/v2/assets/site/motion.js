@@ -1,0 +1,1 @@
+window.setTime=(t)=>{const p=Math.min(1,Math.max(0,t/1.5));document.getElementById("card").style.transform=`translateY(${(1-p)*40}px)`;document.getElementById("card").style.opacity=p;};window.setTime(8);

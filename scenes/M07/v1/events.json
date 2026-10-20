@@ -1,0 +1,32 @@
+{
+ "case_id": "M07",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 6.9,
+ "frames": 207,
+ "kind": "motion",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "从公司出发，先到咖啡馆。"
+  },
+  {
+   "id": "c02",
+   "text": "再穿过公园。"
+  },
+  {
+   "id": "c03",
+   "text": "15 分钟后，到达录音棚。"
+  }
+ ],
+ "clips": [],
+ "layout_requirements": [
+  "在 assets/map.svg 底图上，按 assets/route.json 的路线逐段描边，并有一个点沿路线移动",
+  "说到哪个地点，该地点标签出现：公司 → 咖啡馆 → 公园 → 录音棚；终点显示“15 分钟”"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

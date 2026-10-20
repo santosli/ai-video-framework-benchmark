@@ -1,0 +1,17 @@
+{
+ "case_id": "K09",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 10.433333333333334,
+ "frames_per_output": 313,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "人物全屏口播；说到“还有什么想了解的 / 也可以在评论区留言”时，依次弹出 assets/comment-1…3.png 三张评论截图卡；评论卡不挡人脸，文字清楚；“我是木子”前收起",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

@@ -1,0 +1,33 @@
+{
+ "columns": [
+  "工具",
+  "综合得分"
+ ],
+ "rows": [
+  {
+   "name": "A",
+   "score": 82
+  },
+  {
+   "name": "B",
+   "score": 75
+  },
+  {
+   "name": "C",
+   "score": 91
+  },
+  {
+   "name": "D",
+   "score": 68
+  },
+  {
+   "name": "E",
+   "score": 79
+  },
+  {
+   "name": "F",
+   "score": 71
+  }
+ ],
+ "highlight": "C"
+}

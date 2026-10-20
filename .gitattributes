@@ -1,0 +1,2 @@
+# Frozen input fixtures preserve historical trailing blank lines for SHA-256 fidelity.
+scenes/** whitespace=-blank-at-eof

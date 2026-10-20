@@ -1,0 +1,73 @@
+{
+ "case_id": "K07",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 7.633333333333334,
+ "frames": 229,
+ "kind": "talk",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "做视频离不开配音",
+   "clip": 1
+  },
+  {
+   "id": "c02",
+   "text": "测试采用盲听对比",
+   "clip": 2
+  },
+  {
+   "id": "c03",
+   "text": "但翻车最严重的是 MiniMax",
+   "clip": 3
+  },
+  {
+   "id": "c04",
+   "text": "一，梯队分水岭明显",
+   "clip": 4
+  }
+ ],
+ "clips": [
+  {
+   "order": 1,
+   "video": "assets/host-1.mp4",
+   "audio": "assets/voice-1.wav",
+   "frames": 43,
+   "seconds": 1.4333333333333333,
+   "note": null
+  },
+  {
+   "order": 2,
+   "video": "assets/host-2.mp4",
+   "audio": "assets/voice-2.wav",
+   "frames": 49,
+   "seconds": 1.6333333333333333,
+   "note": null
+  },
+  {
+   "order": 3,
+   "video": "assets/host-3.mp4",
+   "audio": "assets/voice-3.wav",
+   "frames": 80,
+   "seconds": 2.6666666666666665,
+   "note": null
+  },
+  {
+   "order": 4,
+   "video": "assets/host-4.mp4",
+   "audio": "assets/voice-4.wav",
+   "frames": 57,
+   "seconds": 1.9,
+   "note": null
+  }
+ ],
+ "layout_requirements": [
+  "把 4 段人物片段（host-1…host-4，各配 voice-1…voice-4）按顺序首尾相接做成开场快剪，片段之间不留空隙",
+  "每个剪点叠一次 assets/cut-sfx.wav 转场音效，并配合画面转场；剪点不能吃掉字头字尾"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

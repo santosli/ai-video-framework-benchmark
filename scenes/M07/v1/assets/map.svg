@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#eef2f7"/>
+<path id="park" d="M960 300 L1420 300 L1420 560 L960 560 Z" fill="#cfe8d5" stroke="#a7d3b3" stroke-width="4"/>
+<path id="river" d="M160 980 C 600 900, 1100 1040, 1760 940" fill="none" stroke="#bfdbfe" stroke-width="36"/>
+<line x1="160" y1="780" x2="1760" y2="780" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="160" y1="780" x2="1760" y2="780" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<line x1="160" y1="640" x2="1760" y2="640" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="160" y1="640" x2="1760" y2="640" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<line x1="160" y1="420" x2="1760" y2="420" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="160" y1="420" x2="1760" y2="420" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<line x1="160" y1="260" x2="1760" y2="260" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="160" y1="260" x2="1760" y2="260" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<line x1="260" y1="180" x2="260" y2="900" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="260" y1="180" x2="260" y2="900" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<line x1="720" y1="180" x2="720" y2="900" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="720" y1="180" x2="720" y2="900" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<line x1="900" y1="180" x2="900" y2="900" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="900" y1="180" x2="900" y2="900" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<line x1="1640" y1="180" x2="1640" y2="900" stroke="#d6dde8" stroke-width="30" stroke-linecap="round"/>
+<line x1="1640" y1="180" x2="1640" y2="900" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+<path id="park-path" d="M960 420 L1420 420" stroke="#ffffff" stroke-width="12" stroke-dasharray="18 14"/>
+</svg>

@@ -1,0 +1,123 @@
+{
+  "case_id": "T02",
+  "version": 1,
+  "protocol_version": 6,
+  "source_revision": "2026-10-14-real-talk-01",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 39.2,
+  "frames_per_output": 1176,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "auxiliary_asset_count": 4
+  },
+  "source_assembly": {
+    "seconds": 39.2,
+    "frames_at_30fps": 1176,
+    "parts": [
+      {
+        "source_id": "SANTOS002",
+        "source_in_seconds": 39.3,
+        "source_out_seconds": 78.5,
+        "output_in_seconds": 0,
+        "output_out_seconds": 39.2
+      }
+    ]
+  },
+  "timing_tolerance_frames": 2,
+  "task_contract": "按四个条件的真实词时显示四份完整条件插图，出镜按原片位置保留。 底片不含四份条件插图；参赛方必须读取本版 events.json 的 auxiliary_bindings，asset 按 start 出现、display_end 消失，end 仅表示锚点词语结束；插图身份正确、显隐起止误差 ≤2 帧。",
+  "acceptance": "按四个条件的真实词时显示四份完整条件插图，出镜按原片位置保留。 底片不含四份条件插图；参赛方必须读取本版 events.json 的 auxiliary_bindings，asset 按 start 出现、display_end 消失，end 仅表示锚点词语结束；插图身份正确、显隐起止误差 ≤2 帧。 字幕按本版 captions.json 显示，真实语段完整，不变速、不掐音或语段内循环；画中画保护主体脸和双手。",
+  "source_visual_policy": "T02 RulesScene contains only the original Board background and camera movement, including V010x. Four complete condition PNGs are separate required contestant assets. Original host clips and their times are unchanged.",
+  "caption_windows": [
+    {
+      "id": "V008-c019",
+      "start": 0.273,
+      "end": 2.313
+    },
+    {
+      "id": "V008-c020",
+      "start": 2.313,
+      "end": 4.033
+    },
+    {
+      "id": "V009-c021",
+      "start": 4.413,
+      "end": 6.853
+    },
+    {
+      "id": "V009-c022",
+      "start": 6.853,
+      "end": 9.833
+    },
+    {
+      "id": "V009-c023",
+      "start": 9.833,
+      "end": 11.433
+    },
+    {
+      "id": "V010-c024",
+      "start": 11.866,
+      "end": 13.676
+    },
+    {
+      "id": "V010-c025",
+      "start": 13.676,
+      "end": 15.736
+    },
+    {
+      "id": "V010-c026",
+      "start": 15.736,
+      "end": 18.776
+    },
+    {
+      "id": "V010-c027",
+      "start": 18.776,
+      "end": 22.116
+    },
+    {
+      "id": "V011-c028",
+      "start": 22.498,
+      "end": 25.148
+    },
+    {
+      "id": "V011-c029",
+      "start": 25.148,
+      "end": 26.848
+    },
+    {
+      "id": "V011-c030",
+      "start": 26.848,
+      "end": 28.308
+    },
+    {
+      "id": "V011-c031",
+      "start": 28.308,
+      "end": 30.268
+    },
+    {
+      "id": "V011-c032",
+      "start": 30.268,
+      "end": 31.688
+    },
+    {
+      "id": "V012-c033",
+      "start": 32.132,
+      "end": 34.022
+    },
+    {
+      "id": "V012-c034",
+      "start": 34.022,
+      "end": 36.682
+    },
+    {
+      "id": "V012-c035",
+      "start": 36.682,
+      "end": 38.762
+    }
+  ],
+  "auxiliary_base_policy": "background_only"
+}

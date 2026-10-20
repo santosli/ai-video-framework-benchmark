@@ -1,0 +1,33 @@
+{
+  "coordinate_system": "top-left pixels; right/bottom exclusive",
+  "width": 1080,
+  "height": 1920,
+  "top_status_bar": {
+    "x": 0,
+    "y": 0,
+    "width": 1080,
+    "height": 160
+  },
+  "right_interaction_column": {
+    "x": 900,
+    "y": 160,
+    "width": 180,
+    "height": 1760
+  },
+  "bottom_caption_area": {
+    "x": 0,
+    "y": 1500,
+    "width": 1080,
+    "height": 420
+  },
+  "content_rect": {
+    "x": 72,
+    "y": 192,
+    "width": 792,
+    "height": 1260
+  },
+  "minimum_text_px": 48,
+  "source": "SANTOS-003 本包保守约定，2026-10-14；仓库无通用抖音正文三分区数值。旧 T04 约定只适用于 T04，未改。非平台官方规范或上传回读。",
+  "native_layout_required": true,
+  "horizontal_crop_forbidden": true
+}

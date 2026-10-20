@@ -1,0 +1,30 @@
+{
+  "case_id": "P03",
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 30,
+  "frames_per_output": 900,
+  "audio": false,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "rows": 4,
+    "active_id": "03",
+    "added_label": null
+  },
+  "requirements": {
+    "preserve": [
+      "original_four_rows",
+      "original_done_state",
+      "30_seconds",
+      "style"
+    ],
+    "source_context": "react"
+  },
+  "protocol_version": 6,
+  "full_acceptance_requires_visible_content_motion_and_preservation_review": true,
+  "acceptance": "4 行及数字准确，活动项为 03；采用本版 props，保留结构/语义/视觉，记录依赖、包装和重写。"
+}

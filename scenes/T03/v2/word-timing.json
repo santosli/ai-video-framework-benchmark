@@ -1,0 +1,447 @@
+{
+  "words": [
+    {
+      "word": "你",
+      "start": 0,
+      "end": 0.3,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "现在",
+      "start": 0.3,
+      "end": 0.6,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "做",
+      "start": 0.6,
+      "end": 0.82,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "视",
+      "start": 0.82,
+      "end": 0.98,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "频",
+      "start": 0.98,
+      "end": 1.12,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "配",
+      "start": 1.12,
+      "end": 1.28,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "音",
+      "start": 1.28,
+      "end": 1.44,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "用",
+      "start": 1.44,
+      "end": 1.54,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "的",
+      "start": 1.54,
+      "end": 1.64,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "哪",
+      "start": 1.64,
+      "end": 1.76,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "家",
+      "start": 1.76,
+      "end": 1.98,
+      "speaker": "A",
+      "source_id": "A1"
+    },
+    {
+      "word": "豆",
+      "start": 2.7,
+      "end": 2.9200000000000004,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "包",
+      "start": 2.9200000000000004,
+      "end": 3.2,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "我",
+      "start": 4.48,
+      "end": 4.800000000000001,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "电",
+      "start": 4.800000000000001,
+      "end": 4.92,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "脑",
+      "start": 4.92,
+      "end": 5.1,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "没有",
+      "start": 5.1,
+      "end": 5.300000000000001,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "毒",
+      "start": 5.300000000000001,
+      "end": 5.48,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "显",
+      "start": 5.48,
+      "end": 5.74,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "本",
+      "start": 5.74,
+      "end": 6.26,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "地",
+      "start": 6.26,
+      "end": 6.4,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "模",
+      "start": 6.4,
+      "end": 6.54,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "型",
+      "start": 6.54,
+      "end": 6.7,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "跑",
+      "start": 6.7,
+      "end": 6.86,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "不",
+      "start": 6.86,
+      "end": 7.0,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "动",
+      "start": 7.0,
+      "end": 7.140000000000001,
+      "speaker": "B",
+      "source_id": "B1"
+    },
+    {
+      "word": "就是",
+      "start": 7.78,
+      "end": 8.1,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "不知道",
+      "start": 8.1,
+      "end": 8.42,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "一",
+      "start": 8.42,
+      "end": 8.56,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "期",
+      "start": 8.56,
+      "end": 8.68,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "下",
+      "start": 8.68,
+      "end": 8.84,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "来",
+      "start": 8.84,
+      "end": 8.96,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "要",
+      "start": 8.96,
+      "end": 9.08,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "花",
+      "start": 9.08,
+      "end": 9.2,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "多少",
+      "start": 9.2,
+      "end": 9.42,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "钱",
+      "start": 9.42,
+      "end": 9.68,
+      "speaker": "B",
+      "source_id": "BX"
+    },
+    {
+      "word": "那",
+      "start": 10.98,
+      "end": 11.3,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "选",
+      "start": 11.3,
+      "end": 11.46,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "豆",
+      "start": 11.46,
+      "end": 11.56,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "包",
+      "start": 11.56,
+      "end": 11.7,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "没",
+      "start": 11.7,
+      "end": 11.84,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "问题",
+      "start": 11.84,
+      "end": 12.120000000000001,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "它",
+      "start": 12.7,
+      "end": 12.84,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "跟",
+      "start": 12.84,
+      "end": 12.98,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "第一",
+      "start": 12.98,
+      "end": 13.2,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "名",
+      "start": 13.2,
+      "end": 13.379999999999999,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "几",
+      "start": 13.379999999999999,
+      "end": 13.56,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "乎",
+      "start": 13.56,
+      "end": 13.66,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "打",
+      "start": 13.66,
+      "end": 13.78,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "平",
+      "start": 13.78,
+      "end": 14.02,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "一",
+      "start": 15.02,
+      "end": 15.34,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "期",
+      "start": 15.34,
+      "end": 15.46,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "六",
+      "start": 15.46,
+      "end": 15.6,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "分",
+      "start": 15.6,
+      "end": 15.780000000000001,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "钟",
+      "start": 15.780000000000001,
+      "end": 15.879999999999999,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "的",
+      "start": 15.879999999999999,
+      "end": 15.98,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "视",
+      "start": 15.98,
+      "end": 16.12,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "频",
+      "start": 16.12,
+      "end": 16.34,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "花",
+      "start": 16.56,
+      "end": 16.88,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "不到",
+      "start": 16.88,
+      "end": 17.1,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "一",
+      "start": 17.1,
+      "end": 17.240000000000002,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "块",
+      "start": 17.240000000000002,
+      "end": 17.38,
+      "speaker": "A",
+      "source_id": "A2"
+    },
+    {
+      "word": "钱",
+      "start": 17.38,
+      "end": 17.58,
+      "speaker": "A",
+      "source_id": "A2"
+    }
+  ],
+  "manual_reviewed": false,
+  "method": "selected real audio forced alignment in explicit handoff"
+}

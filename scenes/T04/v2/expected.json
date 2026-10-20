@@ -1,0 +1,111 @@
+{
+  "case_id": "T04",
+  "version": 2,
+  "protocol_version": 6,
+  "source_revision": "2026-10-14-real-talk-01",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "seconds_per_output": 33.7,
+  "frames_per_output": 1011,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "cards": [
+      "同一个声音",
+      "同一段文字"
+    ],
+    "source_face_protection": "protected-region.json"
+  },
+  "source_assembly": {
+    "seconds": 33.7,
+    "frames_at_30fps": 1011,
+    "parts": [
+      {
+        "source_id": "SANTOS002",
+        "source_in_seconds": 37.56666666666667,
+        "source_out_seconds": 71.26666666666667,
+        "output_in_seconds": 0,
+        "output_out_seconds": 33.7
+      }
+    ]
+  },
+  "timing_tolerance_frames": 2,
+  "task_contract": "原生重排为 1080×1920：人物头部/双手、两张卡和真实字幕完整；按本版保护区，禁止机械缩小整片。",
+  "acceptance": "原生重排为 1080×1920：人物头部/双手、两张卡和真实字幕完整；按本版保护区，禁止机械缩小整片。 给定字幕/高亮/素材事件误差 ≤2 帧，真实语段完整，无掐音或语段内循环。",
+  "source_visual_policy": "Real host clips in original timeline host intervals; no host elsewhere; continuous caption-free published animation in non-host intervals; T04 tested condition headings omitted, V010x visual cues use actual retake clocks.",
+  "caption_windows": [
+    {
+      "id": "V008-c019",
+      "start": 2.006333,
+      "end": 4.046333
+    },
+    {
+      "id": "V008-c020",
+      "start": 4.046333,
+      "end": 5.766333
+    },
+    {
+      "id": "V009-c021",
+      "start": 6.146333,
+      "end": 8.586333
+    },
+    {
+      "id": "V009-c022",
+      "start": 8.586333,
+      "end": 11.566333
+    },
+    {
+      "id": "V009-c023",
+      "start": 11.566333,
+      "end": 13.166333
+    },
+    {
+      "id": "V010-c024",
+      "start": 13.599333,
+      "end": 15.409333
+    },
+    {
+      "id": "V010-c025",
+      "start": 15.409333,
+      "end": 17.469333
+    },
+    {
+      "id": "V010-c026",
+      "start": 17.469333,
+      "end": 20.509333
+    },
+    {
+      "id": "V010-c027",
+      "start": 20.509333,
+      "end": 23.849333
+    },
+    {
+      "id": "V011-c028",
+      "start": 24.231333,
+      "end": 26.881333
+    },
+    {
+      "id": "V011-c029",
+      "start": 26.881333,
+      "end": 28.581333
+    },
+    {
+      "id": "V011-c030",
+      "start": 28.581333,
+      "end": 30.041333
+    },
+    {
+      "id": "V011-c031",
+      "start": 30.041333,
+      "end": 32.001333
+    },
+    {
+      "id": "V011-c032",
+      "start": 32.001333,
+      "end": 33.421333
+    }
+  ]
+}

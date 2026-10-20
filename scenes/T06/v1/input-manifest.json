@@ -1,0 +1,130 @@
+{
+  "case_id": "T06",
+  "version": 1,
+  "export_kind": "public-source-only",
+  "same_directory_for_both_frameworks": true,
+  "not_framework_result": true,
+  "original_manifest_sha256": "d90d59b52bd72dc85407b83a9d08ac0583e501d0c015fb82b31a0bbaef6052d9",
+  "files": [
+    {
+      "path": "assets/bgm.wav",
+      "sha256": "b66ed90a04376bffd35ca381ad2c1e181972195c9d59c2135fe6b2fd93b1c1e2",
+      "bytes": 7571244,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/chapter-cue.wav",
+      "sha256": "c62234f507e1712053a864398784b6764b1ec6576507fd6da9ae9406a64ef1cd",
+      "bytes": 110442,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/fonts/MiSans-Bold.ttf",
+      "sha256": "d0c1d327952ed935e86fb78a97a6c182b44f2c2b08777326786b1f8b26d1fe1e",
+      "bytes": 8009316,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/fonts/MiSans-license.pdf",
+      "sha256": "4a93a27cd2bd81b3b5ecfd0a853144a876fa26938a93a68443c67d74172fcb86",
+      "bytes": 79535,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/fonts/NOTICE.md",
+      "sha256": "1d693018307542cfec0deee538b94795060cddc7aa2de0cbc86646530dcacebc",
+      "bytes": 183,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "assets/host.mp4",
+      "sha256": "fa266b67dd5afbf2e9ddfbd7bdf3dbb54099eb97cd2916e3ffeae3ed6b50b444",
+      "bytes": 16231223,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/reference-mix.wav",
+      "sha256": "035c5af6e417113e34a727c2c17547bef7a58064001361e078cb976a5496c62a",
+      "bytes": 7571244,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/sample.wav",
+      "sha256": "7628f4d013f86da1877d9293aad4bb3bc4c248b274069ee318c6a8623968a207",
+      "bytes": 3785644,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "assets/voice.wav",
+      "sha256": "2c00de32f0816a1356d521f82c50d6bb397b2497ab502a50caa32d61cff39943",
+      "bytes": 3785644,
+      "included": false,
+      "supply": "Bring a lawful asset at this relative path, or generate from the included SVG where applicable; record deviations."
+    },
+    {
+      "path": "audio-mix.json",
+      "sha256": "6b5adaece8de62d4541e48ea806aa37ccb8115e6167ff945ada8bc5ab7cb6677",
+      "bytes": 2097,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "brief.md",
+      "sha256": "b9ba67ea5163730b0ad7ef063580b9c457b480b65ec3fdd70f86d0fea1fa6576",
+      "bytes": 1641,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "captions.json",
+      "sha256": "13d16bebc6ada8014c28a87a46c6c31df602bd33b8e68f1e6e2d4acb358fc874",
+      "bytes": 2149,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "events.json",
+      "sha256": "7a83fe844b7b7f64f9242c183229877d314eb672092aa48503a30c68a57aeb76",
+      "bytes": 7553,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "expected.json",
+      "sha256": "ce3c6e31e6e8a96cbd73efe43b839864c73439cf90d7c4d643b5ee4a011c905a",
+      "bytes": 2474,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "protected-region.json",
+      "sha256": "c4ac27ed6ae16c68385603f690d25ffb6cf531700be46e92ce6a7df1ce874f22",
+      "bytes": 149834,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "safe-areas.json",
+      "sha256": "215ed4c1599aa897973e7fe9e2adb6a2e165116418f69b35cdd31a49ef5f3d49",
+      "bytes": 597,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "word-timing.json",
+      "sha256": "29bdfe87bb924d52e81741f0179e36e6c2e5afa29f8882bd3c403577ab4cdb14",
+      "bytes": 24060,
+      "included": true,
+      "license_scope": "authored-fixture; see THIRD_PARTY_NOTICES.md"
+    }
+  ],
+  "notice": "Missing media/fonts are explicitly listed. Replacement assets are a protocol adaptation, not byte-identical reproduction."
+}

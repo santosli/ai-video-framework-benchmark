@@ -1,0 +1,654 @@
+{
+  "original_prompt_count": 108,
+  "source": "Frozen TASK.md files from the 108 formal repeat-1 runs; each SHA-256 verified against its original run record. No private conversation logs redistributed.",
+  "runs": [
+    {
+      "run_id": "T01-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T01-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T01-remotion-r1-revision",
+      "task_sha256": "db6350ceeb5b200e0e1bf9b62a0d3d53c4b7f4193b100711fa0fefca1aa4f449",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T01-hyperframes-r1-revision",
+      "task_sha256": "d70db923b4419bd71bbd6fef8f9b7b211302e0a05315df01bdd64a7b7a2d0d3a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T02-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T02-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T02-remotion-r1-revision",
+      "task_sha256": "a85214393e927cc4663acf4d2ccd5b5b99f06b8021bcd7e09fd196a898870585",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T02-hyperframes-r1-revision",
+      "task_sha256": "75eb6e0baf561b0cca69cca6cd6d2e1e606a77735b7d9d3a347961186a5bff29",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T03-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T03-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T03-remotion-r1-revision",
+      "task_sha256": "8412dc931e548ddd50fa8dcb88cf296a603b1bf851f7aedcc4ec4e6bc2751f82",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T03-hyperframes-r1-revision",
+      "task_sha256": "00d658e1457590379b259aad2952c2797487e67650bef60ec80bd681fdf28425",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T04-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T04-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T04-remotion-r1-revision",
+      "task_sha256": "68451bf4e5e0d919642733b3a235116db543a0e98873c5eecc680e09aa5cd619",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T04-hyperframes-r1-revision",
+      "task_sha256": "421092c31f2dea9d58cc351fe96ad40dabffcef56168a501e0234d9edc33ec4a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T05-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T05-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T05-remotion-r1-revision",
+      "task_sha256": "523d829578a7297241cfea8b6ef44706ea42484a0da22a94ec990e4071d8bb5b",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T05-hyperframes-r1-revision",
+      "task_sha256": "b53c8c9fc6d278ce40d05f42470f57652b66884ef9e55f28912f220597cb26c9",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T06-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T06-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T06-remotion-r1-revision",
+      "task_sha256": "f241931acd82d1daa464a6302879ee9884d79a54e784c822564449ac3316e822",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "T06-hyperframes-r1-revision",
+      "task_sha256": "5f52031ef43e09342ed6db898be1fd99d763433d6a82103ddb21e7dc7d56e77b",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S01-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S01-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S01-remotion-r1-revision",
+      "task_sha256": "ff3455d8b08a52ed023b8aee60345e844016419ed5550b9564e4ffa6d6c8eebc",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S01-hyperframes-r1-revision",
+      "task_sha256": "599e86234e2f967de361c6a7ccfbea1b8d1863868b3239ec48b5d277201318ec",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S02-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S02-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S02-remotion-r1-revision",
+      "task_sha256": "0b78907c7f14b36a5fb29f1e7694aeee1984593ee4893d7901431f90bc0bb891",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S02-hyperframes-r1-revision",
+      "task_sha256": "77be25f3110079853c58e64ba9aca20e9228052d74bce9cd03174c4e5cb34a7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S03-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S03-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S03-remotion-r1-revision",
+      "task_sha256": "46ef23b88d72de9f63cec9e5243a833a2737edfcc26c7cb6d3c162dd522c85b8",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S03-hyperframes-r1-revision",
+      "task_sha256": "4cb3ad6ffbe1283304e3f5c70555df428fda098585fc07e141c33a6cfcd9d1e4",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S04-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S04-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S04-remotion-r1-revision",
+      "task_sha256": "d38e7a4bf5f2eaea8705c6f34a7da0a3e86ff3924d5ac705ec0a1da92921cd26",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S04-hyperframes-r1-revision",
+      "task_sha256": "95e3dfe8f495987542153d60400a4fe76d5bac7ab4526186ca57c3d5e0d7fcc0",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S05-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S05-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S05-remotion-r1-revision",
+      "task_sha256": "21f30c4e63e5cd676065deaeb9076155639465082b61c94aa4f7d1d613e35f21",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S05-hyperframes-r1-revision",
+      "task_sha256": "aea8d8833371f7b4b9a748608e9aa4e7073d546fba3a0b10de5121032196573e",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S06-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S06-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S06-remotion-r1-revision",
+      "task_sha256": "218336bb10051a00199dc75a7a75bc78855483b37425e2d3a815b1af0d113f4d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "S06-hyperframes-r1-revision",
+      "task_sha256": "bc58110d80e0d9e9e41e1ad4a7e14fbe62ac582b1810d4fa2a30a63be7863c02",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P01-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P01-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P01-remotion-r1-revision",
+      "task_sha256": "eeb5f6abde0588464b6b47dd894d40d3352035d0609bf41561e474094f991f7a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P01-hyperframes-r1-revision",
+      "task_sha256": "61f3b4ecdf373676e751b90894697507aa8e9fe8323fe3551dd338025384b5f2",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": true
+    },
+    {
+      "run_id": "P02-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P02-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P02-remotion-r1-revision",
+      "task_sha256": "703bebfff786adf68fa2e7651d51b23e25d05a3281ea44245219355adeba1258",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P02-hyperframes-r1-revision",
+      "task_sha256": "efc98775cc56aca22380609f01e647e0dfe7b1414b75edbbffe87c6c482c27de",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P03-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P03-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P03-remotion-r1-revision",
+      "task_sha256": "b9b063f952bb849e2d84761c195b245d3421b0a976b4a3971354a4f8313b6d24",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P03-hyperframes-r1-revision",
+      "task_sha256": "112cc638173497e5b24a450de7d5b6c2c3e6c5199f11c797e78ab886752dafa6",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P04-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P04-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P04-remotion-r1-revision",
+      "task_sha256": "f8c87b47d5430f192249fffe8c15a6e68cbb82f7de56bbaffa1ff50d35215003",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P04-hyperframes-r1-revision",
+      "task_sha256": "320cead7f0adde26a76045a4e48d87e406ca3d757160fd2f2c10803eaed60185",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P05-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P05-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P05-remotion-r1-revision",
+      "task_sha256": "ec4f2b5d94e44e36fbca6e2f1baf51607ef45042017ba3c156d806e675db2df1",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P05-hyperframes-r1-revision",
+      "task_sha256": "e853ea72e1e3c392bb168d5cd7130f8d7ac7af4f5c75b613ae9c1435916301e8",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P06-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P06-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P06-remotion-r1-revision",
+      "task_sha256": "fc8fb1abcbe06db2e0cc6aa4be444dfec353ef106fbee22709eb242626a2121f",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "P06-hyperframes-r1-revision",
+      "task_sha256": "1b732967e5e9ee9086b0909f42bb190aa667c0aff02ee431ba17e604179b8593",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K01-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K01-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K02-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K02-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K03-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K03-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K04-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K04-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K05-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K05-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K06-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K06-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K07-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K07-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K08-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K08-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K09-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "K09-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M01-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M01-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M02-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M02-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M03-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M03-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M04-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M04-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M05-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M05-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M06-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M06-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M07-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M07-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M08-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M08-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M09-remotion-r1-initial",
+      "task_sha256": "a08f4d084698252996e87e1bef99952f99c7a8724d3304ca68ba089d39035c7d",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    },
+    {
+      "run_id": "M09-hyperframes-r1-initial",
+      "task_sha256": "2bcbc1f1bb5783ae5b576fdb28b4a38ce9bfbc39e630e71bbfbdec11bca9593a",
+      "shared_inputs_identical_between_frameworks": true,
+      "reconstructed_from_runner_template_and_verified": false
+    }
+  ]
+}

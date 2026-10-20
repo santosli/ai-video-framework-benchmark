@@ -1,0 +1,14 @@
+{
+  "waiting": {
+    "label": "等待",
+    "shape": "circle"
+  },
+  "processing": {
+    "label": "处理中",
+    "shape": "star"
+  },
+  "done": {
+    "label": "完成",
+    "shape": "rounded_rectangle"
+  }
+}

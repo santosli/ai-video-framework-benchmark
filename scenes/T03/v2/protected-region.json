@@ -1,0 +1,4 @@
+{
+  "rule": "Measure actual A/B faces from selected clips; map them into the final layout without crop/occlusion.",
+  "source_face_protection": []
+}

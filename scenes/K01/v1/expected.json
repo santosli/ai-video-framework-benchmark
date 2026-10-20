@@ -1,0 +1,17 @@
+{
+ "case_id": "K01",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 11.466666666666667,
+ "frames_per_output": 344,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "人物画面跟着口播在三种版式间切换：第 1–2 句大卡（人物全屏），第 3 句中卡（人物约占半屏，另一侧要点卡“条件 1：同一个声音”），第 4–5 句小卡（人物缩成小窗，主画面是 assets/condition-1.png）；切换在句间完成，人物缩小后脸和双手完整不被裁切",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

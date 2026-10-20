@@ -1,0 +1,34 @@
+{
+  "seconds": 45,
+  "page": "page-v2.png",
+  "regions": "regions-v2.json",
+  "events": [
+    {
+      "start": 0,
+      "end": 5,
+      "region": "opening"
+    },
+    {
+      "start": 5,
+      "end": 15,
+      "region": "focus1"
+    },
+    {
+      "start": 15,
+      "end": 24,
+      "region": "focus2"
+    },
+    {
+      "start": 24,
+      "end": 35,
+      "region": "inserted"
+    },
+    {
+      "start": 35,
+      "end": 45,
+      "region": "cta"
+    }
+  ],
+  "transitions": "continuous scrolling, settle on each target, read text after settling",
+  "readable_hold_seconds_min": 3
+}

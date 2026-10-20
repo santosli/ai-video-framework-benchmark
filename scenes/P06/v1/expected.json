@@ -1,0 +1,111 @@
+{
+  "case_id": "P06",
+  "version": 1,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "seconds_per_output": 15,
+  "frames_per_output": 450,
+  "audio": false,
+  "outputs": [
+    "V01.mp4",
+    "V02.mp4",
+    "V03.mp4",
+    "V04.mp4",
+    "V05.mp4"
+  ],
+  "witness": {
+    "V03_title": "任务计划清楚安排",
+    "V03_price": 32
+  },
+  "requirements": {
+    "outputs": [
+      "V01.mp4",
+      "V02.mp4",
+      "V03.mp4",
+      "V04.mp4",
+      "V05.mp4"
+    ],
+    "variants": [
+      {
+        "id": "V01",
+        "title": "任务计划清楚安排",
+        "price": 24,
+        "currency": "CNY",
+        "icon": "icons/1.svg",
+        "accent": "#2563eb"
+      },
+      {
+        "id": "V02",
+        "title": "任务计划清楚安排",
+        "price": 26,
+        "currency": "CNY",
+        "icon": "icons/2.svg",
+        "accent": "#2563eb"
+      },
+      {
+        "id": "V03",
+        "title": "任务计划清楚安排",
+        "price": 32,
+        "currency": "CNY",
+        "icon": "icons/3.svg",
+        "accent": "#2563eb"
+      },
+      {
+        "id": "V04",
+        "title": "任务计划清楚安排",
+        "price": 30,
+        "currency": "CNY",
+        "icon": "icons/4.svg",
+        "accent": "#2563eb"
+      },
+      {
+        "id": "V05",
+        "title": "任务计划清楚安排",
+        "price": 32,
+        "currency": "CNY",
+        "icon": "icons/5.svg",
+        "accent": "#2563eb"
+      }
+    ],
+    "same_template_all_variants": true,
+    "safe_areas": {
+      "coordinate_system": "top-left pixels; right/bottom exclusive",
+      "width": 1080,
+      "height": 1920,
+      "top_status_bar": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 160
+      },
+      "right_interaction_column": {
+        "x": 900,
+        "y": 160,
+        "width": 180,
+        "height": 1760
+      },
+      "bottom_caption_area": {
+        "x": 0,
+        "y": 1500,
+        "width": 1080,
+        "height": 420
+      },
+      "content_rect": {
+        "x": 72,
+        "y": 192,
+        "width": 792,
+        "height": 1260
+      },
+      "minimum_text_px": 48,
+      "source": "SANTOS-003 本包保守约定，2026-10-14；仓库无通用抖音正文三分区数值。旧 T04 约定只适用于 T04，未改。非平台官方规范或上传回读。",
+      "native_layout_required": true,
+      "horizontal_crop_forbidden": true
+    },
+    "minimum_title_px": 48,
+    "same_wrap_rules_all_five": true
+  },
+  "protocol_version": 6,
+  "full_acceptance_requires_visible_content_motion_and_preservation_review": true,
+  "acceptance": "5 份输出均完整，标题、价格、图标对应各版数据；V03 标题为“任务计划清楚安排”、价格 32；同模板、同字号规则，无串版、溢出或遮挡。"
+}

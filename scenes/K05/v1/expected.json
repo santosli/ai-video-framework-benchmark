@@ -1,0 +1,17 @@
+{
+ "case_id": "K05",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 12.133333333333333,
+ "frames_per_output": 364,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "开头人物全屏，第 1 句说到“对战数据表”时切成左右分屏：一侧人物，一侧 assets/table.png 对战表截图；分屏比例自定，人物脸和双手、表格文字都完整清楚，两边不互相挤压",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

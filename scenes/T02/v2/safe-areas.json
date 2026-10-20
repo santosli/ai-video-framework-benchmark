@@ -1,0 +1,45 @@
+{
+  "coordinates": "content_rect uses xyxy; caption_rect uses xywh",
+  "landscape_content_rect": [
+    72,
+    72,
+    1848,
+    1040
+  ],
+  "landscape_caption_rect": [
+    240,
+    900,
+    1440,
+    140
+  ],
+  "portrait_content_rect": [
+    72,
+    192,
+    864,
+    1452
+  ],
+  "portrait_caption_rect": [
+    72,
+    1290,
+    792,
+    162
+  ],
+  "portrait_person_y": [
+    192,
+    940
+  ],
+  "portrait_cards_y": [
+    980,
+    1260
+  ],
+  "portrait_captions_y": [
+    1290,
+    1452
+  ],
+  "excluded": {
+    "top": 160,
+    "right": 180,
+    "bottom": 420
+  },
+  "minimum_body_font_px": 48
+}

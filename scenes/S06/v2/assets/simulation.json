@@ -1,0 +1,20 @@
+{
+  "fps": 30,
+  "frames": 780,
+  "water_speed_pixels_per_second": 56,
+  "impurity_speed_pixels_per_second": 65,
+  "alum_start_seconds": 10,
+  "cohort_interval_seconds": 1.5,
+  "aggregation_seconds": 2,
+  "filter_x": 670,
+  "particle_capture_center_max_x": 651,
+  "coordinate_system": [
+    960,
+    540
+  ],
+  "duration_independent_trajectories": true,
+  "original_programmatic_schematic": true,
+  "no_ai_video": true,
+  "no_third_party_images": true,
+  "no_retiming_freeze_or_clip_loop": true
+}

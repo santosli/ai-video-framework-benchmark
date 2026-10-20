@@ -1,0 +1,100 @@
+{
+  "font_size_px": 56,
+  "box": {
+    "x": 240,
+    "y": 900,
+    "width": 1440,
+    "height": 140
+  },
+  "minimum_changed_cues": 4,
+  "maximum_characters_per_line": 16,
+  "line_length_rule": "汉字与全角标点每字 1，ASCII 非空白每字符 0.5，空格不计；上限 16 等宽汉字单位，另核实际 MiSans 像素宽度。模型名必须作为完整词组。",
+  "indivisible_tokens": [
+    "Canvas",
+    "Qwen3-TTS",
+    "IndexTTS 2.5",
+    "VoxCPM2",
+    "CosyVoice 3",
+    "Seed-TTS 2.0",
+    "MiniMax Speech 2.8 HD",
+    "MiniMax 的 Speech 2.8 HD"
+  ],
+  "latin_token_rule": "All listed model names and Canvas are indivisible; preserve spaces around Latin names",
+  "timing_tolerance_frames": 2,
+  "cues": [
+    {
+      "id": "c01",
+      "segment_id": "V006",
+      "text": "开源挑了 4 个目前用的人最多、关注度最高的，分别是：",
+      "before": [
+        "开源挑了 4 个目前用的人最多、关注度最高的，",
+        "分别是："
+      ],
+      "after": [
+        "开源挑了 4 个目前用的人最多、",
+        "关注度最高的，分别是："
+      ],
+      "start": 5.7,
+      "end": 10.0
+    },
+    {
+      "id": "c02",
+      "segment_id": "V006",
+      "text": "Qwen3-TTS、IndexTTS 2.5、VoxCPM2，还有 CosyVoice 3。",
+      "before": [
+        "Qwen3-TTS、IndexTTS 2.5、VoxCPM2，",
+        "还有 CosyVoice 3。"
+      ],
+      "after": [
+        "Qwen3-TTS、IndexTTS 2.5、",
+        "VoxCPM2，还有 CosyVoice 3。"
+      ],
+      "start": 10.0,
+      "end": 16.3
+    },
+    {
+      "id": "c03",
+      "segment_id": "V007",
+      "text": "闭源挑了 2 家大厂的主流代表：",
+      "before": [
+        "闭源挑了 2 家大厂的",
+        "主流代表："
+      ],
+      "after": [
+        "闭源挑了 2 家大厂的主流代表："
+      ],
+      "start": 16.633333333333333,
+      "end": 18.5
+    },
+    {
+      "id": "c04",
+      "segment_id": "V007",
+      "text": "豆包的 Seed-TTS 2.0，以及 MiniMax 的 Speech 2.8 HD。",
+      "before": [
+        "豆包的 Seed-TTS 2.0，以及",
+        "MiniMax 的 Speech 2.8 HD。"
+      ],
+      "after": [
+        "豆包的 Seed-TTS 2.0，",
+        "以及 MiniMax 的 Speech 2.8 HD。"
+      ],
+      "start": 18.5,
+      "end": 23.433333333333334
+    },
+    {
+      "id": "c05",
+      "segment_id": "V008",
+      "text": "为了保证“比赛”尽量客观，这次测试统一了四个条件：",
+      "before": [
+        "为了保证“比赛”尽量客观，",
+        "这次测试统一了四个条件："
+      ],
+      "after": [
+        "为了保证“比赛”尽量客观，",
+        "这次测试统一了四个条件："
+      ],
+      "start": 26.566666666666666,
+      "end": 30.333333333333332
+    }
+  ]
+}

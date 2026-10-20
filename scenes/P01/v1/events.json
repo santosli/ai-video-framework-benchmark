@@ -1,0 +1,36 @@
+{
+  "fps": 30,
+  "duration_seconds": 30,
+  "events": [
+    {
+      "start": 0,
+      "end": 5,
+      "asset": "assets/ui-home.svg",
+      "state": "initial"
+    },
+    {
+      "start": 5,
+      "end": 12,
+      "asset": "assets/ui-added.svg",
+      "state": "added"
+    },
+    {
+      "start": 12,
+      "end": 18,
+      "asset": "assets/ui-completed.svg",
+      "state": "completed"
+    },
+    {
+      "start": 18,
+      "end": 25,
+      "asset": "assets/ui-progress.svg",
+      "state": "progress"
+    },
+    {
+      "start": 25,
+      "end": 30,
+      "text": "清晰安排",
+      "state": "ending"
+    }
+  ]
+}

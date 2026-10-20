@@ -1,0 +1,41 @@
+{
+ "case_id": "K03",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 6.866666666666666,
+ "frames": 206,
+ "kind": "talk",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "但翻车最严重的是 MiniMax"
+  },
+  {
+   "id": "c02",
+   "text": "也是在中英混读这段"
+  },
+  {
+   "id": "c03",
+   "text": "前 11 秒都对"
+  }
+ ],
+ "clips": [
+  {
+   "order": 1,
+   "video": "assets/host.mp4",
+   "audio": "assets/voice.wav",
+   "frames": 206,
+   "seconds": 6.866666666666666,
+   "note": "最后 4 帧为人物最后一帧静止延长（原片此处已切走，人声尾音需要保留）"
+  }
+ ],
+ "layout_requirements": [
+  "人物全屏口播；说第 1 句“翻车最严重的是 MiniMax”时画面推近放大强调，说完复位；说第 3 句“前 11 秒都对”时再推近一次",
+  "推近时人脸保持在画面内、清晰，不抖动，不突兀"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

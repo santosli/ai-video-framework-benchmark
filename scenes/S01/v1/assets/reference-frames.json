@@ -1,0 +1,17 @@
+{
+  "samples": [
+    {
+      "seconds": 20.766666666666666,
+      "asset": "chart-reference.svg"
+    }
+  ],
+  "purpose": "source QA only, not mandatory creative layout",
+  "timeline_amendment": "2026-10-14; use event midpoint frames in events.json; source stills remain content references",
+  "event_midpoint_frames": [
+    36,
+    128,
+    272,
+    397,
+    623
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "S01",
+  "version": 2,
+  "protocol_version": 6,
+  "source_revision": "real-audio-user-approved-text-2026-10-14",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 27,
+  "frames_per_output": 810,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "labels": [
+      "天王星",
+      "土星",
+      "海王星"
+    ],
+    "values": [
+      28,
+      274,
+      16
+    ],
+    "total": 318,
+    "unit": "颗",
+    "axis_min": 0,
+    "axis_max": 300,
+    "ticks": [
+      0,
+      50,
+      100,
+      150,
+      200,
+      250,
+      300
+    ],
+    "equal_bar_width": 220,
+    "scale_pixels_per_unit": 2,
+    "cutoff_label": "2025-03-11 土星新增卫星确认后",
+    "not_current_counts": true,
+    "total_scope": "所选三颗行星，非太阳系总数"
+  },
+  "requirements": {
+    "preserve": [
+      "axis_0_300",
+      "unit_moons",
+      "uranus_28",
+      "neptune_16",
+      "unchanged_sentence_PCM",
+      "event_order"
+    ],
+    "motion_and_readability_human_review_required": true
+  },
+  "not_framework_result": true,
+  "acceptance": "标签 天王星、土星、海王星 对应 28/274/16 颗，总计 318；固定 0–300 轴和给定刻度，等宽柱与数值联动。注明“2025-03-11 土星新增卫星确认后”，总计仅含所选三颗行星，为历史数量。",
+  "audio_review_evidence": "eval/real-audio-2026-10-14.json"
+}

@@ -1,0 +1,17 @@
+{
+ "case_id": "M08",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 7.8,
+ "frames_per_output": 234,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "三张卡片正面写“画面？”“声音？”“修改？”，带透视的 3D 翻转露出背面“要清楚”“要干净”“要快”（assets/cards.json）；第 2 句说到哪项翻哪张卡",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

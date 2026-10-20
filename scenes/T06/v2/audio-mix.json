@@ -1,0 +1,59 @@
+{
+  "schema_version": 3,
+  "main_file": "assets/voice.wav",
+  "main_sha256": "2c00de32f0816a1356d521f82c50d6bb397b2497ab502a50caa32d61cff39943",
+  "main_gain_db": -1.7307190797838252,
+  "sample_file": "assets/sample.wav",
+  "sample_sha256": "7628f4d013f86da1877d9293aad4bb3bc4c248b274069ee318c6a8623968a207",
+  "sample_gain_db": -1.7307190797838252,
+  "sample_window_seconds": [
+    19.923333333333346,
+    31.923333333333332
+  ],
+  "main_silent_window_seconds": [
+    19.923333333333346,
+    31.923333333333332
+  ],
+  "bgm_file": "assets/bgm.wav",
+  "bgm_sha256": "b66ed90a04376bffd35ca381ad2c1e181972195c9d59c2135fe6b2fd93b1c1e2",
+  "baseline_bgm_gain_db": -1.7307190797838252,
+  "bgm_gain_db": -1.7307190797838252,
+  "revised_bgm_gain_db_in_window": -13.730719079783825,
+  "gain_window_seconds": [
+    19.923333333333346,
+    31.923333333333332
+  ],
+  "gain_change_db": -12,
+  "fade_seconds": 0.5,
+  "peak_ceiling_dbtp": -1,
+  "gain_applies_only_to_window": true,
+  "cues": [
+    {
+      "file": "assets/chapter-cue.wav",
+      "at_seconds": 37.759333333333345,
+      "gain_db": -13.730719079783825
+    }
+  ],
+  "reference_mix": "eval/shared-inputs-real-talk-01/T06/v2/assets/reference-mix.wav",
+  "reference_mix_sha256": "4bc9c33fa7cd5c278c7475b2f5542ce5f92f6fcdc71f6468116339bf218e6131",
+  "reference_mix_measured": {
+    "input_i": "-15.78",
+    "input_tp": "-3.00",
+    "input_lra": "4.30",
+    "input_thresh": "-27.02",
+    "output_i": "-16.10",
+    "output_tp": "-3.18",
+    "output_lra": "3.10",
+    "output_thresh": "-27.23",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "mono_to_stereo_pan": {
+    "left": 1,
+    "right": 1
+  },
+  "gain_evaluation": "sample accurate; stereo bed preserved; mono speech/sample duplicated identically into L/R",
+  "bgm_source_policy": "Published bgm.wav already contains original sidechain and -5 dB quiet-window treatment; v2 adds -12 dB to this identical baseline.",
+  "no_runtime_loudnorm_or_auto_ducking": true,
+  "main_source_pcm_unchanged": true
+}

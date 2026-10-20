@@ -1,0 +1,143 @@
+{
+  "case_id": "T02",
+  "version": 1,
+  "captions": [
+    {
+      "id": "V008-c019",
+      "segment_id": "V008",
+      "speaker": "A",
+      "text": "为了保证“比赛”尽量客观",
+      "start": 0.273,
+      "end": 2.313
+    },
+    {
+      "id": "V008-c020",
+      "segment_id": "V008",
+      "speaker": "A",
+      "text": "这次测试统一了四个条件",
+      "start": 2.313,
+      "end": 4.033
+    },
+    {
+      "id": "V009-c021",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "1. 同一个声音",
+      "start": 4.413,
+      "end": 6.853
+    },
+    {
+      "id": "V009-c022",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "每家都克隆同一套男女声参考音频",
+      "start": 6.853,
+      "end": 9.833
+    },
+    {
+      "id": "V009-c023",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "纯看模型还原的硬实力",
+      "start": 9.833,
+      "end": 11.433
+    },
+    {
+      "id": "V010-c024",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "2. 同一段文字",
+      "start": 11.866,
+      "end": 13.676
+    },
+    {
+      "id": "V010-c025",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "准备了 7 段内容",
+      "start": 13.676,
+      "end": 15.736
+    },
+    {
+      "id": "V010-c026",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "涵盖知识口播、带货、日常闲聊",
+      "start": 15.736,
+      "end": 18.776
+    },
+    {
+      "id": "V010-c027",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "还有容易翻车的中英混读、多音字和数字日期",
+      "start": 18.776,
+      "end": 22.116
+    },
+    {
+      "id": "V011-c028",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "3. 同一批生成",
+      "start": 22.498,
+      "end": 25.148
+    },
+    {
+      "id": "V011-c029",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "每家每段只跑一次",
+      "start": 25.148,
+      "end": 26.848
+    },
+    {
+      "id": "V011-c030",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "参数全用默认",
+      "start": 26.848,
+      "end": 28.308
+    },
+    {
+      "id": "V011-c031",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "不挑也不反复抽卡",
+      "start": 28.308,
+      "end": 30.268
+    },
+    {
+      "id": "V011-c032",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "模拟日常的实际使用情况",
+      "start": 30.268,
+      "end": 31.688
+    },
+    {
+      "id": "V012-c033",
+      "segment_id": "V012",
+      "speaker": "A",
+      "text": "4. 同一响度",
+      "start": 32.132,
+      "end": 34.022
+    },
+    {
+      "id": "V012-c034",
+      "segment_id": "V012",
+      "speaker": "A",
+      "text": "所有音频统一做了响度对齐",
+      "start": 34.022,
+      "end": 36.682
+    },
+    {
+      "id": "V012-c035",
+      "segment_id": "V012",
+      "speaker": "A",
+      "text": "避免音量大小影响听感判断",
+      "start": 36.682,
+      "end": 38.762
+    }
+  ],
+  "planned_windows_only": false
+}

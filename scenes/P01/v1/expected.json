@@ -1,0 +1,110 @@
+{
+  "case_id": "P01",
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 30,
+  "frames_per_output": 900,
+  "audio": false,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "duration_seconds": 30,
+    "filter_step": false
+  },
+  "requirements": {
+    "preserve_range": [
+      0,
+      18
+    ],
+    "shift_after": 18,
+    "shift_seconds": 0,
+    "objective_tasks": {
+      "initial": [
+        {
+          "id": "t1",
+          "title": "整理资料",
+          "done": true
+        },
+        {
+          "id": "t2",
+          "title": "绘制流程图",
+          "done": false
+        },
+        {
+          "id": "t3",
+          "title": "检查字幕",
+          "done": false
+        }
+      ],
+      "added": [
+        {
+          "id": "t1",
+          "title": "整理资料",
+          "done": true
+        },
+        {
+          "id": "t2",
+          "title": "绘制流程图",
+          "done": false
+        },
+        {
+          "id": "t3",
+          "title": "检查字幕",
+          "done": false
+        },
+        {
+          "id": "t4",
+          "title": "准备演示素材",
+          "done": false
+        }
+      ],
+      "completed": [
+        {
+          "id": "t1",
+          "title": "整理资料",
+          "done": true
+        },
+        {
+          "id": "t2",
+          "title": "绘制流程图",
+          "done": false
+        },
+        {
+          "id": "t3",
+          "title": "检查字幕",
+          "done": false
+        },
+        {
+          "id": "t4",
+          "title": "准备演示素材",
+          "done": true
+        }
+      ],
+      "filtered": [
+        {
+          "id": "t2",
+          "title": "绘制流程图",
+          "done": false
+        },
+        {
+          "id": "t3",
+          "title": "检查字幕",
+          "done": false
+        }
+      ],
+      "totals": {
+        "initial": 3,
+        "initial_done": 1,
+        "final": 4,
+        "final_done": 2,
+        "progress_percent": 50
+      }
+    }
+  },
+  "protocol_version": 6,
+  "full_acceptance_requires_visible_content_motion_and_preservation_review": true,
+  "acceptance": "按新增→完成→统计三个步骤呈现实际 UI、焦点与指针；总任务 4 项、完成 2 项、总进度 50%。"
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "S03",
+  "version": 2,
+  "protocol_version": 6,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 30,
+  "frames_per_output": 900,
+  "audio": false,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "waiting": {
+      "label": "等待",
+      "shape": "circle"
+    },
+    "processing": {
+      "label": "处理中",
+      "shape": "star"
+    },
+    "done": {
+      "label": "完成",
+      "shape": "rounded_rectangle"
+    }
+  },
+  "requirements": {
+    "preserve": [
+      "waiting_circle",
+      "done_rounded_rectangle",
+      "labels",
+      "three_10s_windows"
+    ],
+    "motion_and_readability_human_review_required": true
+  },
+  "not_framework_result": true,
+  "acceptance": "0–10 秒为圆形等待，10–20 秒为五角星处理中，20–30 秒为圆角矩形完成；连续变形无跳空。首尾形状、标签、含义及时序保留。"
+}

@@ -1,0 +1,49 @@
+{
+ "case_id": "K01",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 11.466666666666667,
+ "frames": 344,
+ "kind": "talk",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "为了保证“比赛”尽量客观"
+  },
+  {
+   "id": "c02",
+   "text": "这次测试统一了四个条件"
+  },
+  {
+   "id": "c03",
+   "text": "1. 同一个声音"
+  },
+  {
+   "id": "c04",
+   "text": "每家都克隆同一套男女声参考音频"
+  },
+  {
+   "id": "c05",
+   "text": "纯看模型还原的硬实力"
+  }
+ ],
+ "clips": [
+  {
+   "order": 1,
+   "video": "assets/host.mp4",
+   "audio": "assets/voice.wav",
+   "frames": 344,
+   "seconds": 11.466666666666667,
+   "note": null
+  }
+ ],
+ "layout_requirements": [
+  "人物画面跟着口播在三种版式间切换：第 1–2 句大卡（人物全屏），第 3 句中卡（人物约占半屏，另一侧要点卡“条件 1：同一个声音”），第 4–5 句小卡（人物缩成小窗，主画面是 assets/condition-1.png）",
+  "切换在句间完成，人物缩小后脸和双手完整不被裁切"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

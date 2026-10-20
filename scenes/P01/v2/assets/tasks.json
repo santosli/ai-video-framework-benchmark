@@ -1,0 +1,82 @@
+{
+  "initial": [
+    {
+      "id": "t1",
+      "title": "整理资料",
+      "done": true
+    },
+    {
+      "id": "t2",
+      "title": "绘制流程图",
+      "done": false
+    },
+    {
+      "id": "t3",
+      "title": "检查字幕",
+      "done": false
+    }
+  ],
+  "added": [
+    {
+      "id": "t1",
+      "title": "整理资料",
+      "done": true
+    },
+    {
+      "id": "t2",
+      "title": "绘制流程图",
+      "done": false
+    },
+    {
+      "id": "t3",
+      "title": "检查字幕",
+      "done": false
+    },
+    {
+      "id": "t4",
+      "title": "准备演示素材",
+      "done": false
+    }
+  ],
+  "completed": [
+    {
+      "id": "t1",
+      "title": "整理资料",
+      "done": true
+    },
+    {
+      "id": "t2",
+      "title": "绘制流程图",
+      "done": false
+    },
+    {
+      "id": "t3",
+      "title": "检查字幕",
+      "done": false
+    },
+    {
+      "id": "t4",
+      "title": "准备演示素材",
+      "done": true
+    }
+  ],
+  "filtered": [
+    {
+      "id": "t2",
+      "title": "绘制流程图",
+      "done": false
+    },
+    {
+      "id": "t3",
+      "title": "检查字幕",
+      "done": false
+    }
+  ],
+  "totals": {
+    "initial": 3,
+    "initial_done": 1,
+    "final": 4,
+    "final_done": 2,
+    "progress_percent": 50
+  }
+}

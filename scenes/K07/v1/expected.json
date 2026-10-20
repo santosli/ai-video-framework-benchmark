@@ -1,0 +1,17 @@
+{
+ "case_id": "K07",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 7.633333333333334,
+ "frames_per_output": 229,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "把 4 段人物片段（host-1…host-4，各配 voice-1…voice-4）按顺序首尾相接做成开场快剪，片段之间不留空隙；每个剪点叠一次 assets/cut-sfx.wav 转场音效，并配合画面转场；剪点不能吃掉字头字尾",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

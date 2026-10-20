@@ -1,0 +1,17 @@
+{
+ "case_id": "K08",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 16.366666666666667,
+ "frames_per_output": 491,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "3 段人物片段按顺序首尾相接，对应 3 个章节：“测试条件”“测试方法”“测试结果”；画面顶部常驻章节导航条：当前章高亮、进度随时间推进，进入下一段时切到下一章；导航条不挡人脸",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

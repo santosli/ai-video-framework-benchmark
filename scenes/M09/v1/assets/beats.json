@@ -1,0 +1,16 @@
+{
+ "source": "assets/bgm.wav 前 6 秒",
+ "method": "spectral-flux onset + autocorrelation (host-measured)",
+ "bpm": 92.0,
+ "beats_seconds": [
+  0.149,
+  0.802,
+  1.454,
+  2.106,
+  2.758,
+  3.41,
+  4.062,
+  4.715,
+  5.367
+ ]
+}

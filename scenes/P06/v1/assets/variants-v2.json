@@ -1,0 +1,42 @@
+[
+  {
+    "id": "V01",
+    "title": "任务计划清楚安排",
+    "price": 24,
+    "currency": "CNY",
+    "icon": "icons/1.svg",
+    "accent": "#2563eb"
+  },
+  {
+    "id": "V02",
+    "title": "任务计划清楚安排",
+    "price": 26,
+    "currency": "CNY",
+    "icon": "icons/2.svg",
+    "accent": "#2563eb"
+  },
+  {
+    "id": "V03",
+    "title": "把零散任务整理成清楚可执行的每日行动清单",
+    "price": 52,
+    "currency": "CNY",
+    "icon": "icons/3.svg",
+    "accent": "#2563eb"
+  },
+  {
+    "id": "V04",
+    "title": "任务计划清楚安排",
+    "price": 30,
+    "currency": "CNY",
+    "icon": "icons/4.svg",
+    "accent": "#2563eb"
+  },
+  {
+    "id": "V05",
+    "title": "任务计划清楚安排",
+    "price": 32,
+    "currency": "CNY",
+    "icon": "icons/5.svg",
+    "accent": "#2563eb"
+  }
+]

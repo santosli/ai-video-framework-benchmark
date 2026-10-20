@@ -1,0 +1,31 @@
+{
+  "case_id": "S05",
+  "version": 2,
+  "protocol_version": 6,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 30,
+  "frames_per_output": 900,
+  "audio": false,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "camera_offset": 90,
+    "random_seed": 1729
+  },
+  "requirements": {
+    "preserve": [
+      "model_bytes",
+      "texture_bytes",
+      "seed_1729",
+      "world_trajectories",
+      "model_motion",
+      "30_seconds"
+    ],
+    "motion_and_readability_human_review_required": true
+  },
+  "not_framework_result": true,
+  "acceptance": "相机偏移 90°，粒子种子 1729；相同帧重复求值一致，模型与粒子按给定世界轨迹运动，无空白或缺纹理。"
+}

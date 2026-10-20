@@ -1,0 +1,794 @@
+[
+  {
+    "id": "T01",
+    "batch": 1,
+    "name": "字幕、关键词与换行",
+    "category": "口播",
+    "initial_task": "按 gold.before 制作 5 条真实字幕并按 keywords.json 高亮；V004/V005 开场保留原声，不另加受测 cue。",
+    "revision_task": "按 gold.after 采用每行最多 16 个汉字单位、完整模型名不跨行的新规则；4 条改变、c05 不变，字号/框/全部字幕及高亮时刻保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/T01/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/T01/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "T02",
+    "batch": 1,
+    "name": "B-roll、画中画与同步",
+    "category": "口播",
+    "initial_task": "按四个条件的真实词时显示四份完整条件插图，出镜按原片位置保留。 底片不含四份条件插图；参赛方必须读取本版 events.json 的 auxiliary_bindings，asset 按 start 出现、display_end 消失，end 仅表示锚点词语结束；插图身份正确、显隐起止误差 ≤2 帧。",
+    "revision_task": "按 v2 的新锚点显示四份条件插图，V010x 实际时长及后段顺延已绑定本版底片，前段原声和出镜保留。 底片不含四份条件插图；参赛方必须读取本版 events.json 的 auxiliary_bindings，asset 按 start 出现、display_end 消失，end 仅表示锚点词语结束；插图身份正确、显隐起止误差 ≤2 帧。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/T02/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 12
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/T02/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 12
+      }
+    ]
+  },
+  {
+    "id": "T03",
+    "batch": 1,
+    "name": "双人对话与说话人标签",
+    "category": "口播",
+    "initial_task": "按木子 A1 / 创作者 B1 / 木子 A2 的真实对话、人物、人声、标签和字幕制作双人视频。",
+    "revision_task": "在 B 回答后插入 B 补充句，木子 A2 按真实插入音频时长顺延；前段与其余局部动作保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/T03/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 8
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/T03/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 9
+      }
+    ]
+  },
+  {
+    "id": "T04",
+    "batch": 1,
+    "name": "横竖屏重排与安全区",
+    "category": "口播",
+    "initial_task": "1920×1080 展示第二章真实口播与两卡“同一个声音”“同一段文字”，按给定词时与保护区。",
+    "revision_task": "原生重排为 1080×1920：人物头部/双手、两张卡和真实字幕完整；按本版保护区，禁止机械缩小整片。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/T04/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/T04/v2",
+        "width": 1080,
+        "height": 1920,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "T05",
+    "batch": 1,
+    "name": "真实整期长时间轴、5 章与局部返工",
+    "category": "口播",
+    "initial_task": "导出整期已发布真实口播，到最后一句说完为止；5 章、原位置出镜、插图/字幕和连续解码完整。",
+    "revision_task": "整期真实视频替换 V010 为 V010x；其后 5 章中受影响章节、出镜、插图、字幕统一按实声顺延，前段保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/T05/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/T05/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "T06",
+    "batch": 1,
+    "name": "多轨声音、停顿与音量联动",
+    "category": "口播",
+    "initial_task": "分轨混合真实主讲、MiniMax 试听、原版 BGM 和窗口内章节音效；主讲在试听期间静音；BGM 全程采用相同基线。",
+    "revision_task": "试听期间把相同基线 BGM 额外降低 12 dB，进出各 0.5 秒，之后恢复；主讲/试听/章节提示音/画面保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/T06/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 8
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/T06/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 8
+      }
+    ]
+  },
+  {
+    "id": "S01",
+    "batch": 1,
+    "name": "准确数值、柱图与总量",
+    "category": "科普",
+    "initial_task": "等宽柱、同尺度零基线，数字和总量明确，不以视觉效果放大差距。",
+    "revision_task": "仅土星 146→274、合计 190→318；同步柱高/标签/字幕/修订音轨；天王星 28、海王星 16、轴 0–300、时长与事件窗以新实际配音为准。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/S01/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/S01/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "S02",
+    "batch": 1,
+    "name": "拓扑关系与数量联动",
+    "category": "科普",
+    "initial_task": "节点/连线动画、数量比较与 N(N−1)/2 的解释。",
+    "revision_task": "第二组 8→6 点、28→15 线，图/标签/计数/柱高同步；第一组、轴和相同句 PCM 不变，时长按配音同步。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/S02/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/S02/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "S03",
+    "batch": 1,
+    "name": "SVG 变形与状态表达",
+    "category": "科普",
+    "initial_task": "用连续变形表示等待→处理中→完成，形状/标签/状态同步；观众应识别状态变化，不只看到几何动效。",
+    "revision_task": "处理中由三角改为五角星并更新图例，等待/完成含义、首尾形状、标签与时序保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/S03/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 2
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/S03/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 2
+      }
+    ]
+  },
+  {
+    "id": "S04",
+    "batch": 1,
+    "name": "公式排版与分步推导",
+    "category": "科普",
+    "initial_task": "分数/括号/下标等排版正确；按时间分步强调，解释与图文一致。",
+    "revision_task": "例子 N=4 改为 N=6，推导 6×5/2=15；供修订声音与文本；通式相同句 PCM 与布局保留，时长按配音同步。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/S04/v1",
+        "width": 1080,
+        "height": 1920,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/S04/v2",
+        "width": 1080,
+        "height": 1920,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "S05",
+    "batch": 1,
+    "name": "3D、粒子与确定性时间",
+    "category": "科普",
+    "initial_task": "3D 动作随时间正确，能暂停/抽指定帧，反复导出对象/粒子状态一致。",
+    "revision_task": "只换相机观察方向为给定轨道；模型/粒子种子和运动保持，标签适配新构图。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/S05/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/S05/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "S06",
+    "batch": 1,
+    "name": "SVG、视频与多层组合",
+    "category": "科普",
+    "initial_task": "多层协调、遮罩与显隐正确，画面步骤能读懂，没有常驻的错误层。",
+    "revision_task": "中间视频段增加 6 秒，供新源片/音轨/事件表；全局后段顺延，其他层的内容和局部动作保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/S06/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 5
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/S06/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 5
+      }
+    ]
+  },
+  {
+    "id": "P01",
+    "batch": 1,
+    "name": "截图状态、指针与操作路径",
+    "category": "产品演示",
+    "initial_task": "新增→完成→统计三个步骤，焦点和指针对应实际 UI。",
+    "revision_task": "18 秒处插入 6 秒“未完成筛选”，保留前段，统计/片尾顺延；筛选只剩 2 项，总进度仍 50%。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/P01/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 7
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/P01/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 7
+      }
+    ]
+  },
+  {
+    "id": "P02",
+    "batch": 1,
+    "name": "已有 HTML/CSS 页面复用",
+    "category": "产品演示",
+    "initial_task": "将页面展示为视频，保留原信息、样式与要求的动画端态；允许声明包装/转换。",
+    "revision_task": "换为给定较长主标题（20 个中文字符），保留 CTA、卖点、动画端态与30秒时间；适配换行而不遮挡。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/P02/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 3
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/P02/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 3
+      }
+    ]
+  },
+  {
+    "id": "P03",
+    "batch": 1,
+    "name": "已有 React 组件与数据复用",
+    "category": "产品演示",
+    "initial_task": "用组件所含信息做演示，保留结构/语义/视觉；允许明确包装/转换，但记录成本。",
+    "revision_task": "换给定 props：4 行变 5 行，活动项目/数字更新；供参考；布局需适配，信息不丢，时间不变。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/P03/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 3
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/P03/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 3
+      }
+    ]
+  },
+  {
+    "id": "P04",
+    "batch": 1,
+    "name": "长页滚动、缩放与目标定位",
+    "category": "产品演示",
+    "initial_task": "滚动/缩放展示重点，停留时文字可读；目标位置定位正确。",
+    "revision_task": "替换同宽高 6500 px 的更新长页，CTA 移位；调整滚动终点/重点停留，开头共用区域和时长保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/P04/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/P04/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "P05",
+    "batch": 1,
+    "name": "3D 设备与动态屏幕纹理",
+    "category": "产品演示",
+    "initial_task": "设备旋转、屏幕视频帧和相机时序正确，不出现黑屏/翻转纹理。",
+    "revision_task": "换同规格屏幕视频与指定机身颜色；保留模型几何、相机轨道与30秒时间。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/P05/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 6
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/P05/v2",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 6
+      }
+    ]
+  },
+  {
+    "id": "P06",
+    "batch": 1,
+    "name": "参数化批量版本与局部更新",
+    "category": "产品演示",
+    "initial_task": "一次输入生成 5 个完整版本，可重开工程；版本对应准确，设计/动作一致，没有数据串版。",
+    "revision_task": "仅换 V03 的标题和价格，标题由 8 字变 20 字；重新导出5份，其他4份内容/布局/时序保留。",
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/P06/v1",
+        "width": 1080,
+        "height": 1920,
+        "external_files": 7
+      },
+      {
+        "phase": "revision",
+        "directory": "scenes/P06/v2",
+        "width": 1080,
+        "height": 1920,
+        "external_files": 7
+      }
+    ]
+  },
+  {
+    "id": "K01",
+    "batch": 2,
+    "name": "口播景别切换",
+    "category": "口播",
+    "initial_task": [
+      "人物画面跟着口播在三种版式间切换：第 1–2 句大卡（人物全屏），第 3 句中卡（人物约占半屏，另一侧要点卡“条件 1：同一个声音”），第 4–5 句小卡（人物缩成小窗，主画面是 assets/condition-1.png）",
+      "切换在句间完成，人物缩小后脸和双手完整不被裁切"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K01/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 6
+      }
+    ]
+  },
+  {
+    "id": "K02",
+    "batch": 2,
+    "name": "圆形小窗出镜",
+    "category": "口播",
+    "initial_task": [
+      "人物全程缩成画面一角的圆形小窗；主画面是大字要点：“梯队分水岭明显”“前三名对阵后三名”“40 场只输 3 场”“整体表现更稳定”",
+      "说到哪条要点，哪条高亮；圆形遮罩边缘干净，人脸在圆内居中完整"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K02/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 5
+      }
+    ]
+  },
+  {
+    "id": "K03",
+    "batch": 2,
+    "name": "推近强调",
+    "category": "口播",
+    "initial_task": [
+      "人物全屏口播；说第 1 句“翻车最严重的是 MiniMax”时画面推近放大强调，说完复位；说第 3 句“前 11 秒都对”时再推近一次",
+      "推近时人脸保持在画面内、清晰，不抖动，不突兀"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K03/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 5
+      }
+    ]
+  },
+  {
+    "id": "K04",
+    "batch": 2,
+    "name": "花字弹出",
+    "category": "口播",
+    "initial_task": [
+      "人物全屏口播；关键词以花字/贴纸形式在说到时弹出：“盲听对比”“A 和 B”“四选一”“A 好 / B 好 / 都好 / 都不好”",
+      "花字说完后收起，不挡人脸"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K04/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 5
+      }
+    ]
+  },
+  {
+    "id": "K05",
+    "batch": 2,
+    "name": "左右分屏",
+    "category": "口播",
+    "initial_task": [
+      "开头人物全屏，第 1 句说到“对战数据表”时切成左右分屏：一侧人物，一侧 assets/table.png 对战表截图",
+      "分屏比例自定，人物脸和双手、表格文字都完整清楚，两边不互相挤压"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K05/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 6
+      }
+    ]
+  },
+  {
+    "id": "K06",
+    "batch": 2,
+    "name": "名牌条与金句卡",
+    "category": "口播",
+    "initial_task": [
+      "说“我是木子”时画面下方出名牌条：主名“木子”，副标题“AI 实践”，停留约 3 秒后收起",
+      "说“到底该怎么选？”时整屏切成金句卡（大字“到底该怎么选？”），这句说完切回人物"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K06/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 5
+      }
+    ]
+  },
+  {
+    "id": "K07",
+    "batch": 2,
+    "name": "开场快剪",
+    "category": "口播",
+    "initial_task": [
+      "把 4 段人物片段（host-1…host-4，各配 voice-1…voice-4）按顺序首尾相接做成开场快剪，片段之间不留空隙",
+      "每个剪点叠一次 assets/cut-sfx.wav 转场音效，并配合画面转场；剪点不能吃掉字头字尾"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K07/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 12
+      }
+    ]
+  },
+  {
+    "id": "K08",
+    "batch": 2,
+    "name": "章节进度条",
+    "category": "口播",
+    "initial_task": [
+      "3 段人物片段按顺序首尾相接，对应 3 个章节：“测试条件”“测试方法”“测试结果”",
+      "画面顶部常驻章节导航条：当前章高亮、进度随时间推进，进入下一段时切到下一章；导航条不挡人脸"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K08/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 9
+      }
+    ]
+  },
+  {
+    "id": "K09",
+    "batch": 2,
+    "name": "评论卡弹出",
+    "category": "口播",
+    "initial_task": [
+      "人物全屏口播；说到“还有什么想了解的 / 也可以在评论区留言”时，依次弹出 assets/comment-1…3.png 三张评论截图卡",
+      "评论卡不挡人脸，文字清楚；“我是木子”前收起"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/K09/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 8
+      }
+    ]
+  },
+  {
+    "id": "M01",
+    "batch": 2,
+    "name": "数据卡片数字滚动",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "三张数据卡片：注册用户 1,280 人、累计生成视频 3,650 条、平均每条 42 秒（数据见 assets/data.json）",
+      "每个数字从 0 滚动增长，在口播说到这个数字时刚好滚到最终值；千分位和单位正确"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M01/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "M02",
+    "batch": 2,
+    "name": "折线图逐点绘制",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "按 assets/data.json 的 7 天数据逐点绘制折线（周一 320 … 周日 910），坐标轴与数值准确",
+      "说到“峰值”时在周四 1,050 处出现峰值标注，并提示“发布新版本”"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M02/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "M03",
+    "batch": 2,
+    "name": "时间轴里程碑",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "横向时间轴 4 个节点（assets/milestones.json）：2023 立项、2024 发布第一版、2025 用户破万、2026 接入 AI 配音",
+      "说到哪一年，对应节点点亮并推进；“今年”对应 2026"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M03/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "M04",
+    "batch": 2,
+    "name": "代码逐行高亮",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "等宽字体展示 assets/code.py 全部 5 行（含行号，缩进原样），可加打字效果",
+      "讲到哪行高亮哪行：第 1 句→第 1 行，第 2 句→第 2 行，第 3 句→第 3–4 行，第 4 句→第 5 行"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M04/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "M05",
+    "batch": 2,
+    "name": "表格排序变化",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "先按 A–F 顺序显示 assets/table.json 的 6 行得分表",
+      "说“重新排一下”时，行按得分从高到低动画重排（C 91、A 82、E 79、B 75、F 71、D 68），C 行全程高亮跟随"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M05/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "M06",
+    "batch": 2,
+    "name": "前后对比擦除",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "同一画面用可移动的分界滑块对比 assets/before.png（降噪前）与 assets/after.png（降噪后），两侧标签“降噪前”“降噪后”",
+      "第 2 句时滑块从左向右擦过去，最后主要显示降噪后"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M06/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 6
+      }
+    ]
+  },
+  {
+    "id": "M07",
+    "batch": 2,
+    "name": "路线图描边",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "在 assets/map.svg 底图上，按 assets/route.json 的路线逐段描边，并有一个点沿路线移动",
+      "说到哪个地点，该地点标签出现：公司 → 咖啡馆 → 公园 → 录音棚；终点显示“15 分钟”"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M07/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "M08",
+    "batch": 2,
+    "name": "卡片 3D 翻转",
+    "category": "动态图形（配音）",
+    "initial_task": [
+      "三张卡片正面写“画面？”“声音？”“修改？”，带透视的 3D 翻转露出背面“要清楚”“要干净”“要快”（assets/cards.json）",
+      "第 2 句说到哪项翻哪张卡"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M08/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 4
+      }
+    ]
+  },
+  {
+    "id": "M09",
+    "batch": 2,
+    "name": "品牌片头揭示",
+    "category": "动态图形（只有音乐）",
+    "initial_task": [
+      "只有音乐，没有人声和字幕：用 assets/logo.svg 的图形组合出标志，再出现文字“木子San”和副标题“AI 实践”，最后定格",
+      "主要动作落在 assets/beats.json 给出的节拍上；音乐 0.3 秒淡入、结尾 1 秒淡出，峰值不超过 −1 dBFS"
+    ],
+    "revision_task": null,
+    "versions": [
+      {
+        "phase": "initial",
+        "directory": "scenes/M09/v1",
+        "width": 1920,
+        "height": 1080,
+        "external_files": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "case_id": "S04",
+  "version": 2,
+  "protocol_version": 6,
+  "source_revision": "real-audio-user-approved-text-2026-10-14",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "seconds_per_output": 25,
+  "frames_per_output": 750,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "general": {
+      "numerator": "N(N−1)",
+      "denominator": "2",
+      "expression": "N(N−1)/2",
+      "color_key": {
+        "N": "#2563eb",
+        "N−1": "#2563eb",
+        "denominator": "#172b45"
+      }
+    },
+    "n": 6,
+    "steps": [
+      "6×(6−1)/2",
+      "6×5/2",
+      "30/2=15"
+    ],
+    "result": 15
+  },
+  "requirements": {
+    "preserve": [
+      "general_formula_bytes",
+      "layout",
+      "unchanged_sentence_PCM",
+      "event_order"
+    ],
+    "motion_and_readability_human_review_required": true,
+    "safe_areas": {
+      "coordinate_system": "top-left pixels; right/bottom exclusive",
+      "width": 1080,
+      "height": 1920,
+      "top_status_bar": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 160
+      },
+      "right_interaction_column": {
+        "x": 900,
+        "y": 160,
+        "width": 180,
+        "height": 1760
+      },
+      "bottom_caption_area": {
+        "x": 0,
+        "y": 1500,
+        "width": 1080,
+        "height": 420
+      },
+      "content_rect": {
+        "x": 72,
+        "y": 192,
+        "width": 792,
+        "height": 1260
+      },
+      "minimum_text_px": 48,
+      "source": "SANTOS-003 本包保守约定，2026-10-14；仓库无通用抖音正文三分区数值。旧 T04 约定只适用于 T04，未改。非平台官方规范或上传回读。",
+      "native_layout_required": true,
+      "horizontal_crop_forbidden": true
+    },
+    "fraction_parentheses_narrow_screen": true
+  },
+  "not_framework_result": true,
+  "acceptance": "通式 N(N−1)/2，步骤 6×(6−1)/2 → 6×5/2 → 30/2=15，结果 15；分数、括号及乘积层级完整，文字清晰。",
+  "audio_review_evidence": "eval/real-audio-2026-10-14.json"
+}

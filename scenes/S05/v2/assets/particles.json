@@ -1,0 +1,121 @@
+{
+  "random_seed": 1729,
+  "algorithm": "LCG uint32: state=(1664525*state+1013904223) mod 2^32; 2 draws per particle",
+  "particles": [
+    {
+      "id": "p00",
+      "phase": 5.693483983249582,
+      "radius": 1.9264522508718074,
+      "y_offset": -0.75,
+      "angular_speed": 0.2
+    },
+    {
+      "id": "p01",
+      "phase": 4.273424514632729,
+      "radius": 2.602996267285198,
+      "y_offset": -0.25,
+      "angular_speed": 0.21300000000000002
+    },
+    {
+      "id": "p02",
+      "phase": 4.424851893550876,
+      "radius": 2.296676015574485,
+      "y_offset": 0.25,
+      "angular_speed": 0.226
+    },
+    {
+      "id": "p03",
+      "phase": 3.8123524630510808,
+      "radius": 2.602207842003554,
+      "y_offset": 0.75,
+      "angular_speed": 0.23900000000000002
+    },
+    {
+      "id": "p04",
+      "phase": 0.4790537841815593,
+      "radius": 2.8922914722003044,
+      "y_offset": -0.75,
+      "angular_speed": 0.252
+    },
+    {
+      "id": "p05",
+      "phase": 1.8118914612149783,
+      "radius": 2.7333685255609455,
+      "y_offset": -0.25,
+      "angular_speed": 0.265
+    },
+    {
+      "id": "p06",
+      "phase": 3.8133222343716633,
+      "radius": 2.493342699576169,
+      "y_offset": 0.25,
+      "angular_speed": 0.278
+    },
+    {
+      "id": "p07",
+      "phase": 4.923365727087316,
+      "radius": 2.2720721709541976,
+      "y_offset": 0.75,
+      "angular_speed": 0.29100000000000004
+    },
+    {
+      "id": "p08",
+      "phase": 3.2130068312026547,
+      "radius": 2.5116166354157032,
+      "y_offset": -0.75,
+      "angular_speed": 0.304
+    },
+    {
+      "id": "p09",
+      "phase": 3.99687497246854,
+      "radius": 2.8662682830356063,
+      "y_offset": -0.25,
+      "angular_speed": 0.317
+    },
+    {
+      "id": "p10",
+      "phase": 2.6028168948454176,
+      "radius": 2.6073178810067477,
+      "y_offset": 0.25,
+      "angular_speed": 0.33
+    },
+    {
+      "id": "p11",
+      "phase": 1.4617009811644242,
+      "radius": 2.0793040107004344,
+      "y_offset": 0.75,
+      "angular_speed": 0.34299999999999997
+    },
+    {
+      "id": "p12",
+      "phase": 6.239688428297131,
+      "radius": 1.988165380898863,
+      "y_offset": -0.75,
+      "angular_speed": 0.356
+    },
+    {
+      "id": "p13",
+      "phase": 1.3818936563204338,
+      "radius": 2.862263014074415,
+      "y_offset": -0.25,
+      "angular_speed": 0.369
+    },
+    {
+      "id": "p14",
+      "phase": 4.329029764574583,
+      "radius": 2.359660977590829,
+      "y_offset": 0.25,
+      "angular_speed": 0.382
+    },
+    {
+      "id": "p15",
+      "phase": 1.947818558918482,
+      "radius": 2.074351206701249,
+      "y_offset": 0.75,
+      "angular_speed": 0.395
+    }
+  ],
+  "trajectory": "x=radius*cos(phase+angular_speed*t); y=y_offset+0.25*sin(0.5*t+phase); z=radius*sin(phase+angular_speed*t)",
+  "model_motion": "rotation_y_radians=0.1*t",
+  "not_physical_simulation": true
+}

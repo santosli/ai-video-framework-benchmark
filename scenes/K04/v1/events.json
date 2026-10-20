@@ -1,0 +1,49 @@
+{
+ "case_id": "K04",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 9.5,
+ "frames": 285,
+ "kind": "talk",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "测试采用盲听对比"
+  },
+  {
+   "id": "c02",
+   "text": "同一段文字"
+  },
+  {
+   "id": "c03",
+   "text": "只放 A 和 B 两条音频"
+  },
+  {
+   "id": "c04",
+   "text": "盲听后四选一"
+  },
+  {
+   "id": "c05",
+   "text": "A 好、B 好、都好、或者都不好"
+  }
+ ],
+ "clips": [
+  {
+   "order": 1,
+   "video": "assets/host.mp4",
+   "audio": "assets/voice.wav",
+   "frames": 285,
+   "seconds": 9.5,
+   "note": null
+  }
+ ],
+ "layout_requirements": [
+  "人物全屏口播；关键词以花字/贴纸形式在说到时弹出：“盲听对比”“A 和 B”“四选一”“A 好 / B 好 / 都好 / 都不好”",
+  "花字说完后收起，不挡人脸"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

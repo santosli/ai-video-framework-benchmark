@@ -1,0 +1,35 @@
+{
+  "sample_seconds": 15,
+  "props": {
+    "title": "任务列表",
+    "rows": [
+      {
+        "id": "01",
+        "label": "整理资料",
+        "done": true
+      },
+      {
+        "id": "02",
+        "label": "绘制流程图",
+        "done": false
+      },
+      {
+        "id": "03",
+        "label": "检查字幕",
+        "done": false
+      },
+      {
+        "id": "04",
+        "label": "准备演示素材",
+        "done": false
+      },
+      {
+        "id": "05",
+        "label": "检查交付文件",
+        "done": false
+      }
+    ],
+    "active_id": "05",
+    "count": 5
+  }
+}

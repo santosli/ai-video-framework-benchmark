@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "start": 0,
+      "end": 2.7,
+      "speaker_id": "A",
+      "source_id": "A1"
+    },
+    {
+      "start": 2.7,
+      "end": 7.5,
+      "speaker_id": "B",
+      "source_id": "B1"
+    },
+    {
+      "start": 7.5,
+      "end": 14.8,
+      "speaker_id": "A",
+      "source_id": "A2"
+    }
+  ]
+}

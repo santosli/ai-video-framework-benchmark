@@ -1,0 +1,110 @@
+{
+  "ordering": "lexicographic node pairs",
+  "events": [
+    {
+      "a": "A",
+      "b": "B",
+      "start_frame": 379,
+      "visible_until_frame": 504,
+      "count_after": 1
+    },
+    {
+      "a": "A",
+      "b": "C",
+      "start_frame": 384,
+      "visible_until_frame": 504,
+      "count_after": 2
+    },
+    {
+      "a": "A",
+      "b": "D",
+      "start_frame": 388,
+      "visible_until_frame": 504,
+      "count_after": 3
+    },
+    {
+      "a": "A",
+      "b": "E",
+      "start_frame": 393,
+      "visible_until_frame": 504,
+      "count_after": 4
+    },
+    {
+      "a": "A",
+      "b": "F",
+      "start_frame": 397,
+      "visible_until_frame": 504,
+      "count_after": 5
+    },
+    {
+      "a": "B",
+      "b": "C",
+      "start_frame": 402,
+      "visible_until_frame": 504,
+      "count_after": 6
+    },
+    {
+      "a": "B",
+      "b": "D",
+      "start_frame": 406,
+      "visible_until_frame": 504,
+      "count_after": 7
+    },
+    {
+      "a": "B",
+      "b": "E",
+      "start_frame": 411,
+      "visible_until_frame": 504,
+      "count_after": 8
+    },
+    {
+      "a": "B",
+      "b": "F",
+      "start_frame": 416,
+      "visible_until_frame": 504,
+      "count_after": 9
+    },
+    {
+      "a": "C",
+      "b": "D",
+      "start_frame": 420,
+      "visible_until_frame": 504,
+      "count_after": 10
+    },
+    {
+      "a": "C",
+      "b": "E",
+      "start_frame": 425,
+      "visible_until_frame": 504,
+      "count_after": 11
+    },
+    {
+      "a": "C",
+      "b": "F",
+      "start_frame": 429,
+      "visible_until_frame": 504,
+      "count_after": 12
+    },
+    {
+      "a": "D",
+      "b": "E",
+      "start_frame": 434,
+      "visible_until_frame": 504,
+      "count_after": 13
+    },
+    {
+      "a": "D",
+      "b": "F",
+      "start_frame": 438,
+      "visible_until_frame": 504,
+      "count_after": 14
+    },
+    {
+      "a": "E",
+      "b": "F",
+      "start_frame": 443,
+      "visible_until_frame": 504,
+      "count_after": 15
+    }
+  ]
+}

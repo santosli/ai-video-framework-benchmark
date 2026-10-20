@@ -1,0 +1,17 @@
+{
+ "case_id": "M05",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 9.466666666666667,
+ "frames_per_output": 284,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "先按 A–F 顺序显示 assets/table.json 的 6 行得分表；说“重新排一下”时，行按得分从高到低动画重排（C 91、A 82、E 79、B 75、F 71、D 68），C 行全程高亮跟随",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

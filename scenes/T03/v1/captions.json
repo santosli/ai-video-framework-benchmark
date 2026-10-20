@@ -1,0 +1,42 @@
+{
+  "case_id": "T03",
+  "version": 1,
+  "captions": [
+    {
+      "id": "A1-c0",
+      "speaker": "A",
+      "text": "你现在做视频，配音用的哪家？",
+      "start": 0.22,
+      "end": 2.05
+    },
+    {
+      "id": "B1-c0",
+      "speaker": "B",
+      "text": "豆包。",
+      "start": 2.8200000000000003,
+      "end": 3.25
+    },
+    {
+      "id": "B1-c1",
+      "speaker": "B",
+      "text": "我电脑没有独显，本地模型跑不动。",
+      "start": 4.38,
+      "end": 7.16
+    },
+    {
+      "id": "A2-c0",
+      "speaker": "A",
+      "text": "那选豆包没问题，它跟第一名几乎打平。",
+      "start": 8.23,
+      "end": 11.1
+    },
+    {
+      "id": "A2-c1",
+      "speaker": "A",
+      "text": "一期 6 分钟的视频，花不到 1 块钱。",
+      "start": 12.26,
+      "end": 14.620000000000001
+    }
+  ],
+  "planned_windows_only": false
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "numerator": "N(N−1)",
+    "denominator": "2",
+    "expression": "N(N−1)/2",
+    "color_key": {
+      "N": "#2563eb",
+      "N−1": "#2563eb",
+      "denominator": "#172b45"
+    }
+  },
+  "n": 6,
+  "steps": [
+    "6×(6−1)/2",
+    "6×5/2",
+    "30/2=15"
+  ],
+  "result": 15
+}

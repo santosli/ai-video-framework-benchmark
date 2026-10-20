@@ -1,0 +1,17 @@
+{
+ "case_id": "K04",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 9.5,
+ "frames_per_output": 285,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "人物全屏口播；关键词以花字/贴纸形式在说到时弹出：“盲听对比”“A 和 B”“四选一”“A 好 / B 好 / 都好 / 都不好”；花字说完后收起，不挡人脸",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

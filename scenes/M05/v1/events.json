@@ -1,0 +1,32 @@
+{
+ "case_id": "M05",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 9.466666666666667,
+ "frames": 284,
+ "kind": "motion",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "这是六款工具的综合得分。"
+  },
+  {
+   "id": "c02",
+   "text": "按得分从高到低重新排一下。"
+  },
+  {
+   "id": "c03",
+   "text": "原来排第三的 C 工具，一下升到了第一。"
+  }
+ ],
+ "clips": [],
+ "layout_requirements": [
+  "先按 A–F 顺序显示 assets/table.json 的 6 行得分表",
+  "说“重新排一下”时，行按得分从高到低动画重排（C 91、A 82、E 79、B 75、F 71、D 68），C 行全程高亮跟随"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

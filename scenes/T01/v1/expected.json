@@ -1,0 +1,64 @@
+{
+  "case_id": "T01",
+  "version": 1,
+  "protocol_version": 6,
+  "source_revision": "2026-10-14-real-talk-01",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 30.6,
+  "frames_per_output": 918,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "minimum_changed_cues": 4,
+    "unchanged_cue_id": "c05",
+    "maximum_characters_per_line": 16
+  },
+  "source_assembly": {
+    "seconds": 30.6,
+    "frames_at_30fps": 918,
+    "parts": [
+      {
+        "source_id": "SANTOS002",
+        "source_in_seconds": 13,
+        "source_out_seconds": 43.6,
+        "output_in_seconds": 0,
+        "output_out_seconds": 30.6
+      }
+    ]
+  },
+  "timing_tolerance_frames": 2,
+  "task_contract": "按 gold.before 制作 5 条真实字幕并按 keywords.json 高亮；V004/V005 开场保留原声，不另加受测 cue。",
+  "acceptance": "逐条匹配 gold.before；按 gold.before 制作 5 条真实字幕并按 keywords.json 高亮；V004/V005 开场保留原声，不另加受测 cue。",
+  "source_visual_policy": "Real host clips in original timeline host intervals; no host elsewhere; continuous caption-free published animation in non-host intervals; T04 tested condition headings omitted, V010x visual cues use actual retake clocks.",
+  "caption_windows": [
+    {
+      "id": "c01",
+      "start": 5.7,
+      "end": 10.0
+    },
+    {
+      "id": "c02",
+      "start": 10.0,
+      "end": 16.3
+    },
+    {
+      "id": "c03",
+      "start": 16.633333333333333,
+      "end": 18.5
+    },
+    {
+      "id": "c04",
+      "start": 18.5,
+      "end": 23.433333333333334
+    },
+    {
+      "id": "c05",
+      "start": 26.566666666666666,
+      "end": 30.333333333333332
+    }
+  ]
+}

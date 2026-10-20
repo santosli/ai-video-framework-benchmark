@@ -1,0 +1,29 @@
+{
+  "case_id": "P04",
+  "version": 2,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 45,
+  "frames_per_output": 1350,
+  "audio": false,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "source_height": 6500,
+    "cta_y": 6150,
+    "inserted_section_visible": true
+  },
+  "requirements": {
+    "preserve_range": [
+      0,
+      5
+    ],
+    "source_width": 1440,
+    "seconds": 45
+  },
+  "protocol_version": 6,
+  "full_acceptance_requires_visible_content_motion_and_preservation_review": true,
+  "acceptance": "使用本版 6500 px 高长页；CTA 的源坐标 y=6150，所有事件重点均到达、CTA 完整，停留文字清晰。新增区块可见；开头共用区域和时长保留。"
+}

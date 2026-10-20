@@ -1,0 +1,17 @@
+{
+  "labels": {
+    "A": "木子",
+    "B": "创作者 B"
+  },
+  "speaker_sources": {
+    "A": [
+      "A1",
+      "A2"
+    ],
+    "B": [
+      "B1",
+      "BX"
+    ]
+  },
+  "label_must_match_active_speaker": true
+}

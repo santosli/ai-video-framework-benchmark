@@ -1,0 +1,2 @@
+import React from "react";
+export default function TaskList({title,rows,active_id,count}:{title:string;rows:{id:string;label:string;done:boolean}[];active_id:string;count:number}) {return <section className="task-panel"><h1>{title}</h1><p>总任务 {count}</p><ul>{rows.map(r=><li key={r.id} className={r.id===active_id?"active":""}>任务 {r.id}：{r.label}{r.done?"（已完成）":""}{r.id===active_id?"（当前项目）":""}</li>)}</ul><footer>使用 MiSans 字体</footer></section>;}

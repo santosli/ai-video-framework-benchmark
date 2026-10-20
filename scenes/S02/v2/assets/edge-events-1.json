@@ -1,0 +1,47 @@
+{
+  "ordering": "lexicographic node pairs",
+  "events": [
+    {
+      "a": "A",
+      "b": "B",
+      "start_frame": 1,
+      "visible_until_frame": 378,
+      "count_after": 1
+    },
+    {
+      "a": "A",
+      "b": "C",
+      "start_frame": 64,
+      "visible_until_frame": 378,
+      "count_after": 2
+    },
+    {
+      "a": "A",
+      "b": "D",
+      "start_frame": 127,
+      "visible_until_frame": 378,
+      "count_after": 3
+    },
+    {
+      "a": "B",
+      "b": "C",
+      "start_frame": 191,
+      "visible_until_frame": 378,
+      "count_after": 4
+    },
+    {
+      "a": "B",
+      "b": "D",
+      "start_frame": 254,
+      "visible_until_frame": 378,
+      "count_after": 5
+    },
+    {
+      "a": "C",
+      "b": "D",
+      "start_frame": 317,
+      "visible_until_frame": 378,
+      "count_after": 6
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "chapters": [
+    {
+      "chapter_id": "C01",
+      "title": "参赛选手",
+      "start_seconds": 14.828,
+      "end_seconds": 16.828,
+      "source_start": 14.828,
+      "source_end": 16.828
+    },
+    {
+      "chapter_id": "C02",
+      "title": "盲测标准与流程",
+      "start_seconds": 37.573,
+      "end_seconds": 39.573,
+      "source_start": 37.573,
+      "source_end": 39.573
+    },
+    {
+      "chapter_id": "C03",
+      "title": "排名揭晓",
+      "start_seconds": 133.946,
+      "end_seconds": 135.946,
+      "source_start": 133.946,
+      "source_end": 135.946
+    },
+    {
+      "chapter_id": "C04",
+      "title": "各家对比",
+      "start_seconds": 153.908,
+      "end_seconds": 155.908,
+      "source_start": 153.908,
+      "source_end": 155.908
+    },
+    {
+      "chapter_id": "C05",
+      "title": "价格与选择",
+      "start_seconds": 202.442,
+      "end_seconds": 204.442,
+      "source_start": 202.442,
+      "source_end": 204.442
+    }
+  ],
+  "intro_before_first_chapter": true
+}

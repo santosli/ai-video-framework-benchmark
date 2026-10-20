@@ -1,0 +1,1023 @@
+{
+  "case_id": "T05",
+  "version": 1,
+  "captions": [
+    {
+      "id": "V001-c000",
+      "segment_id": "V001",
+      "speaker": "A",
+      "text": "6 款主流中文 AI 配音模型",
+      "start": 0.0,
+      "end": 1.84
+    },
+    {
+      "id": "V001-c001",
+      "segment_id": "V001",
+      "speaker": "A",
+      "text": "60 组盲测对决",
+      "start": 1.84,
+      "end": 3.08
+    },
+    {
+      "id": "V001-c002",
+      "segment_id": "V001",
+      "speaker": "A",
+      "text": "最后拿下第一的",
+      "start": 3.08,
+      "end": 4.22
+    },
+    {
+      "id": "V001-c003",
+      "segment_id": "V001",
+      "speaker": "A",
+      "text": "竟然是一个开源模型！",
+      "start": 4.22,
+      "end": 5.6
+    },
+    {
+      "id": "V002-c004",
+      "segment_id": "V002",
+      "speaker": "A",
+      "text": "大家好",
+      "start": 5.877,
+      "end": 6.457
+    },
+    {
+      "id": "V002-c005",
+      "segment_id": "V002",
+      "speaker": "A",
+      "text": "我是木子",
+      "start": 6.457,
+      "end": 6.957
+    },
+    {
+      "id": "V003-c006",
+      "segment_id": "V003",
+      "speaker": "A",
+      "text": "做视频离不开配音",
+      "start": 7.237,
+      "end": 8.797
+    },
+    {
+      "id": "V003-c007",
+      "segment_id": "V003",
+      "speaker": "A",
+      "text": "但市面上模型这么多",
+      "start": 8.797,
+      "end": 10.297
+    },
+    {
+      "id": "V003-c008",
+      "segment_id": "V003",
+      "speaker": "A",
+      "text": "免费的、收费的都有",
+      "start": 10.297,
+      "end": 11.977
+    },
+    {
+      "id": "V003-c009",
+      "segment_id": "V003",
+      "speaker": "A",
+      "text": "到底该怎么选？",
+      "start": 11.977,
+      "end": 12.737
+    },
+    {
+      "id": "V004-c010",
+      "segment_id": "V004",
+      "speaker": "A",
+      "text": "这期视频就来告诉你",
+      "start": 13.037,
+      "end": 14.677
+    },
+    {
+      "id": "V005-c011",
+      "segment_id": "V005",
+      "speaker": "A",
+      "text": "首先介绍一下参赛选手",
+      "start": 16.828,
+      "end": 18.278
+    },
+    {
+      "id": "V006-c012",
+      "segment_id": "V006",
+      "speaker": "A",
+      "text": "开源挑了 4 个目前用的人最多、关注度最高的",
+      "start": 18.694,
+      "end": 21.724
+    },
+    {
+      "id": "V006-c013",
+      "segment_id": "V006",
+      "speaker": "A",
+      "text": "分别是",
+      "start": 21.724,
+      "end": 22.684
+    },
+    {
+      "id": "V006-c014",
+      "segment_id": "V006",
+      "speaker": "A",
+      "text": "Qwen3-TTS、IndexTTS 2.5、VoxCPM2",
+      "start": 22.684,
+      "end": 27.984
+    },
+    {
+      "id": "V006-c015",
+      "segment_id": "V006",
+      "speaker": "A",
+      "text": "还有 CosyVoice 3",
+      "start": 27.984,
+      "end": 29.104
+    },
+    {
+      "id": "V007-c016",
+      "segment_id": "V007",
+      "speaker": "A",
+      "text": "闭源挑了 2 家大厂的主流代表",
+      "start": 29.623,
+      "end": 31.493
+    },
+    {
+      "id": "V007-c017",
+      "segment_id": "V007",
+      "speaker": "A",
+      "text": "豆包的 Seed-TTS 2.0",
+      "start": 31.493,
+      "end": 34.153
+    },
+    {
+      "id": "V007-c018",
+      "segment_id": "V007",
+      "speaker": "A",
+      "text": "以及 MiniMax 的 Speech 2.8 HD",
+      "start": 34.153,
+      "end": 36.213
+    },
+    {
+      "id": "V008-c019",
+      "segment_id": "V008",
+      "speaker": "A",
+      "text": "为了保证“比赛”尽量客观",
+      "start": 39.573,
+      "end": 41.613
+    },
+    {
+      "id": "V008-c020",
+      "segment_id": "V008",
+      "speaker": "A",
+      "text": "这次测试统一了四个条件",
+      "start": 41.613,
+      "end": 43.333
+    },
+    {
+      "id": "V009-c021",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "1. 同一个声音",
+      "start": 43.713,
+      "end": 46.153
+    },
+    {
+      "id": "V009-c022",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "每家都克隆同一套男女声参考音频",
+      "start": 46.153,
+      "end": 49.133
+    },
+    {
+      "id": "V009-c023",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "纯看模型还原的硬实力",
+      "start": 49.133,
+      "end": 50.733
+    },
+    {
+      "id": "V010-c024",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "2. 同一段文字",
+      "start": 51.166,
+      "end": 52.976
+    },
+    {
+      "id": "V010-c025",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "准备了 7 段内容",
+      "start": 52.976,
+      "end": 55.036
+    },
+    {
+      "id": "V010-c026",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "涵盖知识口播、带货、日常闲聊",
+      "start": 55.036,
+      "end": 58.076
+    },
+    {
+      "id": "V010-c027",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "还有容易翻车的中英混读、多音字和数字日期",
+      "start": 58.076,
+      "end": 61.416
+    },
+    {
+      "id": "V011-c028",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "3. 同一批生成",
+      "start": 61.798,
+      "end": 64.448
+    },
+    {
+      "id": "V011-c029",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "每家每段只跑一次",
+      "start": 64.448,
+      "end": 66.148
+    },
+    {
+      "id": "V011-c030",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "参数全用默认",
+      "start": 66.148,
+      "end": 67.608
+    },
+    {
+      "id": "V011-c031",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "不挑也不反复抽卡",
+      "start": 67.608,
+      "end": 69.568
+    },
+    {
+      "id": "V011-c032",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "模拟日常的实际使用情况",
+      "start": 69.568,
+      "end": 70.988
+    },
+    {
+      "id": "V012-c033",
+      "segment_id": "V012",
+      "speaker": "A",
+      "text": "4. 同一响度",
+      "start": 71.432,
+      "end": 73.322
+    },
+    {
+      "id": "V012-c034",
+      "segment_id": "V012",
+      "speaker": "A",
+      "text": "所有音频统一做了响度对齐",
+      "start": 73.322,
+      "end": 75.982
+    },
+    {
+      "id": "V012-c035",
+      "segment_id": "V012",
+      "speaker": "A",
+      "text": "避免音量大小影响听感判断",
+      "start": 75.982,
+      "end": 78.062
+    },
+    {
+      "id": "V013-c036",
+      "segment_id": "V013",
+      "speaker": "A",
+      "text": "测试采用盲听对比",
+      "start": 78.951,
+      "end": 80.651
+    },
+    {
+      "id": "V013-c037",
+      "segment_id": "V013",
+      "speaker": "A",
+      "text": "同一段文字",
+      "start": 80.651,
+      "end": 81.611
+    },
+    {
+      "id": "V013-c038",
+      "segment_id": "V013",
+      "speaker": "A",
+      "text": "只放 A 和 B 两条音频",
+      "start": 81.611,
+      "end": 84.011
+    },
+    {
+      "id": "V013-c039",
+      "segment_id": "V013",
+      "speaker": "A",
+      "text": "盲听后四选一",
+      "start": 84.011,
+      "end": 85.631
+    },
+    {
+      "id": "V013-c040",
+      "segment_id": "V013",
+      "speaker": "A",
+      "text": "A 好、B 好、都好、或者都不好",
+      "start": 85.631,
+      "end": 88.051
+    },
+    {
+      "id": "V014-c041",
+      "segment_id": "V014",
+      "speaker": "A",
+      "text": "原本一共有 105 组两两对决",
+      "start": 88.436,
+      "end": 90.786
+    },
+    {
+      "id": "V014-c042",
+      "segment_id": "V014",
+      "speaker": "A",
+      "text": "但测到第 60 组时",
+      "start": 90.786,
+      "end": 93.026
+    },
+    {
+      "id": "V014-c043",
+      "segment_id": "V014",
+      "speaker": "A",
+      "text": "程序通过算法估算",
+      "start": 93.026,
+      "end": 94.746
+    },
+    {
+      "id": "V014-c044",
+      "segment_id": "V014",
+      "speaker": "A",
+      "text": "前三名基本不会再变了",
+      "start": 94.746,
+      "end": 96.126
+    },
+    {
+      "id": "V015-c045",
+      "segment_id": "V015",
+      "speaker": "A",
+      "text": "这 60 组听下来",
+      "start": 96.538,
+      "end": 97.908
+    },
+    {
+      "id": "V015-c046",
+      "segment_id": "V015",
+      "speaker": "A",
+      "text": "有 6 组我判定为“都不好”",
+      "start": 97.908,
+      "end": 100.488
+    },
+    {
+      "id": "V015-c047",
+      "segment_id": "V015",
+      "speaker": "A",
+      "text": "主要集中在中英混读、带货和数字日期上",
+      "start": 100.488,
+      "end": 103.728
+    },
+    {
+      "id": "V018-c048",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "但翻车最严重的是 MiniMax",
+      "start": 104.098,
+      "end": 107.098
+    },
+    {
+      "id": "V018-c049",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "也是在中英混读这段",
+      "start": 107.098,
+      "end": 108.938
+    },
+    {
+      "id": "V018-c050",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "前 11 秒都对",
+      "start": 108.938,
+      "end": 110.658
+    },
+    {
+      "id": "V018-c051",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "后面直接“借题发挥”",
+      "start": 110.658,
+      "end": 112.698
+    },
+    {
+      "id": "V018-c052",
+      "segment_id": "V018",
+      "speaker": "A",
+      "text": "自己多念了整整 40 秒原文里根本没有的内容",
+      "start": 112.698,
+      "end": 115.738
+    },
+    {
+      "id": "V019-c053",
+      "segment_id": "V019",
+      "speaker": "A",
+      "text": "所以不管你用哪家",
+      "start": 128.84,
+      "end": 130.27
+    },
+    {
+      "id": "V019-c054",
+      "segment_id": "V019",
+      "speaker": "A",
+      "text": "第一次跑出来的结果",
+      "start": 130.27,
+      "end": 132.07
+    },
+    {
+      "id": "V019-c055",
+      "segment_id": "V019",
+      "speaker": "A",
+      "text": "一定记得自己先听一遍再用",
+      "start": 132.07,
+      "end": 133.75
+    },
+    {
+      "id": "V020-c056",
+      "segment_id": "V020",
+      "speaker": "A",
+      "text": "最终的盲测排名如下",
+      "start": 135.946,
+      "end": 137.256
+    },
+    {
+      "id": "V021-c057",
+      "segment_id": "V021",
+      "speaker": "A",
+      "text": "第 1 名 Qwen3-TTS",
+      "start": 137.698,
+      "end": 140.728
+    },
+    {
+      "id": "V021-c058",
+      "segment_id": "V021",
+      "speaker": "A",
+      "text": "第 2 名豆包 Seed-TTS 2.0",
+      "start": 140.728,
+      "end": 143.648
+    },
+    {
+      "id": "V021-c059",
+      "segment_id": "V021",
+      "speaker": "A",
+      "text": "两家只差了 13 分",
+      "start": 143.648,
+      "end": 145.588
+    },
+    {
+      "id": "V021-c060",
+      "segment_id": "V021",
+      "speaker": "A",
+      "text": "第 3 名是 VoxCPM2",
+      "start": 145.588,
+      "end": 148.248
+    },
+    {
+      "id": "V021-c061",
+      "segment_id": "V021",
+      "speaker": "A",
+      "text": "后面依次是 IndexTTS 2.5、CosyVoice 3 和 MiniMax",
+      "start": 148.248,
+      "end": 152.608
+    },
+    {
+      "id": "V022-c062",
+      "segment_id": "V022",
+      "speaker": "A",
+      "text": "整理这份对战数据表",
+      "start": 155.908,
+      "end": 157.448
+    },
+    {
+      "id": "V022-c063",
+      "segment_id": "V022",
+      "speaker": "A",
+      "text": "能看出几个比较有意思的结论",
+      "start": 157.448,
+      "end": 159.388
+    },
+    {
+      "id": "V023-c064",
+      "segment_id": "V023",
+      "speaker": "A",
+      "text": "一，梯队分水岭明显",
+      "start": 160.428,
+      "end": 162.468
+    },
+    {
+      "id": "V023-c065",
+      "segment_id": "V023",
+      "speaker": "A",
+      "text": "前三名对阵后三名",
+      "start": 162.468,
+      "end": 164.148
+    },
+    {
+      "id": "V023-c066",
+      "segment_id": "V023",
+      "speaker": "A",
+      "text": "40 场里只输了 3 场",
+      "start": 164.148,
+      "end": 166.388
+    },
+    {
+      "id": "V023-c067",
+      "segment_id": "V023",
+      "speaker": "A",
+      "text": "整体表现更稳定",
+      "start": 166.388,
+      "end": 167.448
+    },
+    {
+      "id": "V024-c068",
+      "segment_id": "V024",
+      "speaker": "A",
+      "text": "二，Qwen3-TTS 和豆包非常接近",
+      "start": 167.775,
+      "end": 171.685
+    },
+    {
+      "id": "V024-c069",
+      "segment_id": "V024",
+      "speaker": "A",
+      "text": "正面交手 3 次",
+      "start": 171.685,
+      "end": 173.385
+    },
+    {
+      "id": "V024-c070",
+      "segment_id": "V024",
+      "speaker": "A",
+      "text": "3 次评价都是平手",
+      "start": 173.385,
+      "end": 174.405
+    },
+    {
+      "id": "V025-c071",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "三，像不像",
+      "start": 174.759,
+      "end": 176.449
+    },
+    {
+      "id": "V025-c072",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "不等于好不好听",
+      "start": 176.449,
+      "end": 178.149
+    },
+    {
+      "id": "V025-c073",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "CosyVoice 3 的音色和原声最接近",
+      "start": 178.149,
+      "end": 180.089
+    },
+    {
+      "id": "V025-c074",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "但盲评排在第五",
+      "start": 180.089,
+      "end": 181.989
+    },
+    {
+      "id": "V025-c075",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "Qwen3-TTS 的相似度只排第五",
+      "start": 181.989,
+      "end": 185.629
+    },
+    {
+      "id": "V025-c076",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "盲评反而是第一",
+      "start": 185.629,
+      "end": 187.269
+    },
+    {
+      "id": "V025-c077",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "至少对我的耳朵来说",
+      "start": 187.269,
+      "end": 188.829
+    },
+    {
+      "id": "V025-c078",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "语调自然度和节奏",
+      "start": 188.829,
+      "end": 190.069
+    },
+    {
+      "id": "V025-c079",
+      "segment_id": "V025",
+      "speaker": "A",
+      "text": "往往比单纯的声纹相似度更重要",
+      "start": 190.069,
+      "end": 192.229
+    },
+    {
+      "id": "V026-c080",
+      "segment_id": "V026",
+      "speaker": "A",
+      "text": "四，稳定性方面",
+      "start": 192.59,
+      "end": 195.1
+    },
+    {
+      "id": "V026-c081",
+      "segment_id": "V026",
+      "speaker": "A",
+      "text": "同一句话生成三次",
+      "start": 195.1,
+      "end": 196.3
+    },
+    {
+      "id": "V026-c082",
+      "segment_id": "V026",
+      "speaker": "A",
+      "text": "Qwen3-TTS 的时长波动只有 0.1 秒左右",
+      "start": 196.3,
+      "end": 200.52
+    },
+    {
+      "id": "V026-c083",
+      "segment_id": "V026",
+      "speaker": "A",
+      "text": "语速控制是六家里最稳的",
+      "start": 200.52,
+      "end": 202.32
+    },
+    {
+      "id": "V027-c084",
+      "segment_id": "V027",
+      "speaker": "A",
+      "text": "先算笔账",
+      "start": 204.442,
+      "end": 205.292
+    },
+    {
+      "id": "V027-c085",
+      "segment_id": "V027",
+      "speaker": "A",
+      "text": "看看价格",
+      "start": 205.292,
+      "end": 206.092
+    },
+    {
+      "id": "V028-c086",
+      "segment_id": "V028",
+      "speaker": "A",
+      "text": "开源的四家没有软件成本",
+      "start": 206.479,
+      "end": 208.249
+    },
+    {
+      "id": "V028-c087",
+      "segment_id": "V028",
+      "speaker": "A",
+      "text": "花的基本就是电费和时间",
+      "start": 208.249,
+      "end": 209.969
+    },
+    {
+      "id": "V029-c088",
+      "segment_id": "V029",
+      "speaker": "A",
+      "text": "闭源按字计费",
+      "start": 210.465,
+      "end": 211.375
+    },
+    {
+      "id": "V030-c089",
+      "segment_id": "V030",
+      "speaker": "A",
+      "text": "豆包是一万个字符 3 块钱",
+      "start": 211.78,
+      "end": 213.73
+    },
+    {
+      "id": "V030-c090",
+      "segment_id": "V030",
+      "speaker": "A",
+      "text": "一个汉字算一个字符",
+      "start": 213.73,
+      "end": 215.91
+    },
+    {
+      "id": "V030-c091",
+      "segment_id": "V030",
+      "speaker": "A",
+      "text": "一期 6 分钟左右的视频",
+      "start": 215.91,
+      "end": 217.63
+    },
+    {
+      "id": "V030-c092",
+      "segment_id": "V030",
+      "speaker": "A",
+      "text": "成本不到 1 块钱",
+      "start": 217.63,
+      "end": 218.67
+    },
+    {
+      "id": "V031-c093",
+      "segment_id": "V031",
+      "speaker": "A",
+      "text": "MiniMax 是一万个字符 3 块 5",
+      "start": 219.083,
+      "end": 221.833
+    },
+    {
+      "id": "V031-c094",
+      "segment_id": "V031",
+      "speaker": "A",
+      "text": "但计费规则上一个汉字算两个字符",
+      "start": 221.833,
+      "end": 224.373
+    },
+    {
+      "id": "V031-c095",
+      "segment_id": "V031",
+      "speaker": "A",
+      "text": "实际折算下来的使用成本是豆包的两倍多",
+      "start": 224.373,
+      "end": 227.613
+    },
+    {
+      "id": "V032-c096",
+      "segment_id": "V032",
+      "speaker": "A",
+      "text": "另外在声音克隆上",
+      "start": 227.993,
+      "end": 229.083
+    },
+    {
+      "id": "V033-c097",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "如果用自己定制的声音",
+      "start": 229.637,
+      "end": 231.207
+    },
+    {
+      "id": "V033-c098",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "豆包有一笔 138 元的音色费",
+      "start": 231.207,
+      "end": 234.587
+    },
+    {
+      "id": "V033-c099",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "MiniMax 是 9 块 9",
+      "start": 234.587,
+      "end": 237.007
+    },
+    {
+      "id": "V033-c100",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "需要注意的是",
+      "start": 237.007,
+      "end": 238.487
+    },
+    {
+      "id": "V033-c101",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "豆包一旦正式合成",
+      "start": 238.487,
+      "end": 239.907
+    },
+    {
+      "id": "V033-c102",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "声音就固定了",
+      "start": 239.907,
+      "end": 241.347
+    },
+    {
+      "id": "V033-c103",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "建议先用试听功能调到满意再确认",
+      "start": 241.347,
+      "end": 244.407
+    },
+    {
+      "id": "V033-c104",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "如果直接用官方预设音色",
+      "start": 244.407,
+      "end": 246.487
+    },
+    {
+      "id": "V033-c105",
+      "segment_id": "V033",
+      "speaker": "A",
+      "text": "两家都没有这项费用",
+      "start": 246.487,
+      "end": 247.687
+    },
+    {
+      "id": "V034-c106",
+      "segment_id": "V034",
+      "speaker": "A",
+      "text": "那到底该选哪一个？",
+      "start": 247.981,
+      "end": 249.611
+    },
+    {
+      "id": "V034-c107",
+      "segment_id": "V034",
+      "speaker": "A",
+      "text": "我的建议就两条",
+      "start": 249.611,
+      "end": 250.551
+    },
+    {
+      "id": "V035-c108",
+      "segment_id": "V035",
+      "speaker": "A",
+      "text": "如果手头有显卡",
+      "start": 251.007,
+      "end": 252.517
+    },
+    {
+      "id": "V035-c109",
+      "segment_id": "V035",
+      "speaker": "A",
+      "text": "也愿意花时间配置环境",
+      "start": 252.517,
+      "end": 253.957
+    },
+    {
+      "id": "V035-c110",
+      "segment_id": "V035",
+      "speaker": "A",
+      "text": "优先选 Qwen3-TTS",
+      "start": 253.957,
+      "end": 256.877
+    },
+    {
+      "id": "V035-c111",
+      "segment_id": "V035",
+      "speaker": "A",
+      "text": "效果排在第一",
+      "start": 256.877,
+      "end": 258.177
+    },
+    {
+      "id": "V035-c112",
+      "segment_id": "V035",
+      "speaker": "A",
+      "text": "开源免费",
+      "start": 258.177,
+      "end": 259.097
+    },
+    {
+      "id": "V035-c113",
+      "segment_id": "V035",
+      "speaker": "A",
+      "text": "也支持商用",
+      "start": 259.097,
+      "end": 259.897
+    },
+    {
+      "id": "V036-c114",
+      "segment_id": "V036",
+      "speaker": "A",
+      "text": "如果没有显卡",
+      "start": 260.269,
+      "end": 261.439
+    },
+    {
+      "id": "V036-c115",
+      "segment_id": "V036",
+      "speaker": "A",
+      "text": "或者不想折腾本地环境",
+      "start": 261.439,
+      "end": 262.939
+    },
+    {
+      "id": "V036-c116",
+      "segment_id": "V036",
+      "speaker": "A",
+      "text": "选豆包 Seed-TTS 2.0",
+      "start": 262.939,
+      "end": 265.339
+    },
+    {
+      "id": "V036-c117",
+      "segment_id": "V036",
+      "speaker": "A",
+      "text": "综合表现和 Qwen3-TTS 接近",
+      "start": 265.339,
+      "end": 268.879
+    },
+    {
+      "id": "V036-c118",
+      "segment_id": "V036",
+      "speaker": "A",
+      "text": "按字付费",
+      "start": 268.879,
+      "end": 269.879
+    },
+    {
+      "id": "V036-c119",
+      "segment_id": "V036",
+      "speaker": "A",
+      "text": "省时省心",
+      "start": 269.879,
+      "end": 270.499
+    },
+    {
+      "id": "V037-c120",
+      "segment_id": "V037",
+      "speaker": "A",
+      "text": "以上就是本期的全部测试内容",
+      "start": 273.51,
+      "end": 275.61
+    },
+    {
+      "id": "V037-c121",
+      "segment_id": "V037",
+      "speaker": "A",
+      "text": "如果觉得有帮助",
+      "start": 275.95,
+      "end": 277.17
+    },
+    {
+      "id": "V037-c122",
+      "segment_id": "V037",
+      "speaker": "A",
+      "text": "记得点赞收藏",
+      "start": 277.43,
+      "end": 278.45
+    },
+    {
+      "id": "V037-c123",
+      "segment_id": "V037",
+      "speaker": "A",
+      "text": "还有什么想了解的",
+      "start": 278.83,
+      "end": 280.09
+    },
+    {
+      "id": "V037-c124",
+      "segment_id": "V037",
+      "speaker": "A",
+      "text": "也可以在评论区留言",
+      "start": 280.09,
+      "end": 281.39
+    },
+    {
+      "id": "V038-c125",
+      "segment_id": "V038",
+      "speaker": "A",
+      "text": "我是木子",
+      "start": 281.89,
+      "end": 282.61
+    },
+    {
+      "id": "V038-c126",
+      "segment_id": "V038",
+      "speaker": "A",
+      "text": "咱们下期再见！",
+      "start": 283.01,
+      "end": 283.83
+    }
+  ],
+  "planned_windows_only": false
+}

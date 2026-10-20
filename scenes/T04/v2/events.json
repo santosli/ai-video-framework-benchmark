@@ -1,0 +1,264 @@
+{
+  "case_id": "T04",
+  "version": 2,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration_seconds": 33.7,
+  "events": [
+    {
+      "start": 0,
+      "end": 33.7,
+      "source_id": "SANTOS002",
+      "source_in_seconds": 37.56666666666667,
+      "source_out_seconds": 71.26666666666667,
+      "output_in_seconds": 0,
+      "output_out_seconds": 33.7
+    }
+  ],
+  "word_timing_file": "word-timing.json",
+  "visual_events": [
+    {
+      "start": 0.0,
+      "end": 1.0333333333333334,
+      "kind": "broll",
+      "source_id": "BROLL-t04-no-tested-headings",
+      "source_file": "eval/shared-inputs/_talk-sources/real-santos002-01/broll/t04-no-tested-headings-1127-1158.mp4",
+      "source_sha256": "e165b72721503826cb9a1d5b1543c9dd456d51c48d05c600c0042864384fd237",
+      "source_offset_seconds": 0.0,
+      "source_frame_range": [
+        0,
+        31
+      ],
+      "render_frame_range": [
+        1127,
+        1158
+      ],
+      "render_variant": "t04-no-tested-headings",
+      "origin_seconds": [
+        37.56666666666667,
+        38.6
+      ],
+      "origin_timeline": "SANTOS002 published 30 fps clock",
+      "speech_source": "assets/voice.wav",
+      "reading_hold": false,
+      "continuous_animation": true,
+      "input_media": "assets/host.mp4",
+      "input_range_seconds": [
+        0.0,
+        1.0333333333333334
+      ]
+    },
+    {
+      "start": 1.0333333333333334,
+      "end": 2.0,
+      "kind": "host",
+      "source_id": "S06",
+      "source_file": "eval/shared-inputs/_talk-sources/real-santos002-01/S06-cfr30.mp4",
+      "source_sha256": "423f6fe9059e97eea4bce67253c7403df052093d423b4fcba45f2f72cba84acb",
+      "source_offset_seconds": 0.0,
+      "source_frame_range": [
+        0,
+        29
+      ],
+      "render_frame_range": null,
+      "render_variant": null,
+      "origin_seconds": [
+        38.6,
+        39.56666666666667
+      ],
+      "origin_timeline": "SANTOS002 published 30 fps clock",
+      "speech_source": "assets/voice.wav",
+      "reading_hold": false,
+      "continuous_animation": false,
+      "input_media": "assets/host.mp4",
+      "input_range_seconds": [
+        1.0333333333333334,
+        2.0
+      ]
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "kind": "host",
+      "source_id": "S06",
+      "source_file": "eval/shared-inputs/_talk-sources/real-santos002-01/S06-cfr30.mp4",
+      "source_sha256": "423f6fe9059e97eea4bce67253c7403df052093d423b4fcba45f2f72cba84acb",
+      "source_offset_seconds": 0.9666666666666667,
+      "source_frame_range": [
+        29,
+        149
+      ],
+      "render_frame_range": null,
+      "render_variant": null,
+      "origin_seconds": [
+        39.56666666666667,
+        43.56666666666667
+      ],
+      "origin_timeline": "SANTOS002 published 30 fps clock",
+      "speech_source": "assets/voice.wav",
+      "reading_hold": false,
+      "continuous_animation": false,
+      "input_media": "assets/host.mp4",
+      "input_range_seconds": [
+        2.0,
+        6.0
+      ]
+    },
+    {
+      "start": 6.0,
+      "end": 13.3,
+      "kind": "host",
+      "source_id": "S06",
+      "source_file": "eval/shared-inputs/_talk-sources/real-santos002-01/S06-cfr30.mp4",
+      "source_sha256": "423f6fe9059e97eea4bce67253c7403df052093d423b4fcba45f2f72cba84acb",
+      "source_offset_seconds": 4.966666666666667,
+      "source_frame_range": [
+        149,
+        368
+      ],
+      "render_frame_range": null,
+      "render_variant": null,
+      "origin_seconds": [
+        43.56666666666667,
+        50.86666666666667
+      ],
+      "origin_timeline": "SANTOS002 published 30 fps clock",
+      "speech_source": "assets/voice.wav",
+      "reading_hold": false,
+      "continuous_animation": false,
+      "input_media": "assets/host.mp4",
+      "input_range_seconds": [
+        6.0,
+        13.3
+      ]
+    },
+    {
+      "start": 13.3,
+      "end": 13.433333333333334,
+      "kind": "broll",
+      "source_id": "BROLL-t04-no-tested-headings",
+      "source_file": "eval/shared-inputs/_talk-sources/real-santos002-01/broll/t04-no-tested-headings-1526-2138.mp4",
+      "source_sha256": "40eb06739ee008cdfd9ef4d92c30f2fc379cf1c4041206c041eb42d31e97cfc4",
+      "source_offset_seconds": 0.0,
+      "source_frame_range": [
+        0,
+        4
+      ],
+      "render_frame_range": [
+        1526,
+        1530
+      ],
+      "render_variant": "t04-no-tested-headings",
+      "origin_seconds": [
+        50.86666666666667,
+        51.0
+      ],
+      "origin_timeline": "SANTOS002 published 30 fps clock",
+      "speech_source": "assets/voice.wav",
+      "reading_hold": false,
+      "continuous_animation": true,
+      "input_media": "assets/host.mp4",
+      "input_range_seconds": [
+        13.3,
+        13.433333333333334
+      ]
+    },
+    {
+      "start": 13.433333333333334,
+      "end": 24.066666666666666,
+      "kind": "broll",
+      "source_id": "BROLL-t04-no-tested-headings",
+      "source_file": "eval/shared-inputs/_talk-sources/real-santos002-01/broll/t04-no-tested-headings-1526-2138.mp4",
+      "source_sha256": "40eb06739ee008cdfd9ef4d92c30f2fc379cf1c4041206c041eb42d31e97cfc4",
+      "source_offset_seconds": 0.13333333333333333,
+      "source_frame_range": [
+        4,
+        323
+      ],
+      "render_frame_range": [
+        1530,
+        1849
+      ],
+      "render_variant": "t04-no-tested-headings",
+      "origin_seconds": [
+        51.0,
+        61.63333333333333
+      ],
+      "origin_timeline": "SANTOS002 published 30 fps clock",
+      "speech_source": "assets/voice.wav",
+      "reading_hold": false,
+      "continuous_animation": true,
+      "input_media": "assets/host.mp4",
+      "input_range_seconds": [
+        13.433333333333334,
+        24.066666666666666
+      ]
+    },
+    {
+      "start": 24.066666666666666,
+      "end": 33.7,
+      "kind": "broll",
+      "source_id": "BROLL-t04-no-tested-headings",
+      "source_file": "eval/shared-inputs/_talk-sources/real-santos002-01/broll/t04-no-tested-headings-1526-2138.mp4",
+      "source_sha256": "40eb06739ee008cdfd9ef4d92c30f2fc379cf1c4041206c041eb42d31e97cfc4",
+      "source_offset_seconds": 10.766666666666667,
+      "source_frame_range": [
+        323,
+        612
+      ],
+      "render_frame_range": [
+        1849,
+        2138
+      ],
+      "render_variant": "t04-no-tested-headings",
+      "origin_seconds": [
+        61.63333333333333,
+        71.26666666666667
+      ],
+      "origin_timeline": "SANTOS002 published 30 fps clock",
+      "speech_source": "assets/voice.wav",
+      "reading_hold": false,
+      "continuous_animation": true,
+      "input_media": "assets/host.mp4",
+      "input_range_seconds": [
+        24.066666666666666,
+        33.7
+      ]
+    }
+  ],
+  "auxiliary_bindings": [
+    {
+      "asset": "cards.json#同一个声音",
+      "anchor": "同一个声音",
+      "key_anchor_id": "V009:同一个声音",
+      "start": 7.209738333333327,
+      "end": 7.951738333333331,
+      "source_anchor": {
+        "segment_id": "V009",
+        "phrase": "同一个声音",
+        "spoken_alias": "同一个声音",
+        "start": 44.776405,
+        "end": 45.518405,
+        "method": "MMS_FA forced alignment",
+        "manual_reviewed": false
+      }
+    },
+    {
+      "asset": "cards.json#同一段文字",
+      "anchor": "同一段文字",
+      "key_anchor_id": "V010:同一段文字",
+      "start": 14.42047733333333,
+      "end": 15.10124033333333,
+      "source_anchor": {
+        "segment_id": "V010",
+        "phrase": "同一段文字",
+        "spoken_alias": "同一段文字",
+        "start": 51.987144,
+        "end": 52.667907,
+        "method": "MMS_FA forced alignment",
+        "manual_reviewed": false
+      }
+    }
+  ]
+}

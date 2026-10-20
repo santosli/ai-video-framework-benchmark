@@ -1,0 +1,30 @@
+{
+  "labels": [
+    "天王星",
+    "土星",
+    "海王星"
+  ],
+  "values": [
+    28,
+    146,
+    16
+  ],
+  "total": 190,
+  "unit": "颗",
+  "axis_min": 0,
+  "axis_max": 300,
+  "ticks": [
+    0,
+    50,
+    100,
+    150,
+    200,
+    250,
+    300
+  ],
+  "equal_bar_width": 220,
+  "scale_pixels_per_unit": 2,
+  "cutoff_label": "2025-03-11 土星新增卫星确认前",
+  "not_current_counts": true,
+  "total_scope": "所选三颗行星，非太阳系总数"
+}

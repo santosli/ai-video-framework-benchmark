@@ -1,0 +1,188 @@
+{
+  "case_id": "S02",
+  "version": 2,
+  "protocol_version": 6,
+  "source_revision": "real-audio-user-approved-text-2026-10-14",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 33,
+  "frames_per_output": 990,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "axis_min": 0,
+    "axis_max": 30,
+    "unit": "条线",
+    "formula": "N(N−1)/2",
+    "directed": false,
+    "self_edges": false,
+    "groups": [
+      {
+        "n": 4,
+        "edge_count": 6,
+        "nodes": [
+          {
+            "id": "A",
+            "x": 450.0,
+            "y": 215.0
+          },
+          {
+            "id": "B",
+            "x": 710.0,
+            "y": 475.0
+          },
+          {
+            "id": "C",
+            "x": 450.0,
+            "y": 735.0
+          },
+          {
+            "id": "D",
+            "x": 190.0,
+            "y": 475.0
+          }
+        ],
+        "edges": [
+          {
+            "a": "A",
+            "b": "B"
+          },
+          {
+            "a": "A",
+            "b": "C"
+          },
+          {
+            "a": "A",
+            "b": "D"
+          },
+          {
+            "a": "B",
+            "b": "C"
+          },
+          {
+            "a": "B",
+            "b": "D"
+          },
+          {
+            "a": "C",
+            "b": "D"
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "edge_count": 15,
+        "nodes": [
+          {
+            "id": "A",
+            "x": 450.0,
+            "y": 215.0
+          },
+          {
+            "id": "B",
+            "x": 675.166605,
+            "y": 345.0
+          },
+          {
+            "id": "C",
+            "x": 675.166605,
+            "y": 605.0
+          },
+          {
+            "id": "D",
+            "x": 450.0,
+            "y": 735.0
+          },
+          {
+            "id": "E",
+            "x": 224.833395,
+            "y": 605.0
+          },
+          {
+            "id": "F",
+            "x": 224.833395,
+            "y": 345.0
+          }
+        ],
+        "edges": [
+          {
+            "a": "A",
+            "b": "B"
+          },
+          {
+            "a": "A",
+            "b": "C"
+          },
+          {
+            "a": "A",
+            "b": "D"
+          },
+          {
+            "a": "A",
+            "b": "E"
+          },
+          {
+            "a": "A",
+            "b": "F"
+          },
+          {
+            "a": "B",
+            "b": "C"
+          },
+          {
+            "a": "B",
+            "b": "D"
+          },
+          {
+            "a": "B",
+            "b": "E"
+          },
+          {
+            "a": "B",
+            "b": "F"
+          },
+          {
+            "a": "C",
+            "b": "D"
+          },
+          {
+            "a": "C",
+            "b": "E"
+          },
+          {
+            "a": "C",
+            "b": "F"
+          },
+          {
+            "a": "D",
+            "b": "E"
+          },
+          {
+            "a": "D",
+            "b": "F"
+          },
+          {
+            "a": "E",
+            "b": "F"
+          }
+        ]
+      }
+    ]
+  },
+  "requirements": {
+    "preserve": [
+      "first_graph",
+      "axis_0_30",
+      "general_formula_bytes",
+      "unchanged_sentence_PCM",
+      "event_order"
+    ],
+    "motion_and_readability_human_review_required": true
+  },
+  "not_framework_result": true,
+  "acceptance": "两组为 4 点/6 条线、6 点/15 条线；无自边、无重复边，按逐边帧时同步累计计数；通式 N(N−1)/2，固定 0–30 轴。",
+  "audio_review_evidence": "eval/real-audio-2026-10-14.json"
+}

@@ -1,0 +1,18 @@
+{
+  "fps": 30,
+  "duration_seconds": 30,
+  "events": [
+    {
+      "start": 0,
+      "end": 30,
+      "state": "landing_page",
+      "asset": "assets/site/index.html",
+      "must_show": [
+        "把零散任务整理成清楚可执行的每日行动清单",
+        "50%",
+        "整体已完成 2/4"
+      ],
+      "readable_seconds_at_least": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "start": 0,
+    "end": 10,
+    "start_frame": 0,
+    "end_frame_exclusive": 300,
+    "state": "waiting",
+    "readable_hold_seconds_min": 3,
+    "label": "等待",
+    "shape": "circle",
+    "legend": "assets/state-legend-v1.json"
+  },
+  {
+    "start": 10,
+    "end": 20,
+    "start_frame": 300,
+    "end_frame_exclusive": 600,
+    "state": "processing",
+    "readable_hold_seconds_min": 3,
+    "label": "处理中",
+    "shape": "triangle",
+    "legend": "assets/state-legend-v1.json"
+  },
+  {
+    "start": 20,
+    "end": 30,
+    "start_frame": 600,
+    "end_frame_exclusive": 900,
+    "state": "done",
+    "readable_hold_seconds_min": 3,
+    "label": "完成",
+    "shape": "rounded_rectangle",
+    "legend": "assets/state-legend-v1.json"
+  }
+]

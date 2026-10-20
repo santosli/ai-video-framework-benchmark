@@ -1,0 +1,15 @@
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+The authored input specifications, fixture source files and data under scenes/
+are licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+Public License, except as otherwise noted in THIRD_PARTY_NOTICES.md or in the
+individual files. Copyright (c) 2026 木子San and attributed upstream contributors.
+
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Full legal terms: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Attribution: 木子San, AI Video Framework Benchmark
+https://github.com/santosli/ai-video-framework-benchmark
+State your modifications and preserve upstream attribution when applicable.
+This grant does not cover missing binary media, fonts, framework dependencies,
+official skill repositories or trademarks. They retain their own terms.

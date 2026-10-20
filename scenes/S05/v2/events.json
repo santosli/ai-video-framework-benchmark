@@ -1,0 +1,21 @@
+{
+  "fps": 30,
+  "duration_seconds": 30,
+  "events": [
+    {
+      "start": 0,
+      "end": 30,
+      "start_frame": 0,
+      "end_frame_exclusive": 900,
+      "state": "deterministic_3d",
+      "readable_hold_seconds_min": 3,
+      "model": "assets/model.glb",
+      "camera": "assets/camera-v2.json",
+      "particles": "assets/particles.json",
+      "texture": "assets/texture.png",
+      "label": "坐标演示，非真实物理模拟",
+      "max_information_items": 3
+    }
+  ],
+  "sentence_windows_are_not_verified_audio_timestamps": false
+}

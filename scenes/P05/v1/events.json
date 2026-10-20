@@ -1,0 +1,17 @@
+{
+  "fps": 30,
+  "duration_seconds": 30,
+  "events": [
+    {
+      "start": 0,
+      "end": 30,
+      "state": "device",
+      "model": "assets/device.glb",
+      "camera": "assets/camera.json",
+      "materials": "assets/materials-v1.json",
+      "screen_start": 0,
+      "screen_end": 30,
+      "required_motion": "follow camera track; screen frames advance with output frames"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+ "case_id": "K08",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 16.366666666666667,
+ "frames": 491,
+ "kind": "talk",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "为了保证“比赛”尽量客观",
+   "clip": 1
+  },
+  {
+   "id": "c02",
+   "text": "这次测试统一了四个条件",
+   "clip": 1
+  },
+  {
+   "id": "c03",
+   "text": "测试采用盲听对比",
+   "clip": 2
+  },
+  {
+   "id": "c04",
+   "text": "同一段文字",
+   "clip": 2
+  },
+  {
+   "id": "c05",
+   "text": "只放 A 和 B 两条音频",
+   "clip": 2
+  },
+  {
+   "id": "c06",
+   "text": "但翻车最严重的是 MiniMax",
+   "clip": 3
+  },
+  {
+   "id": "c07",
+   "text": "也是在中英混读这段",
+   "clip": 3
+  },
+  {
+   "id": "c08",
+   "text": "前 11 秒都对",
+   "clip": 3
+  }
+ ],
+ "clips": [
+  {
+   "order": 1,
+   "video": "assets/host-1.mp4",
+   "audio": "assets/voice-1.wav",
+   "frames": 126,
+   "seconds": 4.2,
+   "note": null
+  },
+  {
+   "order": 2,
+   "video": "assets/host-2.mp4",
+   "audio": "assets/voice-2.wav",
+   "frames": 159,
+   "seconds": 5.3,
+   "note": null
+  },
+  {
+   "order": 3,
+   "video": "assets/host-3.mp4",
+   "audio": "assets/voice-3.wav",
+   "frames": 206,
+   "seconds": 6.866666666666666,
+   "note": "最后 4 帧为人物最后一帧静止延长（原片此处已切走，人声尾音需要保留）"
+  }
+ ],
+ "layout_requirements": [
+  "3 段人物片段按顺序首尾相接，对应 3 个章节：“测试条件”“测试方法”“测试结果”",
+  "画面顶部常驻章节导航条：当前章高亮、进度随时间推进，进入下一段时切到下一章；导航条不挡人脸"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

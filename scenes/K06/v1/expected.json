@@ -1,0 +1,17 @@
+{
+ "case_id": "K06",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 9.133333333333333,
+ "frames_per_output": 274,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "说“我是木子”时画面下方出名牌条：主名“木子”，副标题“AI 实践”，停留约 3 秒后收起；说“到底该怎么选？”时整屏切成金句卡（大字“到底该怎么选？”），这句说完切回人物",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

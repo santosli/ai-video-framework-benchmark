@@ -1,0 +1,57 @@
+{
+ "case_id": "K09",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 10.433333333333334,
+ "frames": 313,
+ "kind": "talk",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "以上就是本期的全部测试内容"
+  },
+  {
+   "id": "c02",
+   "text": "如果觉得有帮助"
+  },
+  {
+   "id": "c03",
+   "text": "记得点赞收藏"
+  },
+  {
+   "id": "c04",
+   "text": "还有什么想了解的"
+  },
+  {
+   "id": "c05",
+   "text": "也可以在评论区留言"
+  },
+  {
+   "id": "c06",
+   "text": "我是木子"
+  },
+  {
+   "id": "c07",
+   "text": "咱们下期再见！"
+  }
+ ],
+ "clips": [
+  {
+   "order": 1,
+   "video": "assets/host.mp4",
+   "audio": "assets/voice.wav",
+   "frames": 313,
+   "seconds": 10.433333333333334,
+   "note": null
+  }
+ ],
+ "layout_requirements": [
+  "人物全屏口播；说到“还有什么想了解的 / 也可以在评论区留言”时，依次弹出 assets/comment-1…3.png 三张评论截图卡",
+  "评论卡不挡人脸，文字清楚；“我是木子”前收起"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}

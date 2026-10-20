@@ -1,0 +1,17 @@
+{
+  "samples": [
+    {
+      "seconds": 21.266666666666666,
+      "asset": "formula-reference.svg"
+    }
+  ],
+  "purpose": "source QA only, not mandatory creative layout",
+  "timeline_amendment": "2026-10-14; use event midpoint frames in events.json; source stills remain content references",
+  "event_midpoint_frames": [
+    117,
+    296,
+    416,
+    500,
+    638
+  ]
+}

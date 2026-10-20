@@ -1,0 +1,21 @@
+{
+  "schematic": true,
+  "values": [
+    {
+      "id": "step1",
+      "text": "步骤 1：加入明矾",
+      "value": 1
+    },
+    {
+      "id": "step2",
+      "text": "步骤 2：杂质聚集",
+      "value": 2
+    },
+    {
+      "id": "step3",
+      "text": "步骤 3：过滤去除",
+      "value": 3
+    }
+  ],
+  "no_removal_efficiency_or_drinking_safety_claim": true
+}

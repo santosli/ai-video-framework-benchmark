@@ -1,0 +1,1422 @@
+{
+  "sample_rate": 48000,
+  "voice_sha256": "fe6e7e169089cc8ffbc40fe79d76d504d88e4018098a3a662817b1cc391fca98",
+  "manual_reviewed": false,
+  "utterances": [
+    {
+      "id": "c01",
+      "segment_id": "S04-R01",
+      "text": "N 个点之间一共有多少条线？",
+      "start": 0.25,
+      "end": 2.39,
+      "words": [
+        {
+          "word": "N",
+          "start": 0.25,
+          "end": 0.51,
+          "start_sample": 12000,
+          "end_sample": 24480,
+          "probability": 0.75634765625
+        },
+        {
+          "word": "个",
+          "start": 0.51,
+          "end": 0.61,
+          "start_sample": 24480,
+          "end_sample": 29280,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "点",
+          "start": 0.61,
+          "end": 0.75,
+          "start_sample": 29280,
+          "end_sample": 36000,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "之",
+          "start": 0.75,
+          "end": 0.97,
+          "start_sample": 36000,
+          "end_sample": 46560,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "间",
+          "start": 0.97,
+          "end": 1.17,
+          "start_sample": 46560,
+          "end_sample": 56160,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "一",
+          "start": 1.17,
+          "end": 1.53,
+          "start_sample": 56160,
+          "end_sample": 73440,
+          "probability": 0.9521484375
+        },
+        {
+          "word": "共",
+          "start": 1.53,
+          "end": 1.63,
+          "start_sample": 73440,
+          "end_sample": 78240,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "有",
+          "start": 1.63,
+          "end": 1.75,
+          "start_sample": 78240,
+          "end_sample": 84000,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "多少",
+          "start": 1.75,
+          "end": 1.99,
+          "start_sample": 84000,
+          "end_sample": 95520,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "条",
+          "start": 1.99,
+          "end": 2.13,
+          "start_sample": 95520,
+          "end_sample": 102240,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "线",
+          "start": 2.13,
+          "end": 2.39,
+          "start_sample": 102240,
+          "end_sample": 114720,
+          "probability": 0.997802734375
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "8c5835d3e74e570606ba9ab89f592518658a128b7b8efbd8b23d41bcbfe94827",
+      "shared_pcm_sha256": "d3b48c13ab26cd9e905722d1aa45d51e1247ab7ad55f16a45f4c03196c1ce236",
+      "file_window": [
+        0.25,
+        2.6392083333333334
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c02",
+      "segment_id": "S04-R02",
+      "text": "每个点都要连另外 N 减 1 个点，乘起来是 N 乘以 N 减 1。",
+      "start": 2.959208333333333,
+      "end": 7.159208333333333,
+      "words": [
+        {
+          "word": "每",
+          "start": 2.959208333333333,
+          "end": 3.1992083333333334,
+          "start_sample": 142042,
+          "end_sample": 153562,
+          "probability": 0.986328125
+        },
+        {
+          "word": "个",
+          "start": 3.1992083333333334,
+          "end": 3.339208333333333,
+          "start_sample": 153562,
+          "end_sample": 160282,
+          "probability": 0.859375
+        },
+        {
+          "word": "点",
+          "start": 3.339208333333333,
+          "end": 3.459208333333333,
+          "start_sample": 160282,
+          "end_sample": 166042,
+          "probability": 0.9921875
+        },
+        {
+          "word": "都",
+          "start": 3.459208333333333,
+          "end": 3.6192083333333334,
+          "start_sample": 166042,
+          "end_sample": 173722,
+          "probability": 0.97900390625
+        },
+        {
+          "word": "要",
+          "start": 3.6192083333333334,
+          "end": 3.6792083333333334,
+          "start_sample": 173722,
+          "end_sample": 176602,
+          "probability": 0.9833984375
+        },
+        {
+          "word": "连",
+          "start": 3.6792083333333334,
+          "end": 3.8192083333333335,
+          "start_sample": 176602,
+          "end_sample": 183322,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "另外",
+          "start": 3.8192083333333335,
+          "end": 4.059208333333333,
+          "start_sample": 183322,
+          "end_sample": 194842,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "N",
+          "start": 4.059208333333333,
+          "end": 4.199208333333333,
+          "start_sample": 194842,
+          "end_sample": 201562,
+          "probability": 0.642578125
+        },
+        {
+          "word": "减",
+          "start": 4.199208333333333,
+          "end": 4.359208333333333,
+          "start_sample": 201562,
+          "end_sample": 209242,
+          "probability": 0.920654296875
+        },
+        {
+          "word": "一个",
+          "start": 4.359208333333333,
+          "end": 4.539208333333334,
+          "start_sample": 209242,
+          "end_sample": 217882,
+          "probability": 0.943359375
+        },
+        {
+          "word": "点,",
+          "start": 4.539208333333334,
+          "end": 4.739208333333333,
+          "start_sample": 217882,
+          "end_sample": 227482,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "乘",
+          "start": 5.2992083333333335,
+          "end": 5.419208333333334,
+          "start_sample": 254362,
+          "end_sample": 260122,
+          "probability": 0.976318359375
+        },
+        {
+          "word": "起",
+          "start": 5.419208333333334,
+          "end": 5.579208333333334,
+          "start_sample": 260122,
+          "end_sample": 267802,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "来",
+          "start": 5.579208333333334,
+          "end": 5.839208333333334,
+          "start_sample": 267802,
+          "end_sample": 280282,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "是",
+          "start": 5.839208333333334,
+          "end": 6.2592083333333335,
+          "start_sample": 280282,
+          "end_sample": 300442,
+          "probability": 0.8994140625
+        },
+        {
+          "word": "N",
+          "start": 6.2592083333333335,
+          "end": 6.419208333333334,
+          "start_sample": 300442,
+          "end_sample": 308122,
+          "probability": 0.88671875
+        },
+        {
+          "word": "乘",
+          "start": 6.419208333333334,
+          "end": 6.579208333333334,
+          "start_sample": 308122,
+          "end_sample": 315802,
+          "probability": 0.88525390625
+        },
+        {
+          "word": "以",
+          "start": 6.579208333333334,
+          "end": 6.699208333333333,
+          "start_sample": 315802,
+          "end_sample": 321562,
+          "probability": 0.994140625
+        },
+        {
+          "word": "N",
+          "start": 6.699208333333333,
+          "end": 6.819208333333333,
+          "start_sample": 321562,
+          "end_sample": 327322,
+          "probability": 0.99169921875
+        },
+        {
+          "word": "减",
+          "start": 6.819208333333333,
+          "end": 7.019208333333333,
+          "start_sample": 327322,
+          "end_sample": 336922,
+          "probability": 0.992919921875
+        },
+        {
+          "word": "一",
+          "start": 7.019208333333333,
+          "end": 7.159208333333333,
+          "start_sample": 336922,
+          "end_sample": 343642,
+          "probability": 0.363037109375
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "89b5e0dd312a9634742744536f26ebf4e4479734fbddb645dd5c3305caaa1159",
+      "shared_pcm_sha256": "f2505573f7b89d9421fe97f44574a9f52fe51295dc651ca124b19414b706fe78",
+      "file_window": [
+        2.959208333333333,
+        7.472833333333333
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c03",
+      "segment_id": "S04-R03",
+      "text": "但这样每条线被两头各算了一次，所以还要除以 2。",
+      "start": 7.792833333333333,
+      "end": 11.312833333333334,
+      "words": [
+        {
+          "word": "但",
+          "start": 7.792833333333333,
+          "end": 7.9928333333333335,
+          "start_sample": 374056,
+          "end_sample": 383656,
+          "probability": 0.9853515625
+        },
+        {
+          "word": "这样",
+          "start": 7.9928333333333335,
+          "end": 8.252833333333333,
+          "start_sample": 383656,
+          "end_sample": 396136,
+          "probability": 0.88916015625
+        },
+        {
+          "word": "每",
+          "start": 8.252833333333333,
+          "end": 8.452833333333333,
+          "start_sample": 396136,
+          "end_sample": 405736,
+          "probability": 0.978515625
+        },
+        {
+          "word": "条",
+          "start": 8.452833333333333,
+          "end": 8.592833333333333,
+          "start_sample": 405736,
+          "end_sample": 412456,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "线",
+          "start": 8.592833333333333,
+          "end": 8.792833333333334,
+          "start_sample": 412456,
+          "end_sample": 422056,
+          "probability": 0.998046875
+        },
+        {
+          "word": "被",
+          "start": 8.792833333333334,
+          "end": 8.892833333333334,
+          "start_sample": 422056,
+          "end_sample": 426856,
+          "probability": 0.98193359375
+        },
+        {
+          "word": "两",
+          "start": 8.892833333333334,
+          "end": 9.032833333333333,
+          "start_sample": 426856,
+          "end_sample": 433576,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "头",
+          "start": 9.032833333333333,
+          "end": 9.232833333333334,
+          "start_sample": 433576,
+          "end_sample": 443176,
+          "probability": 0.97802734375
+        },
+        {
+          "word": "各",
+          "start": 9.232833333333334,
+          "end": 9.352833333333333,
+          "start_sample": 443176,
+          "end_sample": 448936,
+          "probability": 0.94482421875
+        },
+        {
+          "word": "算",
+          "start": 9.352833333333333,
+          "end": 9.552833333333334,
+          "start_sample": 448936,
+          "end_sample": 458536,
+          "probability": 0.998046875
+        },
+        {
+          "word": "了",
+          "start": 9.552833333333334,
+          "end": 9.692833333333333,
+          "start_sample": 458536,
+          "end_sample": 465256,
+          "probability": 0.98193359375
+        },
+        {
+          "word": "一次",
+          "start": 9.692833333333333,
+          "end": 9.952833333333333,
+          "start_sample": 465256,
+          "end_sample": 477736,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "所以",
+          "start": 10.352833333333333,
+          "end": 10.652833333333334,
+          "start_sample": 496936,
+          "end_sample": 511336,
+          "probability": 0.38330078125
+        },
+        {
+          "word": "还",
+          "start": 10.652833333333334,
+          "end": 10.812833333333334,
+          "start_sample": 511336,
+          "end_sample": 519016,
+          "probability": 0.9853515625
+        },
+        {
+          "word": "要",
+          "start": 10.812833333333334,
+          "end": 10.932833333333333,
+          "start_sample": 519016,
+          "end_sample": 524776,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "除",
+          "start": 10.932833333333333,
+          "end": 11.052833333333334,
+          "start_sample": 524776,
+          "end_sample": 530536,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "以",
+          "start": 11.052833333333334,
+          "end": 11.192833333333333,
+          "start_sample": 530536,
+          "end_sample": 537256,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "二",
+          "start": 11.192833333333333,
+          "end": 11.312833333333334,
+          "start_sample": 537256,
+          "end_sample": 543016,
+          "probability": 0.83984375
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "af6f08ad0eed63699513f2ce9ff710a516cc0f30c120d2c5aff273de9f8eecd0",
+      "shared_pcm_sha256": "1e7417f53f3f7b839239e99385b1029b08334a8c7c27d0ced82a554d1bde4979",
+      "file_window": [
+        7.792833333333333,
+        11.601625
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c04",
+      "segment_id": "S04-R04",
+      "text": "代入 N 等于 4 试试：4 减 1 是 3，4 乘 3 是 12，再除以 2，得 6。",
+      "start": 11.921625,
+      "end": 18.941625,
+      "words": [
+        {
+          "word": "代",
+          "start": 11.921625,
+          "end": 12.161625,
+          "start_sample": 572238,
+          "end_sample": 583758,
+          "probability": 0.8701171875
+        },
+        {
+          "word": "入",
+          "start": 12.161625,
+          "end": 12.321625,
+          "start_sample": 583758,
+          "end_sample": 591438,
+          "probability": 0.9453125
+        },
+        {
+          "word": "恩",
+          "start": 12.321625,
+          "end": 12.501625,
+          "start_sample": 591438,
+          "end_sample": 600078,
+          "probability": 0.91650390625
+        },
+        {
+          "word": "等",
+          "start": 12.501625,
+          "end": 12.901625,
+          "start_sample": 600078,
+          "end_sample": 619278,
+          "probability": 0.8740234375
+        },
+        {
+          "word": "于",
+          "start": 12.901625,
+          "end": 13.061625,
+          "start_sample": 619278,
+          "end_sample": 626958,
+          "probability": 0.9658203125
+        },
+        {
+          "word": "四",
+          "start": 13.061625,
+          "end": 13.261625,
+          "start_sample": 626958,
+          "end_sample": 636558,
+          "probability": 0.513671875
+        },
+        {
+          "word": "十",
+          "start": 13.261625,
+          "end": 13.441625,
+          "start_sample": 636558,
+          "end_sample": 645198,
+          "probability": 0.6630859375
+        },
+        {
+          "word": "十",
+          "start": 13.441625,
+          "end": 13.641625,
+          "start_sample": 645198,
+          "end_sample": 654798,
+          "probability": 0.5400390625
+        },
+        {
+          "word": "四",
+          "start": 14.101625,
+          "end": 14.461625,
+          "start_sample": 676878,
+          "end_sample": 694158,
+          "probability": 0.453857421875
+        },
+        {
+          "word": "减",
+          "start": 14.461625,
+          "end": 14.641625,
+          "start_sample": 694158,
+          "end_sample": 702798,
+          "probability": 0.891357421875
+        },
+        {
+          "word": "一",
+          "start": 14.641625,
+          "end": 14.801625,
+          "start_sample": 702798,
+          "end_sample": 710478,
+          "probability": 0.97265625
+        },
+        {
+          "word": "是",
+          "start": 14.801625,
+          "end": 14.961625,
+          "start_sample": 710478,
+          "end_sample": 718158,
+          "probability": 0.90283203125
+        },
+        {
+          "word": "三",
+          "start": 14.961625,
+          "end": 15.141625,
+          "start_sample": 718158,
+          "end_sample": 726798,
+          "probability": 0.94580078125
+        },
+        {
+          "word": "四",
+          "start": 15.641625,
+          "end": 16.001625,
+          "start_sample": 750798,
+          "end_sample": 768078,
+          "probability": 0.88818359375
+        },
+        {
+          "word": "乘",
+          "start": 16.001625,
+          "end": 16.141625,
+          "start_sample": 768078,
+          "end_sample": 774798,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "三",
+          "start": 16.141625,
+          "end": 16.321625,
+          "start_sample": 774798,
+          "end_sample": 783438,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "是",
+          "start": 16.321625,
+          "end": 16.481625,
+          "start_sample": 783438,
+          "end_sample": 791118,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "十",
+          "start": 16.481625,
+          "end": 16.681625,
+          "start_sample": 791118,
+          "end_sample": 800718,
+          "probability": 0.96533203125
+        },
+        {
+          "word": "二",
+          "start": 16.681625,
+          "end": 16.881625,
+          "start_sample": 800718,
+          "end_sample": 810318,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "再",
+          "start": 17.261625,
+          "end": 17.621625,
+          "start_sample": 828558,
+          "end_sample": 845838,
+          "probability": 0.9501953125
+        },
+        {
+          "word": "除",
+          "start": 17.621625,
+          "end": 17.801625,
+          "start_sample": 845838,
+          "end_sample": 854478,
+          "probability": 0.984375
+        },
+        {
+          "word": "以",
+          "start": 17.801625,
+          "end": 17.941625,
+          "start_sample": 854478,
+          "end_sample": 861198,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "二",
+          "start": 17.941625,
+          "end": 18.101625,
+          "start_sample": 861198,
+          "end_sample": 868878,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "得",
+          "start": 18.101625,
+          "end": 18.761625,
+          "start_sample": 868878,
+          "end_sample": 900558,
+          "probability": 0.90771484375
+        },
+        {
+          "word": "六",
+          "start": 18.761625,
+          "end": 18.941625,
+          "start_sample": 900558,
+          "end_sample": 909198,
+          "probability": 0.99267578125
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "1a452fd0fc3349e299a41bd91db8cb0d95fc56229864755118145777a7d8a69f",
+      "shared_pcm_sha256": "5fee9da7c4b708a25125572d4eb28b7f488350eb0f2522dfee4da35fe22e89b0",
+      "file_window": [
+        11.921625,
+        19.13083333333333
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c05",
+      "segment_id": "S04-R05",
+      "text": "4 个点，正好 6 条线。",
+      "start": 19.840583333333335,
+      "end": 21.640583333333332,
+      "words": [
+        {
+          "word": "四",
+          "start": 19.840583333333335,
+          "end": 20.140583333333332,
+          "start_sample": 952348,
+          "end_sample": 966748,
+          "probability": 0.75146484375
+        },
+        {
+          "word": "个",
+          "start": 20.140583333333332,
+          "end": 20.260583333333333,
+          "start_sample": 966748,
+          "end_sample": 972508,
+          "probability": 0.97021484375
+        },
+        {
+          "word": "点,",
+          "start": 20.260583333333333,
+          "end": 20.420583333333333,
+          "start_sample": 972508,
+          "end_sample": 980188,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "正",
+          "start": 20.640583333333332,
+          "end": 21.000583333333335,
+          "start_sample": 990748,
+          "end_sample": 1008028,
+          "probability": 0.96435546875
+        },
+        {
+          "word": "好",
+          "start": 21.000583333333335,
+          "end": 21.140583333333332,
+          "start_sample": 1008028,
+          "end_sample": 1014748,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "六",
+          "start": 21.140583333333332,
+          "end": 21.280583333333333,
+          "start_sample": 1014748,
+          "end_sample": 1021468,
+          "probability": 0.89306640625
+        },
+        {
+          "word": "条",
+          "start": 21.280583333333333,
+          "end": 21.420583333333333,
+          "start_sample": 1021468,
+          "end_sample": 1028188,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "线",
+          "start": 21.420583333333333,
+          "end": 21.640583333333332,
+          "start_sample": 1028188,
+          "end_sample": 1038748,
+          "probability": 0.998779296875
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "2b211222ef49f1fd1f4fd911014fe40b05eb4faab2a6e9ad23ea8731ca7f56ac",
+      "shared_pcm_sha256": "26422d3a490a5446efdd659b05950856b8501820faf7d1d9ef9f1503b9401cb9",
+      "file_window": [
+        19.840583333333335,
+        21.849
+      ],
+      "manual_reviewed": false
+    }
+  ],
+  "words": [
+    {
+      "word": "N",
+      "start": 0.25,
+      "end": 0.51,
+      "start_sample": 12000,
+      "end_sample": 24480,
+      "probability": 0.75634765625
+    },
+    {
+      "word": "个",
+      "start": 0.51,
+      "end": 0.61,
+      "start_sample": 24480,
+      "end_sample": 29280,
+      "probability": 0.9931640625
+    },
+    {
+      "word": "点",
+      "start": 0.61,
+      "end": 0.75,
+      "start_sample": 29280,
+      "end_sample": 36000,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "之",
+      "start": 0.75,
+      "end": 0.97,
+      "start_sample": 36000,
+      "end_sample": 46560,
+      "probability": 0.99267578125
+    },
+    {
+      "word": "间",
+      "start": 0.97,
+      "end": 1.17,
+      "start_sample": 46560,
+      "end_sample": 56160,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "一",
+      "start": 1.17,
+      "end": 1.53,
+      "start_sample": 56160,
+      "end_sample": 73440,
+      "probability": 0.9521484375
+    },
+    {
+      "word": "共",
+      "start": 1.53,
+      "end": 1.63,
+      "start_sample": 73440,
+      "end_sample": 78240,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "有",
+      "start": 1.63,
+      "end": 1.75,
+      "start_sample": 78240,
+      "end_sample": 84000,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "多少",
+      "start": 1.75,
+      "end": 1.99,
+      "start_sample": 84000,
+      "end_sample": 95520,
+      "probability": 0.99755859375
+    },
+    {
+      "word": "条",
+      "start": 1.99,
+      "end": 2.13,
+      "start_sample": 95520,
+      "end_sample": 102240,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "线",
+      "start": 2.13,
+      "end": 2.39,
+      "start_sample": 102240,
+      "end_sample": 114720,
+      "probability": 0.997802734375
+    },
+    {
+      "word": "每",
+      "start": 2.959208333333333,
+      "end": 3.1992083333333334,
+      "start_sample": 142042,
+      "end_sample": 153562,
+      "probability": 0.986328125
+    },
+    {
+      "word": "个",
+      "start": 3.1992083333333334,
+      "end": 3.339208333333333,
+      "start_sample": 153562,
+      "end_sample": 160282,
+      "probability": 0.859375
+    },
+    {
+      "word": "点",
+      "start": 3.339208333333333,
+      "end": 3.459208333333333,
+      "start_sample": 160282,
+      "end_sample": 166042,
+      "probability": 0.9921875
+    },
+    {
+      "word": "都",
+      "start": 3.459208333333333,
+      "end": 3.6192083333333334,
+      "start_sample": 166042,
+      "end_sample": 173722,
+      "probability": 0.97900390625
+    },
+    {
+      "word": "要",
+      "start": 3.6192083333333334,
+      "end": 3.6792083333333334,
+      "start_sample": 173722,
+      "end_sample": 176602,
+      "probability": 0.9833984375
+    },
+    {
+      "word": "连",
+      "start": 3.6792083333333334,
+      "end": 3.8192083333333335,
+      "start_sample": 176602,
+      "end_sample": 183322,
+      "probability": 0.99267578125
+    },
+    {
+      "word": "另外",
+      "start": 3.8192083333333335,
+      "end": 4.059208333333333,
+      "start_sample": 183322,
+      "end_sample": 194842,
+      "probability": 0.99267578125
+    },
+    {
+      "word": "N",
+      "start": 4.059208333333333,
+      "end": 4.199208333333333,
+      "start_sample": 194842,
+      "end_sample": 201562,
+      "probability": 0.642578125
+    },
+    {
+      "word": "减",
+      "start": 4.199208333333333,
+      "end": 4.359208333333333,
+      "start_sample": 201562,
+      "end_sample": 209242,
+      "probability": 0.920654296875
+    },
+    {
+      "word": "一个",
+      "start": 4.359208333333333,
+      "end": 4.539208333333334,
+      "start_sample": 209242,
+      "end_sample": 217882,
+      "probability": 0.943359375
+    },
+    {
+      "word": "点,",
+      "start": 4.539208333333334,
+      "end": 4.739208333333333,
+      "start_sample": 217882,
+      "end_sample": 227482,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "乘",
+      "start": 5.2992083333333335,
+      "end": 5.419208333333334,
+      "start_sample": 254362,
+      "end_sample": 260122,
+      "probability": 0.976318359375
+    },
+    {
+      "word": "起",
+      "start": 5.419208333333334,
+      "end": 5.579208333333334,
+      "start_sample": 260122,
+      "end_sample": 267802,
+      "probability": 0.9951171875
+    },
+    {
+      "word": "来",
+      "start": 5.579208333333334,
+      "end": 5.839208333333334,
+      "start_sample": 267802,
+      "end_sample": 280282,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "是",
+      "start": 5.839208333333334,
+      "end": 6.2592083333333335,
+      "start_sample": 280282,
+      "end_sample": 300442,
+      "probability": 0.8994140625
+    },
+    {
+      "word": "N",
+      "start": 6.2592083333333335,
+      "end": 6.419208333333334,
+      "start_sample": 300442,
+      "end_sample": 308122,
+      "probability": 0.88671875
+    },
+    {
+      "word": "乘",
+      "start": 6.419208333333334,
+      "end": 6.579208333333334,
+      "start_sample": 308122,
+      "end_sample": 315802,
+      "probability": 0.88525390625
+    },
+    {
+      "word": "以",
+      "start": 6.579208333333334,
+      "end": 6.699208333333333,
+      "start_sample": 315802,
+      "end_sample": 321562,
+      "probability": 0.994140625
+    },
+    {
+      "word": "N",
+      "start": 6.699208333333333,
+      "end": 6.819208333333333,
+      "start_sample": 321562,
+      "end_sample": 327322,
+      "probability": 0.99169921875
+    },
+    {
+      "word": "减",
+      "start": 6.819208333333333,
+      "end": 7.019208333333333,
+      "start_sample": 327322,
+      "end_sample": 336922,
+      "probability": 0.992919921875
+    },
+    {
+      "word": "一",
+      "start": 7.019208333333333,
+      "end": 7.159208333333333,
+      "start_sample": 336922,
+      "end_sample": 343642,
+      "probability": 0.363037109375
+    },
+    {
+      "word": "但",
+      "start": 7.792833333333333,
+      "end": 7.9928333333333335,
+      "start_sample": 374056,
+      "end_sample": 383656,
+      "probability": 0.9853515625
+    },
+    {
+      "word": "这样",
+      "start": 7.9928333333333335,
+      "end": 8.252833333333333,
+      "start_sample": 383656,
+      "end_sample": 396136,
+      "probability": 0.88916015625
+    },
+    {
+      "word": "每",
+      "start": 8.252833333333333,
+      "end": 8.452833333333333,
+      "start_sample": 396136,
+      "end_sample": 405736,
+      "probability": 0.978515625
+    },
+    {
+      "word": "条",
+      "start": 8.452833333333333,
+      "end": 8.592833333333333,
+      "start_sample": 405736,
+      "end_sample": 412456,
+      "probability": 0.99560546875
+    },
+    {
+      "word": "线",
+      "start": 8.592833333333333,
+      "end": 8.792833333333334,
+      "start_sample": 412456,
+      "end_sample": 422056,
+      "probability": 0.998046875
+    },
+    {
+      "word": "被",
+      "start": 8.792833333333334,
+      "end": 8.892833333333334,
+      "start_sample": 422056,
+      "end_sample": 426856,
+      "probability": 0.98193359375
+    },
+    {
+      "word": "两",
+      "start": 8.892833333333334,
+      "end": 9.032833333333333,
+      "start_sample": 426856,
+      "end_sample": 433576,
+      "probability": 0.9912109375
+    },
+    {
+      "word": "头",
+      "start": 9.032833333333333,
+      "end": 9.232833333333334,
+      "start_sample": 433576,
+      "end_sample": 443176,
+      "probability": 0.97802734375
+    },
+    {
+      "word": "各",
+      "start": 9.232833333333334,
+      "end": 9.352833333333333,
+      "start_sample": 443176,
+      "end_sample": 448936,
+      "probability": 0.94482421875
+    },
+    {
+      "word": "算",
+      "start": 9.352833333333333,
+      "end": 9.552833333333334,
+      "start_sample": 448936,
+      "end_sample": 458536,
+      "probability": 0.998046875
+    },
+    {
+      "word": "了",
+      "start": 9.552833333333334,
+      "end": 9.692833333333333,
+      "start_sample": 458536,
+      "end_sample": 465256,
+      "probability": 0.98193359375
+    },
+    {
+      "word": "一次",
+      "start": 9.692833333333333,
+      "end": 9.952833333333333,
+      "start_sample": 465256,
+      "end_sample": 477736,
+      "probability": 0.99267578125
+    },
+    {
+      "word": "所以",
+      "start": 10.352833333333333,
+      "end": 10.652833333333334,
+      "start_sample": 496936,
+      "end_sample": 511336,
+      "probability": 0.38330078125
+    },
+    {
+      "word": "还",
+      "start": 10.652833333333334,
+      "end": 10.812833333333334,
+      "start_sample": 511336,
+      "end_sample": 519016,
+      "probability": 0.9853515625
+    },
+    {
+      "word": "要",
+      "start": 10.812833333333334,
+      "end": 10.932833333333333,
+      "start_sample": 519016,
+      "end_sample": 524776,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "除",
+      "start": 10.932833333333333,
+      "end": 11.052833333333334,
+      "start_sample": 524776,
+      "end_sample": 530536,
+      "probability": 0.99267578125
+    },
+    {
+      "word": "以",
+      "start": 11.052833333333334,
+      "end": 11.192833333333333,
+      "start_sample": 530536,
+      "end_sample": 537256,
+      "probability": 0.9912109375
+    },
+    {
+      "word": "二",
+      "start": 11.192833333333333,
+      "end": 11.312833333333334,
+      "start_sample": 537256,
+      "end_sample": 543016,
+      "probability": 0.83984375
+    },
+    {
+      "word": "代",
+      "start": 11.921625,
+      "end": 12.161625,
+      "start_sample": 572238,
+      "end_sample": 583758,
+      "probability": 0.8701171875
+    },
+    {
+      "word": "入",
+      "start": 12.161625,
+      "end": 12.321625,
+      "start_sample": 583758,
+      "end_sample": 591438,
+      "probability": 0.9453125
+    },
+    {
+      "word": "恩",
+      "start": 12.321625,
+      "end": 12.501625,
+      "start_sample": 591438,
+      "end_sample": 600078,
+      "probability": 0.91650390625
+    },
+    {
+      "word": "等",
+      "start": 12.501625,
+      "end": 12.901625,
+      "start_sample": 600078,
+      "end_sample": 619278,
+      "probability": 0.8740234375
+    },
+    {
+      "word": "于",
+      "start": 12.901625,
+      "end": 13.061625,
+      "start_sample": 619278,
+      "end_sample": 626958,
+      "probability": 0.9658203125
+    },
+    {
+      "word": "四",
+      "start": 13.061625,
+      "end": 13.261625,
+      "start_sample": 626958,
+      "end_sample": 636558,
+      "probability": 0.513671875
+    },
+    {
+      "word": "十",
+      "start": 13.261625,
+      "end": 13.441625,
+      "start_sample": 636558,
+      "end_sample": 645198,
+      "probability": 0.6630859375
+    },
+    {
+      "word": "十",
+      "start": 13.441625,
+      "end": 13.641625,
+      "start_sample": 645198,
+      "end_sample": 654798,
+      "probability": 0.5400390625
+    },
+    {
+      "word": "四",
+      "start": 14.101625,
+      "end": 14.461625,
+      "start_sample": 676878,
+      "end_sample": 694158,
+      "probability": 0.453857421875
+    },
+    {
+      "word": "减",
+      "start": 14.461625,
+      "end": 14.641625,
+      "start_sample": 694158,
+      "end_sample": 702798,
+      "probability": 0.891357421875
+    },
+    {
+      "word": "一",
+      "start": 14.641625,
+      "end": 14.801625,
+      "start_sample": 702798,
+      "end_sample": 710478,
+      "probability": 0.97265625
+    },
+    {
+      "word": "是",
+      "start": 14.801625,
+      "end": 14.961625,
+      "start_sample": 710478,
+      "end_sample": 718158,
+      "probability": 0.90283203125
+    },
+    {
+      "word": "三",
+      "start": 14.961625,
+      "end": 15.141625,
+      "start_sample": 718158,
+      "end_sample": 726798,
+      "probability": 0.94580078125
+    },
+    {
+      "word": "四",
+      "start": 15.641625,
+      "end": 16.001625,
+      "start_sample": 750798,
+      "end_sample": 768078,
+      "probability": 0.88818359375
+    },
+    {
+      "word": "乘",
+      "start": 16.001625,
+      "end": 16.141625,
+      "start_sample": 768078,
+      "end_sample": 774798,
+      "probability": 0.99560546875
+    },
+    {
+      "word": "三",
+      "start": 16.141625,
+      "end": 16.321625,
+      "start_sample": 774798,
+      "end_sample": 783438,
+      "probability": 0.99072265625
+    },
+    {
+      "word": "是",
+      "start": 16.321625,
+      "end": 16.481625,
+      "start_sample": 783438,
+      "end_sample": 791118,
+      "probability": 0.99462890625
+    },
+    {
+      "word": "十",
+      "start": 16.481625,
+      "end": 16.681625,
+      "start_sample": 791118,
+      "end_sample": 800718,
+      "probability": 0.96533203125
+    },
+    {
+      "word": "二",
+      "start": 16.681625,
+      "end": 16.881625,
+      "start_sample": 800718,
+      "end_sample": 810318,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "再",
+      "start": 17.261625,
+      "end": 17.621625,
+      "start_sample": 828558,
+      "end_sample": 845838,
+      "probability": 0.9501953125
+    },
+    {
+      "word": "除",
+      "start": 17.621625,
+      "end": 17.801625,
+      "start_sample": 845838,
+      "end_sample": 854478,
+      "probability": 0.984375
+    },
+    {
+      "word": "以",
+      "start": 17.801625,
+      "end": 17.941625,
+      "start_sample": 854478,
+      "end_sample": 861198,
+      "probability": 0.99072265625
+    },
+    {
+      "word": "二",
+      "start": 17.941625,
+      "end": 18.101625,
+      "start_sample": 861198,
+      "end_sample": 868878,
+      "probability": 0.99365234375
+    },
+    {
+      "word": "得",
+      "start": 18.101625,
+      "end": 18.761625,
+      "start_sample": 868878,
+      "end_sample": 900558,
+      "probability": 0.90771484375
+    },
+    {
+      "word": "六",
+      "start": 18.761625,
+      "end": 18.941625,
+      "start_sample": 900558,
+      "end_sample": 909198,
+      "probability": 0.99267578125
+    },
+    {
+      "word": "四",
+      "start": 19.840583333333335,
+      "end": 20.140583333333332,
+      "start_sample": 952348,
+      "end_sample": 966748,
+      "probability": 0.75146484375
+    },
+    {
+      "word": "个",
+      "start": 20.140583333333332,
+      "end": 20.260583333333333,
+      "start_sample": 966748,
+      "end_sample": 972508,
+      "probability": 0.97021484375
+    },
+    {
+      "word": "点,",
+      "start": 20.260583333333333,
+      "end": 20.420583333333333,
+      "start_sample": 972508,
+      "end_sample": 980188,
+      "probability": 0.99462890625
+    },
+    {
+      "word": "正",
+      "start": 20.640583333333332,
+      "end": 21.000583333333335,
+      "start_sample": 990748,
+      "end_sample": 1008028,
+      "probability": 0.96435546875
+    },
+    {
+      "word": "好",
+      "start": 21.000583333333335,
+      "end": 21.140583333333332,
+      "start_sample": 1008028,
+      "end_sample": 1014748,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "六",
+      "start": 21.140583333333332,
+      "end": 21.280583333333333,
+      "start_sample": 1014748,
+      "end_sample": 1021468,
+      "probability": 0.89306640625
+    },
+    {
+      "word": "条",
+      "start": 21.280583333333333,
+      "end": 21.420583333333333,
+      "start_sample": 1021468,
+      "end_sample": 1028188,
+      "probability": 0.99755859375
+    },
+    {
+      "word": "线",
+      "start": 21.420583333333333,
+      "end": 21.640583333333332,
+      "start_sample": 1028188,
+      "end_sample": 1038748,
+      "probability": 0.998779296875
+    }
+  ]
+}

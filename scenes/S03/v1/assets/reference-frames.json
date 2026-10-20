@@ -1,0 +1,9 @@
+{
+  "samples": [
+    {
+      "seconds": 15,
+      "asset": "triangle.svg"
+    }
+  ],
+  "purpose": "source-content fixture only; not mandatory composition or framework output"
+}

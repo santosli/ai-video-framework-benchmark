@@ -1,0 +1,1030 @@
+{
+  "method": "torchaudio MMS_FA CTC CPU + pypinyin; published tts_text refs; sentence windows",
+  "source_audio_sha256": "75f423c404705d0860fb4d47a1f7fe80a14f02ef1d21fd7f6cc43b03c3273fb8",
+  "alignment_sha256": "88ce093c45a8935d543c3f9f677690a52c842fe9214217e33c1e29b9afbe2c04",
+  "words": [
+    {
+      "word": "这",
+      "romanized": "zhe",
+      "char_start": 0,
+      "char_end": 1,
+      "start": 0.24096,
+      "end": 0.321752,
+      "score": 0.957789,
+      "segment_id": "V004"
+    },
+    {
+      "word": "期",
+      "romanized": "qi",
+      "char_start": 1,
+      "char_end": 2,
+      "start": 0.382347,
+      "end": 0.442941,
+      "score": 0.969903,
+      "segment_id": "V004"
+    },
+    {
+      "word": "视",
+      "romanized": "shi",
+      "char_start": 2,
+      "char_end": 3,
+      "start": 0.523733,
+      "end": 0.584327,
+      "score": 0.998578,
+      "segment_id": "V004"
+    },
+    {
+      "word": "频",
+      "romanized": "pin",
+      "char_start": 3,
+      "char_end": 4,
+      "start": 0.644921,
+      "end": 0.826703,
+      "score": 0.991816,
+      "segment_id": "V004"
+    },
+    {
+      "word": "就",
+      "romanized": "jiu",
+      "char_start": 4,
+      "char_end": 5,
+      "start": 1.109475,
+      "end": 1.210465,
+      "score": 0.99595,
+      "segment_id": "V004"
+    },
+    {
+      "word": "来",
+      "romanized": "lai",
+      "char_start": 5,
+      "char_end": 6,
+      "start": 1.230663,
+      "end": 1.331653,
+      "score": 0.997297,
+      "segment_id": "V004"
+    },
+    {
+      "word": "告",
+      "romanized": "gao",
+      "char_start": 6,
+      "char_end": 7,
+      "start": 1.331653,
+      "end": 1.452842,
+      "score": 0.999047,
+      "segment_id": "V004"
+    },
+    {
+      "word": "诉",
+      "romanized": "su",
+      "char_start": 7,
+      "char_end": 8,
+      "start": 1.47304,
+      "end": 1.553832,
+      "score": 0.983295,
+      "segment_id": "V004"
+    },
+    {
+      "word": "你",
+      "romanized": "ni",
+      "char_start": 8,
+      "char_end": 9,
+      "start": 1.594228,
+      "end": 1.654822,
+      "score": 0.998395,
+      "segment_id": "V004"
+    },
+    {
+      "word": "首",
+      "romanized": "shou",
+      "char_start": 0,
+      "char_end": 1,
+      "start": 3.908866,
+      "end": 4.049299,
+      "score": 0.937167,
+      "segment_id": "V005"
+    },
+    {
+      "word": "先",
+      "romanized": "xian",
+      "char_start": 1,
+      "char_end": 2,
+      "start": 4.069361,
+      "end": 4.189732,
+      "score": 0.9917,
+      "segment_id": "V005"
+    },
+    {
+      "word": "介",
+      "romanized": "jie",
+      "char_start": 2,
+      "char_end": 3,
+      "start": 4.209794,
+      "end": 4.330165,
+      "score": 0.867993,
+      "segment_id": "V005"
+    },
+    {
+      "word": "绍",
+      "romanized": "shao",
+      "char_start": 3,
+      "char_end": 4,
+      "start": 4.370289,
+      "end": 4.49066,
+      "score": 0.949795,
+      "segment_id": "V005"
+    },
+    {
+      "word": "一",
+      "romanized": "yi",
+      "char_start": 4,
+      "char_end": 5,
+      "start": 4.49066,
+      "end": 4.530784,
+      "score": 0.275791,
+      "segment_id": "V005"
+    },
+    {
+      "word": "下",
+      "romanized": "xia",
+      "char_start": 5,
+      "char_end": 6,
+      "start": 4.570907,
+      "end": 4.651155,
+      "score": 0.978101,
+      "segment_id": "V005"
+    },
+    {
+      "word": "参",
+      "romanized": "can",
+      "char_start": 6,
+      "char_end": 7,
+      "start": 4.71134,
+      "end": 4.831711,
+      "score": 0.984683,
+      "segment_id": "V005"
+    },
+    {
+      "word": "赛",
+      "romanized": "sai",
+      "char_start": 7,
+      "char_end": 8,
+      "start": 4.851773,
+      "end": 4.952082,
+      "score": 0.891408,
+      "segment_id": "V005"
+    },
+    {
+      "word": "选",
+      "romanized": "xuan",
+      "char_start": 8,
+      "char_end": 9,
+      "start": 4.992206,
+      "end": 5.132639,
+      "score": 0.996527,
+      "segment_id": "V005"
+    },
+    {
+      "word": "手",
+      "romanized": "shou",
+      "char_start": 9,
+      "char_end": 10,
+      "start": 5.172763,
+      "end": 5.313196,
+      "score": 0.965488,
+      "segment_id": "V005"
+    },
+    {
+      "word": "开",
+      "romanized": "kai",
+      "char_start": 0,
+      "char_end": 1,
+      "start": 5.754213,
+      "end": 5.914344,
+      "score": 0.994907,
+      "segment_id": "V006"
+    },
+    {
+      "word": "源",
+      "romanized": "yuan",
+      "char_start": 1,
+      "char_end": 2,
+      "start": 5.954376,
+      "end": 6.054458,
+      "score": 0.997893,
+      "segment_id": "V006"
+    },
+    {
+      "word": "挑",
+      "romanized": "tiao",
+      "char_start": 2,
+      "char_end": 3,
+      "start": 6.094491,
+      "end": 6.214589,
+      "score": 0.943972,
+      "segment_id": "V006"
+    },
+    {
+      "word": "了",
+      "romanized": "le",
+      "char_start": 3,
+      "char_end": 4,
+      "start": 6.254622,
+      "end": 6.294655,
+      "score": 0.98418,
+      "segment_id": "V006"
+    },
+    {
+      "word": "4",
+      "romanized": "si",
+      "char_start": 4,
+      "char_end": 5,
+      "start": 6.37472,
+      "end": 6.454785,
+      "score": 0.121707,
+      "segment_id": "V006"
+    },
+    {
+      "word": "个",
+      "romanized": "ge",
+      "char_start": 5,
+      "char_end": 6,
+      "start": 6.514835,
+      "end": 6.5949,
+      "score": 0.970286,
+      "segment_id": "V006"
+    },
+    {
+      "word": "目",
+      "romanized": "mu",
+      "char_start": 6,
+      "char_end": 7,
+      "start": 6.634933,
+      "end": 6.694982,
+      "score": 0.996112,
+      "segment_id": "V006"
+    },
+    {
+      "word": "前",
+      "romanized": "qian",
+      "char_start": 7,
+      "char_end": 8,
+      "start": 6.755031,
+      "end": 6.855113,
+      "score": 0.956287,
+      "segment_id": "V006"
+    },
+    {
+      "word": "用",
+      "romanized": "yong",
+      "char_start": 8,
+      "char_end": 9,
+      "start": 6.875129,
+      "end": 6.995227,
+      "score": 0.994973,
+      "segment_id": "V006"
+    },
+    {
+      "word": "的",
+      "romanized": "de",
+      "char_start": 9,
+      "char_end": 10,
+      "start": 7.015244,
+      "end": 7.055276,
+      "score": 0.998239,
+      "segment_id": "V006"
+    },
+    {
+      "word": "人",
+      "romanized": "ren",
+      "char_start": 10,
+      "char_end": 11,
+      "start": 7.095309,
+      "end": 7.195391,
+      "score": 0.955179,
+      "segment_id": "V006"
+    },
+    {
+      "word": "最",
+      "romanized": "zui",
+      "char_start": 11,
+      "char_end": 12,
+      "start": 7.215407,
+      "end": 7.335505,
+      "score": 0.998579,
+      "segment_id": "V006"
+    },
+    {
+      "word": "多",
+      "romanized": "duo",
+      "char_start": 12,
+      "char_end": 13,
+      "start": 7.375538,
+      "end": 7.495636,
+      "score": 0.941916,
+      "segment_id": "V006"
+    },
+    {
+      "word": "关",
+      "romanized": "guan",
+      "char_start": 13,
+      "char_end": 14,
+      "start": 8.036078,
+      "end": 8.176193,
+      "score": 0.961318,
+      "segment_id": "V006"
+    },
+    {
+      "word": "注",
+      "romanized": "zhu",
+      "char_start": 14,
+      "char_end": 15,
+      "start": 8.196209,
+      "end": 8.276275,
+      "score": 0.917023,
+      "segment_id": "V006"
+    },
+    {
+      "word": "度",
+      "romanized": "du",
+      "char_start": 15,
+      "char_end": 16,
+      "start": 8.316307,
+      "end": 8.396373,
+      "score": 0.935924,
+      "segment_id": "V006"
+    },
+    {
+      "word": "最",
+      "romanized": "zui",
+      "char_start": 16,
+      "char_end": 17,
+      "start": 8.436405,
+      "end": 8.556504,
+      "score": 0.998086,
+      "segment_id": "V006"
+    },
+    {
+      "word": "高",
+      "romanized": "gao",
+      "char_start": 17,
+      "char_end": 18,
+      "start": 8.596536,
+      "end": 8.756667,
+      "score": 0.998446,
+      "segment_id": "V006"
+    },
+    {
+      "word": "的",
+      "romanized": "de",
+      "char_start": 18,
+      "char_end": 19,
+      "start": 8.776684,
+      "end": 8.856749,
+      "score": 0.99881,
+      "segment_id": "V006"
+    },
+    {
+      "word": "分",
+      "romanized": "fen",
+      "char_start": 19,
+      "char_end": 20,
+      "start": 9.417207,
+      "end": 9.537305,
+      "score": 0.992966,
+      "segment_id": "V006"
+    },
+    {
+      "word": "别",
+      "romanized": "bie",
+      "char_start": 20,
+      "char_end": 21,
+      "start": 9.577338,
+      "end": 9.657404,
+      "score": 0.914572,
+      "segment_id": "V006"
+    },
+    {
+      "word": "是",
+      "romanized": "shi",
+      "char_start": 21,
+      "char_end": 22,
+      "start": 9.737469,
+      "end": 9.857567,
+      "score": 0.995424,
+      "segment_id": "V006"
+    },
+    {
+      "word": "千",
+      "romanized": "qian",
+      "char_start": 22,
+      "char_end": 23,
+      "start": 10.357976,
+      "end": 10.538124,
+      "score": 0.250742,
+      "segment_id": "V006"
+    },
+    {
+      "word": "问",
+      "romanized": "wen",
+      "char_start": 23,
+      "char_end": 24,
+      "start": 10.578156,
+      "end": 10.678238,
+      "score": 0.907775,
+      "segment_id": "V006"
+    },
+    {
+      "word": "3",
+      "romanized": "san",
+      "char_start": 24,
+      "char_end": 25,
+      "start": 10.738287,
+      "end": 10.858385,
+      "score": 0.059486,
+      "segment_id": "V006"
+    },
+    {
+      "word": "tts",
+      "romanized": "tts",
+      "char_start": 25,
+      "char_end": 28,
+      "start": 10.898418,
+      "end": 11.41,
+      "segment_id": "V006",
+      "timing_corrected": true
+    },
+    {
+      "word": "indextts",
+      "romanized": "indextts",
+      "char_start": 28,
+      "char_end": 36,
+      "start": 11.61,
+      "end": 12.399645,
+      "segment_id": "V006",
+      "timing_corrected": true
+    },
+    {
+      "word": "2",
+      "romanized": "er",
+      "char_start": 36,
+      "char_end": 37,
+      "start": 12.53976,
+      "end": 12.619825,
+      "score": 0.020869,
+      "segment_id": "V006"
+    },
+    {
+      "word": "5",
+      "romanized": "wu",
+      "char_start": 37,
+      "char_end": 38,
+      "start": 12.799973,
+      "end": 12.880038,
+      "score": 0.28269,
+      "segment_id": "V006"
+    },
+    {
+      "word": "voxcpm",
+      "romanized": "voxcpm",
+      "char_start": 38,
+      "char_end": 44,
+      "start": 13.580611,
+      "end": 14.281184,
+      "score": 0.583686,
+      "segment_id": "V006"
+    },
+    {
+      "word": "2",
+      "romanized": "er",
+      "char_start": 44,
+      "char_end": 45,
+      "start": 14.381265,
+      "end": 14.501364,
+      "score": 0.106374,
+      "segment_id": "V006"
+    },
+    {
+      "word": "还",
+      "romanized": "hai",
+      "char_start": 45,
+      "char_end": 46,
+      "start": 15.18192,
+      "end": 15.282002,
+      "score": 0.925403,
+      "segment_id": "V006"
+    },
+    {
+      "word": "有",
+      "romanized": "you",
+      "char_start": 46,
+      "char_end": 47,
+      "start": 15.302018,
+      "end": 15.4021,
+      "score": 0.999166,
+      "segment_id": "V006"
+    },
+    {
+      "word": "cosyvoice",
+      "romanized": "cosyvoice",
+      "char_start": 47,
+      "char_end": 56,
+      "start": 15.442133,
+      "end": 15.982575,
+      "score": 0.270202,
+      "segment_id": "V006"
+    },
+    {
+      "word": "3",
+      "romanized": "san",
+      "char_start": 56,
+      "char_end": 57,
+      "start": 16.002591,
+      "end": 16.182738,
+      "score": 0.076283,
+      "segment_id": "V006"
+    },
+    {
+      "word": "闭",
+      "romanized": "bi",
+      "char_start": 0,
+      "char_end": 1,
+      "start": 16.643613,
+      "end": 16.723836,
+      "score": 0.995639,
+      "segment_id": "V007"
+    },
+    {
+      "word": "源",
+      "romanized": "yuan",
+      "char_start": 1,
+      "char_end": 2,
+      "start": 16.804058,
+      "end": 16.944448,
+      "score": 0.995424,
+      "segment_id": "V007"
+    },
+    {
+      "word": "挑",
+      "romanized": "tiao",
+      "char_start": 2,
+      "char_end": 3,
+      "start": 16.98456,
+      "end": 17.12495,
+      "score": 0.884061,
+      "segment_id": "V007"
+    },
+    {
+      "word": "了",
+      "romanized": "le",
+      "char_start": 3,
+      "char_end": 4,
+      "start": 17.145006,
+      "end": 17.205173,
+      "score": 0.99536,
+      "segment_id": "V007"
+    },
+    {
+      "word": "2",
+      "romanized": "er",
+      "char_start": 4,
+      "char_end": 5,
+      "start": 17.26534,
+      "end": 17.305451,
+      "score": 0.000141,
+      "segment_id": "V007"
+    },
+    {
+      "word": "家",
+      "romanized": "jia",
+      "char_start": 5,
+      "char_end": 6,
+      "start": 17.385674,
+      "end": 17.465897,
+      "score": 0.998276,
+      "segment_id": "V007"
+    },
+    {
+      "word": "大",
+      "romanized": "da",
+      "char_start": 6,
+      "char_end": 7,
+      "start": 17.526064,
+      "end": 17.586231,
+      "score": 0.997902,
+      "segment_id": "V007"
+    },
+    {
+      "word": "厂",
+      "romanized": "chang",
+      "char_start": 7,
+      "char_end": 8,
+      "start": 17.666454,
+      "end": 17.806844,
+      "score": 0.973442,
+      "segment_id": "V007"
+    },
+    {
+      "word": "的",
+      "romanized": "de",
+      "char_start": 8,
+      "char_end": 9,
+      "start": 17.806844,
+      "end": 17.867011,
+      "score": 0.998631,
+      "segment_id": "V007"
+    },
+    {
+      "word": "主",
+      "romanized": "zhu",
+      "char_start": 9,
+      "char_end": 10,
+      "start": 17.887067,
+      "end": 17.96729,
+      "score": 0.985838,
+      "segment_id": "V007"
+    },
+    {
+      "word": "流",
+      "romanized": "liu",
+      "char_start": 10,
+      "char_end": 11,
+      "start": 18.027457,
+      "end": 18.127735,
+      "score": 0.992752,
+      "segment_id": "V007"
+    },
+    {
+      "word": "代",
+      "romanized": "dai",
+      "char_start": 11,
+      "char_end": 12,
+      "start": 18.147791,
+      "end": 18.268125,
+      "score": 0.995638,
+      "segment_id": "V007"
+    },
+    {
+      "word": "表",
+      "romanized": "biao",
+      "char_start": 12,
+      "char_end": 13,
+      "start": 18.288181,
+      "end": 18.468682,
+      "score": 0.998783,
+      "segment_id": "V007"
+    },
+    {
+      "word": "豆",
+      "romanized": "dou",
+      "char_start": 13,
+      "char_end": 14,
+      "start": 18.909908,
+      "end": 19.050298,
+      "score": 0.998706,
+      "segment_id": "V007"
+    },
+    {
+      "word": "包",
+      "romanized": "bao",
+      "char_start": 14,
+      "char_end": 15,
+      "start": 19.110465,
+      "end": 19.230799,
+      "score": 0.996442,
+      "segment_id": "V007"
+    },
+    {
+      "word": "的",
+      "romanized": "de",
+      "char_start": 15,
+      "char_end": 16,
+      "start": 19.250855,
+      "end": 19.311022,
+      "score": 0.987162,
+      "segment_id": "V007"
+    },
+    {
+      "word": "seedtts",
+      "romanized": "seedtts",
+      "char_start": 16,
+      "char_end": 23,
+      "start": 19.391245,
+      "end": 20.033028,
+      "score": 0.628537,
+      "segment_id": "V007"
+    },
+    {
+      "word": "2",
+      "romanized": "er",
+      "char_start": 23,
+      "char_end": 24,
+      "start": 20.133306,
+      "end": 20.213529,
+      "score": 0.010369,
+      "segment_id": "V007"
+    },
+    {
+      "word": "0",
+      "romanized": "ling",
+      "char_start": 24,
+      "char_end": 25,
+      "start": 20.394031,
+      "end": 20.554476,
+      "score": 0.952814,
+      "segment_id": "V007"
+    },
+    {
+      "word": "以",
+      "romanized": "yi",
+      "char_start": 25,
+      "char_end": 26,
+      "start": 21.296538,
+      "end": 21.356705,
+      "score": 0.941686,
+      "segment_id": "V007"
+    },
+    {
+      "word": "及",
+      "romanized": "ji",
+      "char_start": 26,
+      "char_end": 27,
+      "start": 21.396816,
+      "end": 21.477039,
+      "score": 0.998454,
+      "segment_id": "V007"
+    },
+    {
+      "word": "minimax",
+      "romanized": "minimax",
+      "char_start": 27,
+      "char_end": 34,
+      "start": 21.537206,
+      "end": 21.93832,
+      "score": 0.754157,
+      "segment_id": "V007"
+    },
+    {
+      "word": "的",
+      "romanized": "de",
+      "char_start": 34,
+      "char_end": 35,
+      "start": 22.058655,
+      "end": 22.138877,
+      "score": 0.946924,
+      "segment_id": "V007"
+    },
+    {
+      "word": "speech",
+      "romanized": "speech",
+      "char_start": 35,
+      "char_end": 41,
+      "start": 22.199045,
+      "end": 22.479825,
+      "score": 0.469141,
+      "segment_id": "V007"
+    },
+    {
+      "word": "2",
+      "romanized": "er",
+      "char_start": 41,
+      "char_end": 42,
+      "start": 22.479825,
+      "end": 22.660326,
+      "score": 0.044725,
+      "segment_id": "V007"
+    },
+    {
+      "word": "8",
+      "romanized": "ba",
+      "char_start": 42,
+      "char_end": 43,
+      "start": 22.820772,
+      "end": 22.900994,
+      "score": 0.715054,
+      "segment_id": "V007"
+    },
+    {
+      "word": "hd",
+      "romanized": "hd",
+      "char_start": 43,
+      "char_end": 45,
+      "start": 23.101552,
+      "end": 23.31,
+      "score": 0.729416,
+      "segment_id": "V007",
+      "timing_corrected": true
+    },
+    {
+      "word": "为",
+      "romanized": "wei",
+      "char_start": 0,
+      "char_end": 1,
+      "start": 26.55387,
+      "end": 26.654353,
+      "score": 0.997832,
+      "segment_id": "V008"
+    },
+    {
+      "word": "了",
+      "romanized": "le",
+      "char_start": 1,
+      "char_end": 2,
+      "start": 26.674449,
+      "end": 26.734739,
+      "score": 0.996606,
+      "segment_id": "V008"
+    },
+    {
+      "word": "保",
+      "romanized": "bao",
+      "char_start": 2,
+      "char_end": 3,
+      "start": 26.774932,
+      "end": 26.895512,
+      "score": 0.998182,
+      "segment_id": "V008"
+    },
+    {
+      "word": "证",
+      "romanized": "zheng",
+      "char_start": 3,
+      "char_end": 4,
+      "start": 26.935705,
+      "end": 27.056285,
+      "score": 0.812326,
+      "segment_id": "V008"
+    },
+    {
+      "word": "比",
+      "romanized": "bi",
+      "char_start": 4,
+      "char_end": 5,
+      "start": 27.056285,
+      "end": 27.136671,
+      "score": 0.998805,
+      "segment_id": "V008"
+    },
+    {
+      "word": "赛",
+      "romanized": "sai",
+      "char_start": 5,
+      "char_end": 6,
+      "start": 27.237155,
+      "end": 27.357734,
+      "score": 0.997415,
+      "segment_id": "V008"
+    },
+    {
+      "word": "尽",
+      "romanized": "jin",
+      "char_start": 6,
+      "char_end": 7,
+      "start": 27.377831,
+      "end": 27.478314,
+      "score": 0.995157,
+      "segment_id": "V008"
+    },
+    {
+      "word": "量",
+      "romanized": "liang",
+      "char_start": 7,
+      "char_end": 8,
+      "start": 27.518507,
+      "end": 27.659184,
+      "score": 0.982182,
+      "segment_id": "V008"
+    },
+    {
+      "word": "客",
+      "romanized": "ke",
+      "char_start": 8,
+      "char_end": 9,
+      "start": 27.67928,
+      "end": 27.79986,
+      "score": 0.999203,
+      "segment_id": "V008"
+    },
+    {
+      "word": "观",
+      "romanized": "guan",
+      "char_start": 9,
+      "char_end": 10,
+      "start": 27.880246,
+      "end": 28.041019,
+      "score": 0.930687,
+      "segment_id": "V008"
+    },
+    {
+      "word": "这",
+      "romanized": "zhe",
+      "char_start": 10,
+      "char_end": 11,
+      "start": 28.824787,
+      "end": 28.905174,
+      "score": 0.868061,
+      "segment_id": "V008"
+    },
+    {
+      "word": "次",
+      "romanized": "ci",
+      "char_start": 11,
+      "char_end": 12,
+      "start": 28.965464,
+      "end": 29.025754,
+      "score": 0.487631,
+      "segment_id": "V008"
+    },
+    {
+      "word": "测",
+      "romanized": "ce",
+      "char_start": 12,
+      "char_end": 13,
+      "start": 29.086043,
+      "end": 29.186527,
+      "score": 0.921115,
+      "segment_id": "V008"
+    },
+    {
+      "word": "试",
+      "romanized": "shi",
+      "char_start": 13,
+      "char_end": 14,
+      "start": 29.246816,
+      "end": 29.327203,
+      "score": 0.958965,
+      "segment_id": "V008"
+    },
+    {
+      "word": "统",
+      "romanized": "tong",
+      "char_start": 14,
+      "char_end": 15,
+      "start": 29.367396,
+      "end": 29.528169,
+      "score": 0.994327,
+      "segment_id": "V008"
+    },
+    {
+      "word": "一",
+      "romanized": "yi",
+      "char_start": 15,
+      "char_end": 16,
+      "start": 29.568362,
+      "end": 29.608556,
+      "score": 0.766989,
+      "segment_id": "V008"
+    },
+    {
+      "word": "了",
+      "romanized": "le",
+      "char_start": 16,
+      "char_end": 17,
+      "start": 29.668845,
+      "end": 29.729135,
+      "score": 0.996325,
+      "segment_id": "V008"
+    },
+    {
+      "word": "四",
+      "romanized": "si",
+      "char_start": 17,
+      "char_end": 18,
+      "start": 29.789425,
+      "end": 29.889908,
+      "score": 0.124408,
+      "segment_id": "V008"
+    },
+    {
+      "word": "个",
+      "romanized": "ge",
+      "char_start": 18,
+      "char_end": 19,
+      "start": 29.930101,
+      "end": 29.990391,
+      "score": 0.946143,
+      "segment_id": "V008"
+    },
+    {
+      "word": "条",
+      "romanized": "tiao",
+      "char_start": 19,
+      "char_end": 20,
+      "start": 30.010488,
+      "end": 30.171261,
+      "score": 0.938138,
+      "segment_id": "V008"
+    },
+    {
+      "word": "件",
+      "romanized": "jian",
+      "char_start": 20,
+      "char_end": 21,
+      "start": 30.191357,
+      "end": 30.332034,
+      "score": 0.957081,
+      "segment_id": "V008"
+    }
+  ],
+  "manual_reviewed": false,
+  "anchor_corrections_sha256": "3e95fd1ad17b1cf6dd36715d7914034cadf55a363659b5929107d4e7d4dae30c"
+}

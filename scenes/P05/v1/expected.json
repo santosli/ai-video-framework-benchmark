@@ -1,0 +1,30 @@
+{
+  "case_id": "P05",
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 30,
+  "frames_per_output": 900,
+  "audio": false,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "screen_text": "SCREEN V1",
+    "body_color": "#2563eb"
+  },
+  "requirements": {
+    "preserve": [
+      "model_geometry",
+      "camera_track",
+      "red_landmark",
+      "30_seconds",
+      "no_audio"
+    ],
+    "screen_source_is_original_generated_30fps": true
+  },
+  "protocol_version": 6,
+  "full_acceptance_requires_visible_content_motion_and_preservation_review": true,
+  "acceptance": "屏幕显示 SCREEN V1，机身颜色 #2563eb；动态纹理无拉伸、反转、黑屏或掉帧；几何、相机和运动按给定输入，记录加载/OpenGL 设置。"
+}

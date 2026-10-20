@@ -1,0 +1,71 @@
+{
+  "case_id": "T03",
+  "version": 2,
+  "source_revision": "2026-10-14-real-talk-01",
+  "protocol_version": 6,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 17.8,
+  "frames_per_output": 534,
+  "audio": true,
+  "outputs": [
+    "final.mp4"
+  ],
+  "timing_tolerance_frames": 2,
+  "witness": {
+    "speaker_order": [
+      "A",
+      "B",
+      "B",
+      "A"
+    ],
+    "inserted_unit": "BX",
+    "preserve_seconds": [
+      0,
+      7.5
+    ],
+    "shift_seconds": 3.0,
+    "shifted_range_seconds": [
+      10.5,
+      17.8,
+      3.0
+    ]
+  },
+  "source_assembly": {
+    "seconds": 17.8,
+    "frames_at_30fps": 534,
+    "parts": [
+      {
+        "source_id": "A1",
+        "source_in_seconds": 0.0,
+        "source_out_seconds": 2.7,
+        "output_in_seconds": 0,
+        "output_out_seconds": 2.7
+      },
+      {
+        "source_id": "B1",
+        "source_in_seconds": 0.0,
+        "source_out_seconds": 4.8,
+        "output_in_seconds": 2.7,
+        "output_out_seconds": 7.5
+      },
+      {
+        "source_id": "BX",
+        "source_in_seconds": 4.8,
+        "source_out_seconds": 7.8,
+        "output_in_seconds": 7.5,
+        "output_out_seconds": 10.5
+      },
+      {
+        "source_id": "A2",
+        "source_in_seconds": 2.7,
+        "source_out_seconds": 10.0,
+        "output_in_seconds": 10.5,
+        "output_out_seconds": 17.8
+      }
+    ]
+  },
+  "task_contract": "在 B 回答后插入 B 补充句，木子 A2 按真实插入音频时长顺延；前段与其余局部动作保留。",
+  "acceptance": "在 B 回答后插入 B 补充句，木子 A2 按真实插入音频时长顺延；前段与其余局部动作保留。 给定字幕/高亮/素材事件误差 ≤2 帧，真实语段完整，无掐音或语段内循环。"
+}

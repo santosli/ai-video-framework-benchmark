@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+node_modules/
+workspaces/
+outputs/
+.render-results/
+.skill-reads.jsonl
+.DS_Store
+*.wav
+*.mp4
+*.png
+*.jpg
+*.ttf
+*.otf
+*.pdf
+*.glb

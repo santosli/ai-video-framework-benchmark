@@ -1,0 +1,40 @@
+{
+  "source_width": 1440,
+  "source_height": 6500,
+  "regions": [
+    {
+      "id": "opening",
+      "x": 100,
+      "y": 80,
+      "width": 1240,
+      "height": 570
+    },
+    {
+      "id": "focus1",
+      "x": 100,
+      "y": 1080,
+      "width": 1240,
+      "height": 570
+    },
+    {
+      "id": "focus2",
+      "x": 100,
+      "y": 2580,
+      "width": 1240,
+      "height": 570
+    },
+    {
+      "id": "inserted",
+      "x": 100,
+      "y": 3850,
+      "width": 1240,
+      "height": 1350
+    }
+  ],
+  "cta": {
+    "x": 100,
+    "y": 6150,
+    "width": 1240,
+    "height": 200
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "case_id": "T03",
+  "version": 2,
+  "fps": 30,
+  "duration_seconds": 17.8,
+  "events": [
+    {
+      "id": "A1",
+      "start": 0,
+      "end": 2.7,
+      "speaker_id": "A",
+      "speaker": "muzi",
+      "source_id": "A1",
+      "source_in_seconds": 0.0,
+      "source_out_seconds": 2.7,
+      "output_in_seconds": 0,
+      "output_out_seconds": 2.7,
+      "text": "你现在做视频，配音用的哪家？",
+      "speech_intervals": [
+        [
+          0.22,
+          2.05
+        ]
+      ]
+    },
+    {
+      "id": "B1",
+      "start": 2.7,
+      "end": 7.5,
+      "speaker_id": "B",
+      "speaker": "creator_b",
+      "source_id": "B1",
+      "source_in_seconds": 0.0,
+      "source_out_seconds": 4.8,
+      "output_in_seconds": 2.7,
+      "output_out_seconds": 7.5,
+      "text": "豆包。我电脑没有独显，本地模型跑不动。",
+      "speech_intervals": [
+        [
+          2.8200000000000003,
+          7.16
+        ]
+      ]
+    },
+    {
+      "id": "BX",
+      "start": 7.5,
+      "end": 10.5,
+      "speaker_id": "B",
+      "speaker": "creator_b",
+      "source_id": "BX",
+      "source_in_seconds": 4.8,
+      "source_out_seconds": 7.8,
+      "output_in_seconds": 7.5,
+      "output_out_seconds": 10.5,
+      "text": "就是不知道一期下来要花多少钱。",
+      "speech_intervals": [
+        [
+          7.95,
+          9.81
+        ]
+      ]
+    },
+    {
+      "id": "A2",
+      "start": 10.5,
+      "end": 17.8,
+      "speaker_id": "A",
+      "speaker": "muzi",
+      "source_id": "A2",
+      "source_in_seconds": 2.7,
+      "source_out_seconds": 10.0,
+      "output_in_seconds": 10.5,
+      "output_out_seconds": 17.8,
+      "text": "那选豆包没问题，它跟第一名几乎打平。一期 6 分钟的视频，花不到 1 块钱。",
+      "speech_intervals": [
+        [
+          11.23,
+          17.62
+        ]
+      ]
+    }
+  ],
+  "visual_events": [
+    {
+      "id": "A1",
+      "start": 0,
+      "end": 2.7,
+      "speaker_id": "A",
+      "speaker": "muzi",
+      "source_id": "A1",
+      "source_in_seconds": 0.0,
+      "source_out_seconds": 2.7,
+      "output_in_seconds": 0,
+      "output_out_seconds": 2.7,
+      "text": "你现在做视频，配音用的哪家？",
+      "speech_intervals": [
+        [
+          0.22,
+          2.05
+        ]
+      ]
+    },
+    {
+      "id": "B1",
+      "start": 2.7,
+      "end": 7.5,
+      "speaker_id": "B",
+      "speaker": "creator_b",
+      "source_id": "B1",
+      "source_in_seconds": 0.0,
+      "source_out_seconds": 4.8,
+      "output_in_seconds": 2.7,
+      "output_out_seconds": 7.5,
+      "text": "豆包。我电脑没有独显，本地模型跑不动。",
+      "speech_intervals": [
+        [
+          2.8200000000000003,
+          7.16
+        ]
+      ]
+    },
+    {
+      "id": "BX",
+      "start": 7.5,
+      "end": 10.5,
+      "speaker_id": "B",
+      "speaker": "creator_b",
+      "source_id": "BX",
+      "source_in_seconds": 4.8,
+      "source_out_seconds": 7.8,
+      "output_in_seconds": 7.5,
+      "output_out_seconds": 10.5,
+      "text": "就是不知道一期下来要花多少钱。",
+      "speech_intervals": [
+        [
+          7.95,
+          9.81
+        ]
+      ]
+    },
+    {
+      "id": "A2",
+      "start": 10.5,
+      "end": 17.8,
+      "speaker_id": "A",
+      "speaker": "muzi",
+      "source_id": "A2",
+      "source_in_seconds": 2.7,
+      "source_out_seconds": 10.0,
+      "output_in_seconds": 10.5,
+      "output_out_seconds": 17.8,
+      "text": "那选豆包没问题，它跟第一名几乎打平。一期 6 分钟的视频，花不到 1 块钱。",
+      "speech_intervals": [
+        [
+          11.23,
+          17.62
+        ]
+      ]
+    }
+  ],
+  "auxiliary_bindings": []
+}

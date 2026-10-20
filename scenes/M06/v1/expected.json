@@ -1,0 +1,17 @@
+{
+ "case_id": "M06",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 8.5,
+ "frames_per_output": 255,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "同一画面用可移动的分界滑块对比 assets/before.png（降噪前）与 assets/after.png（降噪后），两侧标签“降噪前”“降噪后”；第 2 句时滑块从左向右擦过去，最后主要显示降噪后",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

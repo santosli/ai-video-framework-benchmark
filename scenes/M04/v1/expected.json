@@ -1,0 +1,17 @@
+{
+ "case_id": "M04",
+ "version": 1,
+ "batch": 2,
+ "protocol_version": "batch2-1",
+ "width": 1920,
+ "height": 1080,
+ "fps": 30,
+ "seconds_per_output": 12.133333333333333,
+ "frames_per_output": 364,
+ "audio": true,
+ "outputs": [
+  "final.mp4"
+ ],
+ "task_contract": "等宽字体展示 assets/code.py 全部 5 行（含行号，缩进原样），可加打字效果；讲到哪行高亮哪行：第 1 句→第 1 行，第 2 句→第 2 行，第 3 句→第 3–4 行，第 4 句→第 5 行",
+ "acceptance": "技术门槛：规格、帧数、可完整解码、有声；人声按给定音频原样放置且不爆音、有背景音乐。版式、字幕对齐、混音效果由盲评与抽查判断，不提供时间轴。"
+}

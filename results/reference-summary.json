@@ -1,0 +1,56 @@
+{
+  "scope": "Single author, single blind-preference reviewer; 36 scene pairs; batch1 revised versions, batch2 initial versions.",
+  "preference": {
+    "charts_animation": {
+      "n": 15,
+      "remotion": 9,
+      "hyperframes": 0,
+      "both_good": 6,
+      "neither": 0
+    },
+    "talking_head": {
+      "n": 15,
+      "remotion": 4,
+      "hyperframes": 4,
+      "both_good": 7,
+      "neither": 0
+    },
+    "product_demo": {
+      "n": 6,
+      "remotion": 3,
+      "hyperframes": 1,
+      "both_good": 0,
+      "neither": 2
+    }
+  },
+  "timing_batch2_medians_seconds": {
+    "remotion": {
+      "first_preview": 194,
+      "authoring": 389,
+      "final_export": 9.0
+    },
+    "hyperframes": {
+      "first_preview": 221,
+      "authoring": 394,
+      "final_export": 10.3
+    }
+  },
+  "token_counts_all_valid_runs": {
+    "remotion": {
+      "runs": 54,
+      "input": 79101331,
+      "output": 650394
+    },
+    "hyperframes": {
+      "runs": 54,
+      "input": 107822568,
+      "output": 659855
+    }
+  },
+  "limits": [
+    "Input tokens include cached input and do not imply the same difference in actual bills.",
+    "Framework runs shared a host; export seconds are not a controlled speed ranking.",
+    "No full human labor measurement.",
+    "This export has not rerun the 108 AI tasks."
+  ]
+}

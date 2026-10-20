@@ -1,0 +1,19 @@
+{
+ "case_id": "M09",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 6.0,
+ "frames": 180,
+ "kind": "music",
+ "timing_given": false,
+ "lines": [],
+ "clips": [],
+ "layout_requirements": [
+  "只有音乐，没有人声和字幕：用 assets/logo.svg 的图形组合出标志，再出现文字“木子San”和副标题“AI 实践”，最后定格",
+  "主要动作落在 assets/beats.json 给出的节拍上；音乐 0.3 秒淡入、结尾 1 秒淡出，峰值不超过 −1 dBFS"
+ ],
+ "audio_mix": "只有音乐：assets/bgm.wav 从 0 秒起，0.3 秒淡入、结尾 1 秒淡出，峰值不超过 −1 dBFS。"
+}

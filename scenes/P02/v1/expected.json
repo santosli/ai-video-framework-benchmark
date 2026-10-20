@@ -1,0 +1,30 @@
+{
+  "case_id": "P02",
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "seconds_per_output": 30,
+  "frames_per_output": 900,
+  "audio": false,
+  "outputs": [
+    "final.mp4"
+  ],
+  "witness": {
+    "title": "清楚安排每一步",
+    "cjk_characters": 7
+  },
+  "requirements": {
+    "preserve": [
+      "color",
+      "information",
+      "30_seconds",
+      "50%",
+      "2/4"
+    ],
+    "source_context": "html_css_js"
+  },
+  "protocol_version": 6,
+  "full_acceptance_requires_visible_content_motion_and_preservation_review": true,
+  "acceptance": "主标题准确显示“清楚安排每一步”，7 个中文字符；CTA、卖点及动画端态完整，换行无遮挡；记录 HTML/CSS/JS 包装或改写。"
+}

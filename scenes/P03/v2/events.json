@@ -1,0 +1,13 @@
+{
+  "fps": 30,
+  "duration_seconds": 30,
+  "events": [
+    {
+      "start": 0,
+      "end": 30,
+      "state": "task_component",
+      "props": "assets/props-v2.json",
+      "readable_seconds_at_least": 3
+    }
+  ]
+}

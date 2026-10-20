@@ -1,0 +1,2206 @@
+{
+  "sample_rate": 48000,
+  "voice_sha256": "096e3a6e4a995ddf4ca6d34469df6bdb0dee722f4f24744b8201da38ba51d741",
+  "manual_reviewed": false,
+  "utterances": [
+    {
+      "id": "c01",
+      "segment_id": "S06-R01",
+      "text": "我们喝的自来水，和排回河里的废水，都要经过处理。",
+      "start": 0.25,
+      "end": 3.81,
+      "words": [
+        {
+          "word": "我们",
+          "start": 0.25,
+          "end": 0.51,
+          "start_sample": 12000,
+          "end_sample": 24480,
+          "probability": 0.97265625
+        },
+        {
+          "word": "喝",
+          "start": 0.51,
+          "end": 0.63,
+          "start_sample": 24480,
+          "end_sample": 30240,
+          "probability": 0.986328125
+        },
+        {
+          "word": "的",
+          "start": 0.63,
+          "end": 0.73,
+          "start_sample": 30240,
+          "end_sample": 35040,
+          "probability": 0.994140625
+        },
+        {
+          "word": "自",
+          "start": 0.73,
+          "end": 0.85,
+          "start_sample": 35040,
+          "end_sample": 40800,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "来",
+          "start": 0.85,
+          "end": 0.95,
+          "start_sample": 40800,
+          "end_sample": 45600,
+          "probability": 0.99609375
+        },
+        {
+          "word": "水",
+          "start": 0.95,
+          "end": 1.21,
+          "start_sample": 45600,
+          "end_sample": 58080,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "和",
+          "start": 1.21,
+          "end": 1.71,
+          "start_sample": 58080,
+          "end_sample": 82080,
+          "probability": 0.8046875
+        },
+        {
+          "word": "排",
+          "start": 1.71,
+          "end": 1.87,
+          "start_sample": 82080,
+          "end_sample": 89760,
+          "probability": 0.77880859375
+        },
+        {
+          "word": "回",
+          "start": 1.87,
+          "end": 2.01,
+          "start_sample": 89760,
+          "end_sample": 96480,
+          "probability": 0.90771484375
+        },
+        {
+          "word": "河",
+          "start": 2.01,
+          "end": 2.19,
+          "start_sample": 96480,
+          "end_sample": 105120,
+          "probability": 0.82275390625
+        },
+        {
+          "word": "里",
+          "start": 2.19,
+          "end": 2.27,
+          "start_sample": 105120,
+          "end_sample": 108960,
+          "probability": 0.99267578125
+        },
+        {
+          "word": "的",
+          "start": 2.27,
+          "end": 2.37,
+          "start_sample": 108960,
+          "end_sample": 113760,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "废",
+          "start": 2.37,
+          "end": 2.53,
+          "start_sample": 113760,
+          "end_sample": 121440,
+          "probability": 0.98095703125
+        },
+        {
+          "word": "水",
+          "start": 2.53,
+          "end": 2.75,
+          "start_sample": 121440,
+          "end_sample": 132000,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "都",
+          "start": 2.75,
+          "end": 3.15,
+          "start_sample": 132000,
+          "end_sample": 151200,
+          "probability": 0.9052734375
+        },
+        {
+          "word": "要",
+          "start": 3.15,
+          "end": 3.27,
+          "start_sample": 151200,
+          "end_sample": 156960,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "经",
+          "start": 3.27,
+          "end": 3.37,
+          "start_sample": 156960,
+          "end_sample": 161760,
+          "probability": 0.98486328125
+        },
+        {
+          "word": "过",
+          "start": 3.37,
+          "end": 3.51,
+          "start_sample": 161760,
+          "end_sample": 168480,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "处",
+          "start": 3.51,
+          "end": 3.69,
+          "start_sample": 168480,
+          "end_sample": 177120,
+          "probability": 0.998046875
+        },
+        {
+          "word": "理",
+          "start": 3.69,
+          "end": 3.81,
+          "start_sample": 177120,
+          "end_sample": 182880,
+          "probability": 1.0
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "08e320899538d24d0415f26654694bd8ac3f2faf05c8dea5a8c08a01c4f85ae3",
+      "shared_pcm_sha256": "a036033c2a540029abba28b3bb06c6c0f5716dfbee43005034621f4b6762c1c1",
+      "file_window": [
+        0.25,
+        4.07775
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c02",
+      "segment_id": "S06-R02",
+      "text": "办法大致分两类：物理的和化学的。",
+      "start": 4.39775,
+      "end": 7.07775,
+      "words": [
+        {
+          "word": "办",
+          "start": 4.39775,
+          "end": 4.61775,
+          "start_sample": 211092,
+          "end_sample": 221652,
+          "probability": 0.9697265625
+        },
+        {
+          "word": "法",
+          "start": 4.61775,
+          "end": 4.81775,
+          "start_sample": 221652,
+          "end_sample": 231252,
+          "probability": 1.0
+        },
+        {
+          "word": "大",
+          "start": 4.81775,
+          "end": 4.91775,
+          "start_sample": 231252,
+          "end_sample": 236052,
+          "probability": 0.99609375
+        },
+        {
+          "word": "致",
+          "start": 4.91775,
+          "end": 5.07775,
+          "start_sample": 236052,
+          "end_sample": 243732,
+          "probability": 0.999267578125
+        },
+        {
+          "word": "分",
+          "start": 5.07775,
+          "end": 5.19775,
+          "start_sample": 243732,
+          "end_sample": 249492,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "两",
+          "start": 5.19775,
+          "end": 5.33775,
+          "start_sample": 249492,
+          "end_sample": 256212,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "类",
+          "start": 5.33775,
+          "end": 6.01775,
+          "start_sample": 256212,
+          "end_sample": 288852,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "物",
+          "start": 6.01775,
+          "end": 6.19775,
+          "start_sample": 288852,
+          "end_sample": 297492,
+          "probability": 0.68017578125
+        },
+        {
+          "word": "理",
+          "start": 6.19775,
+          "end": 6.35775,
+          "start_sample": 297492,
+          "end_sample": 305172,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "的",
+          "start": 6.35775,
+          "end": 6.45775,
+          "start_sample": 305172,
+          "end_sample": 309972,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "和",
+          "start": 6.45775,
+          "end": 6.59775,
+          "start_sample": 309972,
+          "end_sample": 316692,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "化",
+          "start": 6.59775,
+          "end": 6.71775,
+          "start_sample": 316692,
+          "end_sample": 322452,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "学",
+          "start": 6.71775,
+          "end": 6.93775,
+          "start_sample": 322452,
+          "end_sample": 333012,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "的",
+          "start": 6.93775,
+          "end": 7.07775,
+          "start_sample": 333012,
+          "end_sample": 339732,
+          "probability": 0.99951171875
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "576dff5a9293f2bf9f491d6b13eaa458d29fba1cd9031dc23d11757670976393",
+      "shared_pcm_sha256": "89acf8859123e17f3a1c4b4daf39bbae83ab4b0ed8db937c572139f4750bfe08",
+      "file_window": [
+        4.39775,
+        7.2635
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c03",
+      "segment_id": "S06-R03",
+      "text": "物理处理靠滤材，水穿过去，比孔大的杂质被拦下来，有的杂质被吸在滤材表面，水就干净了一些。",
+      "start": 7.5835,
+      "end": 15.2235,
+      "words": [
+        {
+          "word": "物",
+          "start": 7.5835,
+          "end": 7.8035,
+          "start_sample": 364008,
+          "end_sample": 374568,
+          "probability": 0.98486328125
+        },
+        {
+          "word": "理",
+          "start": 7.8035,
+          "end": 7.9235,
+          "start_sample": 374568,
+          "end_sample": 380328,
+          "probability": 0.998046875
+        },
+        {
+          "word": "处",
+          "start": 7.9235,
+          "end": 8.0435,
+          "start_sample": 380328,
+          "end_sample": 386088,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "理",
+          "start": 8.0435,
+          "end": 8.1835,
+          "start_sample": 386088,
+          "end_sample": 392808,
+          "probability": 1.0
+        },
+        {
+          "word": "靠",
+          "start": 8.1835,
+          "end": 8.3435,
+          "start_sample": 392808,
+          "end_sample": 400488,
+          "probability": 0.98828125
+        },
+        {
+          "word": "滤",
+          "start": 8.3435,
+          "end": 8.4835,
+          "start_sample": 400488,
+          "end_sample": 407208,
+          "probability": 0.76513671875
+        },
+        {
+          "word": "材,",
+          "start": 8.4835,
+          "end": 8.7035,
+          "start_sample": 407208,
+          "end_sample": 417768,
+          "probability": 0.934326171875
+        },
+        {
+          "word": "水",
+          "start": 8.8835,
+          "end": 9.2235,
+          "start_sample": 426408,
+          "end_sample": 442728,
+          "probability": 0.95849609375
+        },
+        {
+          "word": "穿",
+          "start": 9.2235,
+          "end": 9.3835,
+          "start_sample": 442728,
+          "end_sample": 450408,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "过",
+          "start": 9.3835,
+          "end": 9.5435,
+          "start_sample": 450408,
+          "end_sample": 458088,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "去,",
+          "start": 9.5435,
+          "end": 9.7635,
+          "start_sample": 458088,
+          "end_sample": 468648,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "比",
+          "start": 9.9835,
+          "end": 10.1435,
+          "start_sample": 479208,
+          "end_sample": 486888,
+          "probability": 0.935546875
+        },
+        {
+          "word": "孔",
+          "start": 10.1435,
+          "end": 10.3435,
+          "start_sample": 486888,
+          "end_sample": 496488,
+          "probability": 0.96484375
+        },
+        {
+          "word": "大的",
+          "start": 10.3435,
+          "end": 10.5235,
+          "start_sample": 496488,
+          "end_sample": 505128,
+          "probability": 0.97705078125
+        },
+        {
+          "word": "杂",
+          "start": 10.5235,
+          "end": 10.7635,
+          "start_sample": 505128,
+          "end_sample": 516648,
+          "probability": 0.998779296875
+        },
+        {
+          "word": "质",
+          "start": 10.7635,
+          "end": 10.8835,
+          "start_sample": 516648,
+          "end_sample": 522408,
+          "probability": 0.906005859375
+        },
+        {
+          "word": "被",
+          "start": 10.8835,
+          "end": 11.0035,
+          "start_sample": 522408,
+          "end_sample": 528168,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "拦",
+          "start": 11.0035,
+          "end": 11.1435,
+          "start_sample": 528168,
+          "end_sample": 534888,
+          "probability": 0.986572265625
+        },
+        {
+          "word": "下",
+          "start": 11.1435,
+          "end": 11.2835,
+          "start_sample": 534888,
+          "end_sample": 541608,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "来。",
+          "start": 11.2835,
+          "end": 11.4835,
+          "start_sample": 541608,
+          "end_sample": 551208,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "有",
+          "start": 12.0835,
+          "end": 12.4035,
+          "start_sample": 580008,
+          "end_sample": 595368,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "的",
+          "start": 12.4035,
+          "end": 12.5035,
+          "start_sample": 595368,
+          "end_sample": 600168,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "杂",
+          "start": 12.5035,
+          "end": 12.6835,
+          "start_sample": 600168,
+          "end_sample": 608808,
+          "probability": 0.999267578125
+        },
+        {
+          "word": "质",
+          "start": 12.6835,
+          "end": 12.8235,
+          "start_sample": 608808,
+          "end_sample": 615528,
+          "probability": 0.997314453125
+        },
+        {
+          "word": "被",
+          "start": 12.8235,
+          "end": 12.9435,
+          "start_sample": 615528,
+          "end_sample": 621288,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "吸",
+          "start": 12.9435,
+          "end": 13.0835,
+          "start_sample": 621288,
+          "end_sample": 628008,
+          "probability": 0.98388671875
+        },
+        {
+          "word": "在",
+          "start": 13.0835,
+          "end": 13.2035,
+          "start_sample": 628008,
+          "end_sample": 633768,
+          "probability": 0.98974609375
+        },
+        {
+          "word": "滤",
+          "start": 13.2035,
+          "end": 13.3435,
+          "start_sample": 633768,
+          "end_sample": 640488,
+          "probability": 0.97802734375
+        },
+        {
+          "word": "材",
+          "start": 13.3435,
+          "end": 13.4435,
+          "start_sample": 640488,
+          "end_sample": 645288,
+          "probability": 0.994384765625
+        },
+        {
+          "word": "表",
+          "start": 13.4435,
+          "end": 13.6035,
+          "start_sample": 645288,
+          "end_sample": 652968,
+          "probability": 0.98779296875
+        },
+        {
+          "word": "面,",
+          "start": 13.6035,
+          "end": 13.8435,
+          "start_sample": 652968,
+          "end_sample": 664488,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "水",
+          "start": 14.2835,
+          "end": 14.5235,
+          "start_sample": 685608,
+          "end_sample": 697128,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "就",
+          "start": 14.5235,
+          "end": 14.6435,
+          "start_sample": 697128,
+          "end_sample": 702888,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "干",
+          "start": 14.6435,
+          "end": 14.7635,
+          "start_sample": 702888,
+          "end_sample": 708648,
+          "probability": 0.9921875
+        },
+        {
+          "word": "净",
+          "start": 14.7635,
+          "end": 14.9435,
+          "start_sample": 708648,
+          "end_sample": 717288,
+          "probability": 0.998291015625
+        },
+        {
+          "word": "了",
+          "start": 14.9435,
+          "end": 15.0235,
+          "start_sample": 717288,
+          "end_sample": 721128,
+          "probability": 0.994140625
+        },
+        {
+          "word": "一些。",
+          "start": 15.0235,
+          "end": 15.2235,
+          "start_sample": 721128,
+          "end_sample": 730728,
+          "probability": 0.97705078125
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "1d435b51c9956f1cc4195bfc77183392d47970f2f42d6923f6a68966c87b165d",
+      "shared_pcm_sha256": "966dbcd00ccdbfce4bf233a96a521766c5dc391209a81cd41bbbc5d51c85ed27",
+      "file_window": [
+        7.5835,
+        15.56325
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c04",
+      "segment_id": "S06-R05",
+      "text": "除了拦住，还可以吸住，比如用活性炭，把杂质吸附在表面。",
+      "start": 15.88325,
+      "end": 20.90325,
+      "words": [
+        {
+          "word": "除",
+          "start": 15.88325,
+          "end": 16.14325,
+          "start_sample": 762396,
+          "end_sample": 774876,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "了",
+          "start": 16.14325,
+          "end": 16.28325,
+          "start_sample": 774876,
+          "end_sample": 781596,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "拦",
+          "start": 16.28325,
+          "end": 16.42325,
+          "start_sample": 781596,
+          "end_sample": 788316,
+          "probability": 0.95166015625
+        },
+        {
+          "word": "住,",
+          "start": 16.42325,
+          "end": 16.60325,
+          "start_sample": 788316,
+          "end_sample": 796956,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "还",
+          "start": 17.02325,
+          "end": 17.08325,
+          "start_sample": 817116,
+          "end_sample": 819996,
+          "probability": 0.966796875
+        },
+        {
+          "word": "可以",
+          "start": 17.08325,
+          "end": 17.30325,
+          "start_sample": 819996,
+          "end_sample": 830556,
+          "probability": 0.99609375
+        },
+        {
+          "word": "吸",
+          "start": 17.30325,
+          "end": 17.44325,
+          "start_sample": 830556,
+          "end_sample": 837276,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "住",
+          "start": 17.44325,
+          "end": 17.64325,
+          "start_sample": 837276,
+          "end_sample": 846876,
+          "probability": 0.994140625
+        },
+        {
+          "word": "比如",
+          "start": 18.40325,
+          "end": 18.74325,
+          "start_sample": 883356,
+          "end_sample": 899676,
+          "probability": 0.212890625
+        },
+        {
+          "word": "用",
+          "start": 18.74325,
+          "end": 18.98325,
+          "start_sample": 899676,
+          "end_sample": 911196,
+          "probability": 0.990234375
+        },
+        {
+          "word": "活",
+          "start": 18.98325,
+          "end": 19.12325,
+          "start_sample": 911196,
+          "end_sample": 917916,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "性",
+          "start": 19.12325,
+          "end": 19.28325,
+          "start_sample": 917916,
+          "end_sample": 925596,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "碳",
+          "start": 19.28325,
+          "end": 19.50325,
+          "start_sample": 925596,
+          "end_sample": 936156,
+          "probability": 0.853271484375
+        },
+        {
+          "word": "把",
+          "start": 19.50325,
+          "end": 19.90325,
+          "start_sample": 936156,
+          "end_sample": 955356,
+          "probability": 0.64599609375
+        },
+        {
+          "word": "杂",
+          "start": 19.90325,
+          "end": 20.10325,
+          "start_sample": 955356,
+          "end_sample": 964956,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "质",
+          "start": 20.10325,
+          "end": 20.24325,
+          "start_sample": 964956,
+          "end_sample": 971676,
+          "probability": 0.942138671875
+        },
+        {
+          "word": "吸",
+          "start": 20.24325,
+          "end": 20.36325,
+          "start_sample": 971676,
+          "end_sample": 977436,
+          "probability": 0.99365234375
+        },
+        {
+          "word": "附",
+          "start": 20.36325,
+          "end": 20.48325,
+          "start_sample": 977436,
+          "end_sample": 983196,
+          "probability": 0.997802734375
+        },
+        {
+          "word": "在",
+          "start": 20.48325,
+          "end": 20.58325,
+          "start_sample": 983196,
+          "end_sample": 987996,
+          "probability": 0.99658203125
+        },
+        {
+          "word": "表",
+          "start": 20.58325,
+          "end": 20.70325,
+          "start_sample": 987996,
+          "end_sample": 993756,
+          "probability": 0.99609375
+        },
+        {
+          "word": "面",
+          "start": 20.70325,
+          "end": 20.90325,
+          "start_sample": 993756,
+          "end_sample": 1003356,
+          "probability": 1.0
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "da3e986cd5dd8ceaa59094f634a92eaa8d29f0b46af3af5329eb568bc482725e",
+      "shared_pcm_sha256": "515ef80ade5ee841ca8bdff009fb59a903540bca7414cece41f5f0fe1e217d52",
+      "file_window": [
+        15.88325,
+        21.130583333333334
+      ],
+      "manual_reviewed": false
+    },
+    {
+      "id": "c05",
+      "segment_id": "S06-R04",
+      "text": "化学处理是让杂质先抱团：往水里加一点明矾，细小的杂质聚集起来，体积变大，再过滤一遍就能去掉。",
+      "start": 21.88325,
+      "end": 29.80325,
+      "words": [
+        {
+          "word": "化",
+          "start": 21.88325,
+          "end": 22.08325,
+          "start_sample": 1050396,
+          "end_sample": 1059996,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "学",
+          "start": 22.08325,
+          "end": 22.26325,
+          "start_sample": 1059996,
+          "end_sample": 1068636,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "处",
+          "start": 22.26325,
+          "end": 22.42325,
+          "start_sample": 1068636,
+          "end_sample": 1076316,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "理",
+          "start": 22.42325,
+          "end": 22.54325,
+          "start_sample": 1076316,
+          "end_sample": 1082076,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "是",
+          "start": 22.54325,
+          "end": 22.66325,
+          "start_sample": 1082076,
+          "end_sample": 1087836,
+          "probability": 0.84521484375
+        },
+        {
+          "word": "让",
+          "start": 22.66325,
+          "end": 22.80325,
+          "start_sample": 1087836,
+          "end_sample": 1094556,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "杂",
+          "start": 22.80325,
+          "end": 23.00325,
+          "start_sample": 1094556,
+          "end_sample": 1104156,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "质",
+          "start": 23.00325,
+          "end": 23.14325,
+          "start_sample": 1104156,
+          "end_sample": 1110876,
+          "probability": 0.832763671875
+        },
+        {
+          "word": "先",
+          "start": 23.14325,
+          "end": 23.28325,
+          "start_sample": 1110876,
+          "end_sample": 1117596,
+          "probability": 0.98583984375
+        },
+        {
+          "word": "抱",
+          "start": 23.28325,
+          "end": 23.40325,
+          "start_sample": 1117596,
+          "end_sample": 1123356,
+          "probability": 0.951171875
+        },
+        {
+          "word": "团,",
+          "start": 23.40325,
+          "end": 23.68325,
+          "start_sample": 1123356,
+          "end_sample": 1136796,
+          "probability": 0.998291015625
+        },
+        {
+          "word": "往",
+          "start": 23.88325,
+          "end": 24.34325,
+          "start_sample": 1146396,
+          "end_sample": 1168476,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "水",
+          "start": 24.34325,
+          "end": 24.54325,
+          "start_sample": 1168476,
+          "end_sample": 1178076,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "里",
+          "start": 24.54325,
+          "end": 24.66325,
+          "start_sample": 1178076,
+          "end_sample": 1183836,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "加",
+          "start": 24.66325,
+          "end": 24.82325,
+          "start_sample": 1183836,
+          "end_sample": 1191516,
+          "probability": 0.9931640625
+        },
+        {
+          "word": "一点",
+          "start": 24.82325,
+          "end": 25.00325,
+          "start_sample": 1191516,
+          "end_sample": 1200156,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "冥",
+          "start": 25.00325,
+          "end": 25.18325,
+          "start_sample": 1200156,
+          "end_sample": 1208796,
+          "probability": 0.6563720703125
+        },
+        {
+          "word": "凡,",
+          "start": 25.18325,
+          "end": 25.42325,
+          "start_sample": 1208796,
+          "end_sample": 1220316,
+          "probability": 0.854736328125
+        },
+        {
+          "word": "细",
+          "start": 25.64325,
+          "end": 26.06325,
+          "start_sample": 1230876,
+          "end_sample": 1251036,
+          "probability": 0.997314453125
+        },
+        {
+          "word": "小",
+          "start": 26.06325,
+          "end": 26.22325,
+          "start_sample": 1251036,
+          "end_sample": 1258716,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "的",
+          "start": 26.22325,
+          "end": 26.30325,
+          "start_sample": 1258716,
+          "end_sample": 1262556,
+          "probability": 0.9853515625
+        },
+        {
+          "word": "杂",
+          "start": 26.30325,
+          "end": 26.46325,
+          "start_sample": 1262556,
+          "end_sample": 1270236,
+          "probability": 0.999267578125
+        },
+        {
+          "word": "质",
+          "start": 26.46325,
+          "end": 26.60325,
+          "start_sample": 1270236,
+          "end_sample": 1276956,
+          "probability": 0.990966796875
+        },
+        {
+          "word": "聚",
+          "start": 26.60325,
+          "end": 26.74325,
+          "start_sample": 1276956,
+          "end_sample": 1283676,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "集",
+          "start": 26.74325,
+          "end": 26.86325,
+          "start_sample": 1283676,
+          "end_sample": 1289436,
+          "probability": 1.0
+        },
+        {
+          "word": "起",
+          "start": 26.86325,
+          "end": 26.98325,
+          "start_sample": 1289436,
+          "end_sample": 1295196,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "来,",
+          "start": 26.98325,
+          "end": 27.20325,
+          "start_sample": 1295196,
+          "end_sample": 1305756,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "体",
+          "start": 27.54325,
+          "end": 27.68325,
+          "start_sample": 1322076,
+          "end_sample": 1328796,
+          "probability": 0.99609375
+        },
+        {
+          "word": "积",
+          "start": 27.68325,
+          "end": 27.82325,
+          "start_sample": 1328796,
+          "end_sample": 1335516,
+          "probability": 0.996826171875
+        },
+        {
+          "word": "变",
+          "start": 27.82325,
+          "end": 27.94325,
+          "start_sample": 1335516,
+          "end_sample": 1341276,
+          "probability": 0.997314453125
+        },
+        {
+          "word": "大,",
+          "start": 27.94325,
+          "end": 28.14325,
+          "start_sample": 1341276,
+          "end_sample": 1350876,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "再",
+          "start": 28.60325,
+          "end": 28.70325,
+          "start_sample": 1372956,
+          "end_sample": 1377756,
+          "probability": 0.94873046875
+        },
+        {
+          "word": "过",
+          "start": 28.70325,
+          "end": 28.86325,
+          "start_sample": 1377756,
+          "end_sample": 1385436,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "滤",
+          "start": 28.86325,
+          "end": 29.02325,
+          "start_sample": 1385436,
+          "end_sample": 1393116,
+          "probability": 0.996826171875
+        },
+        {
+          "word": "一",
+          "start": 29.02325,
+          "end": 29.14325,
+          "start_sample": 1393116,
+          "end_sample": 1398876,
+          "probability": 0.9921875
+        },
+        {
+          "word": "遍",
+          "start": 29.14325,
+          "end": 29.22325,
+          "start_sample": 1398876,
+          "end_sample": 1402716,
+          "probability": 0.9892578125
+        },
+        {
+          "word": "就",
+          "start": 29.22325,
+          "end": 29.36325,
+          "start_sample": 1402716,
+          "end_sample": 1409436,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "能",
+          "start": 29.36325,
+          "end": 29.48325,
+          "start_sample": 1409436,
+          "end_sample": 1415196,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "去",
+          "start": 29.48325,
+          "end": 29.62325,
+          "start_sample": 1415196,
+          "end_sample": 1421916,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "掉。",
+          "start": 29.62325,
+          "end": 29.80325,
+          "start_sample": 1421916,
+          "end_sample": 1430556,
+          "probability": 0.99951171875
+        }
+      ],
+      "audio_file": "voice.wav",
+      "source_sha256": "c67f414808b8854301a804bf6b1b9ada6f0aea9c4c881bb24104fbb0620b66dc",
+      "shared_pcm_sha256": "a2dddf2a9c63ee545b698c5ab18d59c83bb8a77236ba14678d644e38baa41b08",
+      "file_window": [
+        21.88325,
+        30.092333333333332
+      ],
+      "manual_reviewed": false
+    }
+  ],
+  "words": [
+    {
+      "word": "我们",
+      "start": 0.25,
+      "end": 0.51,
+      "start_sample": 12000,
+      "end_sample": 24480,
+      "probability": 0.97265625
+    },
+    {
+      "word": "喝",
+      "start": 0.51,
+      "end": 0.63,
+      "start_sample": 24480,
+      "end_sample": 30240,
+      "probability": 0.986328125
+    },
+    {
+      "word": "的",
+      "start": 0.63,
+      "end": 0.73,
+      "start_sample": 30240,
+      "end_sample": 35040,
+      "probability": 0.994140625
+    },
+    {
+      "word": "自",
+      "start": 0.73,
+      "end": 0.85,
+      "start_sample": 35040,
+      "end_sample": 40800,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "来",
+      "start": 0.85,
+      "end": 0.95,
+      "start_sample": 40800,
+      "end_sample": 45600,
+      "probability": 0.99609375
+    },
+    {
+      "word": "水",
+      "start": 0.95,
+      "end": 1.21,
+      "start_sample": 45600,
+      "end_sample": 58080,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "和",
+      "start": 1.21,
+      "end": 1.71,
+      "start_sample": 58080,
+      "end_sample": 82080,
+      "probability": 0.8046875
+    },
+    {
+      "word": "排",
+      "start": 1.71,
+      "end": 1.87,
+      "start_sample": 82080,
+      "end_sample": 89760,
+      "probability": 0.77880859375
+    },
+    {
+      "word": "回",
+      "start": 1.87,
+      "end": 2.01,
+      "start_sample": 89760,
+      "end_sample": 96480,
+      "probability": 0.90771484375
+    },
+    {
+      "word": "河",
+      "start": 2.01,
+      "end": 2.19,
+      "start_sample": 96480,
+      "end_sample": 105120,
+      "probability": 0.82275390625
+    },
+    {
+      "word": "里",
+      "start": 2.19,
+      "end": 2.27,
+      "start_sample": 105120,
+      "end_sample": 108960,
+      "probability": 0.99267578125
+    },
+    {
+      "word": "的",
+      "start": 2.27,
+      "end": 2.37,
+      "start_sample": 108960,
+      "end_sample": 113760,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "废",
+      "start": 2.37,
+      "end": 2.53,
+      "start_sample": 113760,
+      "end_sample": 121440,
+      "probability": 0.98095703125
+    },
+    {
+      "word": "水",
+      "start": 2.53,
+      "end": 2.75,
+      "start_sample": 121440,
+      "end_sample": 132000,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "都",
+      "start": 2.75,
+      "end": 3.15,
+      "start_sample": 132000,
+      "end_sample": 151200,
+      "probability": 0.9052734375
+    },
+    {
+      "word": "要",
+      "start": 3.15,
+      "end": 3.27,
+      "start_sample": 151200,
+      "end_sample": 156960,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "经",
+      "start": 3.27,
+      "end": 3.37,
+      "start_sample": 156960,
+      "end_sample": 161760,
+      "probability": 0.98486328125
+    },
+    {
+      "word": "过",
+      "start": 3.37,
+      "end": 3.51,
+      "start_sample": 161760,
+      "end_sample": 168480,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "处",
+      "start": 3.51,
+      "end": 3.69,
+      "start_sample": 168480,
+      "end_sample": 177120,
+      "probability": 0.998046875
+    },
+    {
+      "word": "理",
+      "start": 3.69,
+      "end": 3.81,
+      "start_sample": 177120,
+      "end_sample": 182880,
+      "probability": 1.0
+    },
+    {
+      "word": "办",
+      "start": 4.39775,
+      "end": 4.61775,
+      "start_sample": 211092,
+      "end_sample": 221652,
+      "probability": 0.9697265625
+    },
+    {
+      "word": "法",
+      "start": 4.61775,
+      "end": 4.81775,
+      "start_sample": 221652,
+      "end_sample": 231252,
+      "probability": 1.0
+    },
+    {
+      "word": "大",
+      "start": 4.81775,
+      "end": 4.91775,
+      "start_sample": 231252,
+      "end_sample": 236052,
+      "probability": 0.99609375
+    },
+    {
+      "word": "致",
+      "start": 4.91775,
+      "end": 5.07775,
+      "start_sample": 236052,
+      "end_sample": 243732,
+      "probability": 0.999267578125
+    },
+    {
+      "word": "分",
+      "start": 5.07775,
+      "end": 5.19775,
+      "start_sample": 243732,
+      "end_sample": 249492,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "两",
+      "start": 5.19775,
+      "end": 5.33775,
+      "start_sample": 249492,
+      "end_sample": 256212,
+      "probability": 0.99462890625
+    },
+    {
+      "word": "类",
+      "start": 5.33775,
+      "end": 6.01775,
+      "start_sample": 256212,
+      "end_sample": 288852,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "物",
+      "start": 6.01775,
+      "end": 6.19775,
+      "start_sample": 288852,
+      "end_sample": 297492,
+      "probability": 0.68017578125
+    },
+    {
+      "word": "理",
+      "start": 6.19775,
+      "end": 6.35775,
+      "start_sample": 297492,
+      "end_sample": 305172,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "的",
+      "start": 6.35775,
+      "end": 6.45775,
+      "start_sample": 305172,
+      "end_sample": 309972,
+      "probability": 0.9892578125
+    },
+    {
+      "word": "和",
+      "start": 6.45775,
+      "end": 6.59775,
+      "start_sample": 309972,
+      "end_sample": 316692,
+      "probability": 0.9951171875
+    },
+    {
+      "word": "化",
+      "start": 6.59775,
+      "end": 6.71775,
+      "start_sample": 316692,
+      "end_sample": 322452,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "学",
+      "start": 6.71775,
+      "end": 6.93775,
+      "start_sample": 322452,
+      "end_sample": 333012,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "的",
+      "start": 6.93775,
+      "end": 7.07775,
+      "start_sample": 333012,
+      "end_sample": 339732,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "物",
+      "start": 7.5835,
+      "end": 7.8035,
+      "start_sample": 364008,
+      "end_sample": 374568,
+      "probability": 0.98486328125
+    },
+    {
+      "word": "理",
+      "start": 7.8035,
+      "end": 7.9235,
+      "start_sample": 374568,
+      "end_sample": 380328,
+      "probability": 0.998046875
+    },
+    {
+      "word": "处",
+      "start": 7.9235,
+      "end": 8.0435,
+      "start_sample": 380328,
+      "end_sample": 386088,
+      "probability": 0.99365234375
+    },
+    {
+      "word": "理",
+      "start": 8.0435,
+      "end": 8.1835,
+      "start_sample": 386088,
+      "end_sample": 392808,
+      "probability": 1.0
+    },
+    {
+      "word": "靠",
+      "start": 8.1835,
+      "end": 8.3435,
+      "start_sample": 392808,
+      "end_sample": 400488,
+      "probability": 0.98828125
+    },
+    {
+      "word": "滤",
+      "start": 8.3435,
+      "end": 8.4835,
+      "start_sample": 400488,
+      "end_sample": 407208,
+      "probability": 0.76513671875
+    },
+    {
+      "word": "材,",
+      "start": 8.4835,
+      "end": 8.7035,
+      "start_sample": 407208,
+      "end_sample": 417768,
+      "probability": 0.934326171875
+    },
+    {
+      "word": "水",
+      "start": 8.8835,
+      "end": 9.2235,
+      "start_sample": 426408,
+      "end_sample": 442728,
+      "probability": 0.95849609375
+    },
+    {
+      "word": "穿",
+      "start": 9.2235,
+      "end": 9.3835,
+      "start_sample": 442728,
+      "end_sample": 450408,
+      "probability": 0.99072265625
+    },
+    {
+      "word": "过",
+      "start": 9.3835,
+      "end": 9.5435,
+      "start_sample": 450408,
+      "end_sample": 458088,
+      "probability": 0.99462890625
+    },
+    {
+      "word": "去,",
+      "start": 9.5435,
+      "end": 9.7635,
+      "start_sample": 458088,
+      "end_sample": 468648,
+      "probability": 0.99658203125
+    },
+    {
+      "word": "比",
+      "start": 9.9835,
+      "end": 10.1435,
+      "start_sample": 479208,
+      "end_sample": 486888,
+      "probability": 0.935546875
+    },
+    {
+      "word": "孔",
+      "start": 10.1435,
+      "end": 10.3435,
+      "start_sample": 486888,
+      "end_sample": 496488,
+      "probability": 0.96484375
+    },
+    {
+      "word": "大的",
+      "start": 10.3435,
+      "end": 10.5235,
+      "start_sample": 496488,
+      "end_sample": 505128,
+      "probability": 0.97705078125
+    },
+    {
+      "word": "杂",
+      "start": 10.5235,
+      "end": 10.7635,
+      "start_sample": 505128,
+      "end_sample": 516648,
+      "probability": 0.998779296875
+    },
+    {
+      "word": "质",
+      "start": 10.7635,
+      "end": 10.8835,
+      "start_sample": 516648,
+      "end_sample": 522408,
+      "probability": 0.906005859375
+    },
+    {
+      "word": "被",
+      "start": 10.8835,
+      "end": 11.0035,
+      "start_sample": 522408,
+      "end_sample": 528168,
+      "probability": 0.9931640625
+    },
+    {
+      "word": "拦",
+      "start": 11.0035,
+      "end": 11.1435,
+      "start_sample": 528168,
+      "end_sample": 534888,
+      "probability": 0.986572265625
+    },
+    {
+      "word": "下",
+      "start": 11.1435,
+      "end": 11.2835,
+      "start_sample": 534888,
+      "end_sample": 541608,
+      "probability": 0.99658203125
+    },
+    {
+      "word": "来。",
+      "start": 11.2835,
+      "end": 11.4835,
+      "start_sample": 541608,
+      "end_sample": 551208,
+      "probability": 0.99365234375
+    },
+    {
+      "word": "有",
+      "start": 12.0835,
+      "end": 12.4035,
+      "start_sample": 580008,
+      "end_sample": 595368,
+      "probability": 0.9951171875
+    },
+    {
+      "word": "的",
+      "start": 12.4035,
+      "end": 12.5035,
+      "start_sample": 595368,
+      "end_sample": 600168,
+      "probability": 0.9931640625
+    },
+    {
+      "word": "杂",
+      "start": 12.5035,
+      "end": 12.6835,
+      "start_sample": 600168,
+      "end_sample": 608808,
+      "probability": 0.999267578125
+    },
+    {
+      "word": "质",
+      "start": 12.6835,
+      "end": 12.8235,
+      "start_sample": 608808,
+      "end_sample": 615528,
+      "probability": 0.997314453125
+    },
+    {
+      "word": "被",
+      "start": 12.8235,
+      "end": 12.9435,
+      "start_sample": 615528,
+      "end_sample": 621288,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "吸",
+      "start": 12.9435,
+      "end": 13.0835,
+      "start_sample": 621288,
+      "end_sample": 628008,
+      "probability": 0.98388671875
+    },
+    {
+      "word": "在",
+      "start": 13.0835,
+      "end": 13.2035,
+      "start_sample": 628008,
+      "end_sample": 633768,
+      "probability": 0.98974609375
+    },
+    {
+      "word": "滤",
+      "start": 13.2035,
+      "end": 13.3435,
+      "start_sample": 633768,
+      "end_sample": 640488,
+      "probability": 0.97802734375
+    },
+    {
+      "word": "材",
+      "start": 13.3435,
+      "end": 13.4435,
+      "start_sample": 640488,
+      "end_sample": 645288,
+      "probability": 0.994384765625
+    },
+    {
+      "word": "表",
+      "start": 13.4435,
+      "end": 13.6035,
+      "start_sample": 645288,
+      "end_sample": 652968,
+      "probability": 0.98779296875
+    },
+    {
+      "word": "面,",
+      "start": 13.6035,
+      "end": 13.8435,
+      "start_sample": 652968,
+      "end_sample": 664488,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "水",
+      "start": 14.2835,
+      "end": 14.5235,
+      "start_sample": 685608,
+      "end_sample": 697128,
+      "probability": 0.99462890625
+    },
+    {
+      "word": "就",
+      "start": 14.5235,
+      "end": 14.6435,
+      "start_sample": 697128,
+      "end_sample": 702888,
+      "probability": 0.99658203125
+    },
+    {
+      "word": "干",
+      "start": 14.6435,
+      "end": 14.7635,
+      "start_sample": 702888,
+      "end_sample": 708648,
+      "probability": 0.9921875
+    },
+    {
+      "word": "净",
+      "start": 14.7635,
+      "end": 14.9435,
+      "start_sample": 708648,
+      "end_sample": 717288,
+      "probability": 0.998291015625
+    },
+    {
+      "word": "了",
+      "start": 14.9435,
+      "end": 15.0235,
+      "start_sample": 717288,
+      "end_sample": 721128,
+      "probability": 0.994140625
+    },
+    {
+      "word": "一些。",
+      "start": 15.0235,
+      "end": 15.2235,
+      "start_sample": 721128,
+      "end_sample": 730728,
+      "probability": 0.97705078125
+    },
+    {
+      "word": "除",
+      "start": 15.88325,
+      "end": 16.14325,
+      "start_sample": 762396,
+      "end_sample": 774876,
+      "probability": 0.9794921875
+    },
+    {
+      "word": "了",
+      "start": 16.14325,
+      "end": 16.28325,
+      "start_sample": 774876,
+      "end_sample": 781596,
+      "probability": 0.99853515625
+    },
+    {
+      "word": "拦",
+      "start": 16.28325,
+      "end": 16.42325,
+      "start_sample": 781596,
+      "end_sample": 788316,
+      "probability": 0.95166015625
+    },
+    {
+      "word": "住,",
+      "start": 16.42325,
+      "end": 16.60325,
+      "start_sample": 788316,
+      "end_sample": 796956,
+      "probability": 0.99365234375
+    },
+    {
+      "word": "还",
+      "start": 17.02325,
+      "end": 17.08325,
+      "start_sample": 817116,
+      "end_sample": 819996,
+      "probability": 0.966796875
+    },
+    {
+      "word": "可以",
+      "start": 17.08325,
+      "end": 17.30325,
+      "start_sample": 819996,
+      "end_sample": 830556,
+      "probability": 0.99609375
+    },
+    {
+      "word": "吸",
+      "start": 17.30325,
+      "end": 17.44325,
+      "start_sample": 830556,
+      "end_sample": 837276,
+      "probability": 0.99072265625
+    },
+    {
+      "word": "住",
+      "start": 17.44325,
+      "end": 17.64325,
+      "start_sample": 837276,
+      "end_sample": 846876,
+      "probability": 0.994140625
+    },
+    {
+      "word": "比如",
+      "start": 18.40325,
+      "end": 18.74325,
+      "start_sample": 883356,
+      "end_sample": 899676,
+      "probability": 0.212890625
+    },
+    {
+      "word": "用",
+      "start": 18.74325,
+      "end": 18.98325,
+      "start_sample": 899676,
+      "end_sample": 911196,
+      "probability": 0.990234375
+    },
+    {
+      "word": "活",
+      "start": 18.98325,
+      "end": 19.12325,
+      "start_sample": 911196,
+      "end_sample": 917916,
+      "probability": 0.99755859375
+    },
+    {
+      "word": "性",
+      "start": 19.12325,
+      "end": 19.28325,
+      "start_sample": 917916,
+      "end_sample": 925596,
+      "probability": 0.9970703125
+    },
+    {
+      "word": "碳",
+      "start": 19.28325,
+      "end": 19.50325,
+      "start_sample": 925596,
+      "end_sample": 936156,
+      "probability": 0.853271484375
+    },
+    {
+      "word": "把",
+      "start": 19.50325,
+      "end": 19.90325,
+      "start_sample": 936156,
+      "end_sample": 955356,
+      "probability": 0.64599609375
+    },
+    {
+      "word": "杂",
+      "start": 19.90325,
+      "end": 20.10325,
+      "start_sample": 955356,
+      "end_sample": 964956,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "质",
+      "start": 20.10325,
+      "end": 20.24325,
+      "start_sample": 964956,
+      "end_sample": 971676,
+      "probability": 0.942138671875
+    },
+    {
+      "word": "吸",
+      "start": 20.24325,
+      "end": 20.36325,
+      "start_sample": 971676,
+      "end_sample": 977436,
+      "probability": 0.99365234375
+    },
+    {
+      "word": "附",
+      "start": 20.36325,
+      "end": 20.48325,
+      "start_sample": 977436,
+      "end_sample": 983196,
+      "probability": 0.997802734375
+    },
+    {
+      "word": "在",
+      "start": 20.48325,
+      "end": 20.58325,
+      "start_sample": 983196,
+      "end_sample": 987996,
+      "probability": 0.99658203125
+    },
+    {
+      "word": "表",
+      "start": 20.58325,
+      "end": 20.70325,
+      "start_sample": 987996,
+      "end_sample": 993756,
+      "probability": 0.99609375
+    },
+    {
+      "word": "面",
+      "start": 20.70325,
+      "end": 20.90325,
+      "start_sample": 993756,
+      "end_sample": 1003356,
+      "probability": 1.0
+    },
+    {
+      "word": "化",
+      "start": 21.88325,
+      "end": 22.08325,
+      "start_sample": 1050396,
+      "end_sample": 1059996,
+      "probability": 0.99072265625
+    },
+    {
+      "word": "学",
+      "start": 22.08325,
+      "end": 22.26325,
+      "start_sample": 1059996,
+      "end_sample": 1068636,
+      "probability": 0.9951171875
+    },
+    {
+      "word": "处",
+      "start": 22.26325,
+      "end": 22.42325,
+      "start_sample": 1068636,
+      "end_sample": 1076316,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "理",
+      "start": 22.42325,
+      "end": 22.54325,
+      "start_sample": 1076316,
+      "end_sample": 1082076,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "是",
+      "start": 22.54325,
+      "end": 22.66325,
+      "start_sample": 1082076,
+      "end_sample": 1087836,
+      "probability": 0.84521484375
+    },
+    {
+      "word": "让",
+      "start": 22.66325,
+      "end": 22.80325,
+      "start_sample": 1087836,
+      "end_sample": 1094556,
+      "probability": 0.99755859375
+    },
+    {
+      "word": "杂",
+      "start": 22.80325,
+      "end": 23.00325,
+      "start_sample": 1094556,
+      "end_sample": 1104156,
+      "probability": 0.9970703125
+    },
+    {
+      "word": "质",
+      "start": 23.00325,
+      "end": 23.14325,
+      "start_sample": 1104156,
+      "end_sample": 1110876,
+      "probability": 0.832763671875
+    },
+    {
+      "word": "先",
+      "start": 23.14325,
+      "end": 23.28325,
+      "start_sample": 1110876,
+      "end_sample": 1117596,
+      "probability": 0.98583984375
+    },
+    {
+      "word": "抱",
+      "start": 23.28325,
+      "end": 23.40325,
+      "start_sample": 1117596,
+      "end_sample": 1123356,
+      "probability": 0.951171875
+    },
+    {
+      "word": "团,",
+      "start": 23.40325,
+      "end": 23.68325,
+      "start_sample": 1123356,
+      "end_sample": 1136796,
+      "probability": 0.998291015625
+    },
+    {
+      "word": "往",
+      "start": 23.88325,
+      "end": 24.34325,
+      "start_sample": 1146396,
+      "end_sample": 1168476,
+      "probability": 0.9794921875
+    },
+    {
+      "word": "水",
+      "start": 24.34325,
+      "end": 24.54325,
+      "start_sample": 1168476,
+      "end_sample": 1178076,
+      "probability": 0.9970703125
+    },
+    {
+      "word": "里",
+      "start": 24.54325,
+      "end": 24.66325,
+      "start_sample": 1178076,
+      "end_sample": 1183836,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "加",
+      "start": 24.66325,
+      "end": 24.82325,
+      "start_sample": 1183836,
+      "end_sample": 1191516,
+      "probability": 0.9931640625
+    },
+    {
+      "word": "一点",
+      "start": 24.82325,
+      "end": 25.00325,
+      "start_sample": 1191516,
+      "end_sample": 1200156,
+      "probability": 0.9892578125
+    },
+    {
+      "word": "冥",
+      "start": 25.00325,
+      "end": 25.18325,
+      "start_sample": 1200156,
+      "end_sample": 1208796,
+      "probability": 0.6563720703125
+    },
+    {
+      "word": "凡,",
+      "start": 25.18325,
+      "end": 25.42325,
+      "start_sample": 1208796,
+      "end_sample": 1220316,
+      "probability": 0.854736328125
+    },
+    {
+      "word": "细",
+      "start": 25.64325,
+      "end": 26.06325,
+      "start_sample": 1230876,
+      "end_sample": 1251036,
+      "probability": 0.997314453125
+    },
+    {
+      "word": "小",
+      "start": 26.06325,
+      "end": 26.22325,
+      "start_sample": 1251036,
+      "end_sample": 1258716,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "的",
+      "start": 26.22325,
+      "end": 26.30325,
+      "start_sample": 1258716,
+      "end_sample": 1262556,
+      "probability": 0.9853515625
+    },
+    {
+      "word": "杂",
+      "start": 26.30325,
+      "end": 26.46325,
+      "start_sample": 1262556,
+      "end_sample": 1270236,
+      "probability": 0.999267578125
+    },
+    {
+      "word": "质",
+      "start": 26.46325,
+      "end": 26.60325,
+      "start_sample": 1270236,
+      "end_sample": 1276956,
+      "probability": 0.990966796875
+    },
+    {
+      "word": "聚",
+      "start": 26.60325,
+      "end": 26.74325,
+      "start_sample": 1276956,
+      "end_sample": 1283676,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "集",
+      "start": 26.74325,
+      "end": 26.86325,
+      "start_sample": 1283676,
+      "end_sample": 1289436,
+      "probability": 1.0
+    },
+    {
+      "word": "起",
+      "start": 26.86325,
+      "end": 26.98325,
+      "start_sample": 1289436,
+      "end_sample": 1295196,
+      "probability": 0.99462890625
+    },
+    {
+      "word": "来,",
+      "start": 26.98325,
+      "end": 27.20325,
+      "start_sample": 1295196,
+      "end_sample": 1305756,
+      "probability": 0.99951171875
+    },
+    {
+      "word": "体",
+      "start": 27.54325,
+      "end": 27.68325,
+      "start_sample": 1322076,
+      "end_sample": 1328796,
+      "probability": 0.99609375
+    },
+    {
+      "word": "积",
+      "start": 27.68325,
+      "end": 27.82325,
+      "start_sample": 1328796,
+      "end_sample": 1335516,
+      "probability": 0.996826171875
+    },
+    {
+      "word": "变",
+      "start": 27.82325,
+      "end": 27.94325,
+      "start_sample": 1335516,
+      "end_sample": 1341276,
+      "probability": 0.997314453125
+    },
+    {
+      "word": "大,",
+      "start": 27.94325,
+      "end": 28.14325,
+      "start_sample": 1341276,
+      "end_sample": 1350876,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "再",
+      "start": 28.60325,
+      "end": 28.70325,
+      "start_sample": 1372956,
+      "end_sample": 1377756,
+      "probability": 0.94873046875
+    },
+    {
+      "word": "过",
+      "start": 28.70325,
+      "end": 28.86325,
+      "start_sample": 1377756,
+      "end_sample": 1385436,
+      "probability": 0.9951171875
+    },
+    {
+      "word": "滤",
+      "start": 28.86325,
+      "end": 29.02325,
+      "start_sample": 1385436,
+      "end_sample": 1393116,
+      "probability": 0.996826171875
+    },
+    {
+      "word": "一",
+      "start": 29.02325,
+      "end": 29.14325,
+      "start_sample": 1393116,
+      "end_sample": 1398876,
+      "probability": 0.9921875
+    },
+    {
+      "word": "遍",
+      "start": 29.14325,
+      "end": 29.22325,
+      "start_sample": 1398876,
+      "end_sample": 1402716,
+      "probability": 0.9892578125
+    },
+    {
+      "word": "就",
+      "start": 29.22325,
+      "end": 29.36325,
+      "start_sample": 1402716,
+      "end_sample": 1409436,
+      "probability": 0.99462890625
+    },
+    {
+      "word": "能",
+      "start": 29.36325,
+      "end": 29.48325,
+      "start_sample": 1409436,
+      "end_sample": 1415196,
+      "probability": 0.9990234375
+    },
+    {
+      "word": "去",
+      "start": 29.48325,
+      "end": 29.62325,
+      "start_sample": 1415196,
+      "end_sample": 1421916,
+      "probability": 0.99560546875
+    },
+    {
+      "word": "掉。",
+      "start": 29.62325,
+      "end": 29.80325,
+      "start_sample": 1421916,
+      "end_sample": 1430556,
+      "probability": 0.99951171875
+    }
+  ]
+}

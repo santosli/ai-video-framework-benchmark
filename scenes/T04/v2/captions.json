@@ -1,0 +1,119 @@
+{
+  "case_id": "T04",
+  "version": 2,
+  "captions": [
+    {
+      "id": "V008-c019",
+      "segment_id": "V008",
+      "speaker": "A",
+      "text": "为了保证“比赛”尽量客观",
+      "start": 2.006333,
+      "end": 4.046333
+    },
+    {
+      "id": "V008-c020",
+      "segment_id": "V008",
+      "speaker": "A",
+      "text": "这次测试统一了四个条件",
+      "start": 4.046333,
+      "end": 5.766333
+    },
+    {
+      "id": "V009-c021",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "1. 同一个声音",
+      "start": 6.146333,
+      "end": 8.586333
+    },
+    {
+      "id": "V009-c022",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "每家都克隆同一套男女声参考音频",
+      "start": 8.586333,
+      "end": 11.566333
+    },
+    {
+      "id": "V009-c023",
+      "segment_id": "V009",
+      "speaker": "A",
+      "text": "纯看模型还原的硬实力",
+      "start": 11.566333,
+      "end": 13.166333
+    },
+    {
+      "id": "V010-c024",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "2. 同一段文字",
+      "start": 13.599333,
+      "end": 15.409333
+    },
+    {
+      "id": "V010-c025",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "准备了 7 段内容",
+      "start": 15.409333,
+      "end": 17.469333
+    },
+    {
+      "id": "V010-c026",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "涵盖知识口播、带货、日常闲聊",
+      "start": 17.469333,
+      "end": 20.509333
+    },
+    {
+      "id": "V010-c027",
+      "segment_id": "V010",
+      "speaker": "A",
+      "text": "还有容易翻车的中英混读、多音字和数字日期",
+      "start": 20.509333,
+      "end": 23.849333
+    },
+    {
+      "id": "V011-c028",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "3. 同一批生成",
+      "start": 24.231333,
+      "end": 26.881333
+    },
+    {
+      "id": "V011-c029",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "每家每段只跑一次",
+      "start": 26.881333,
+      "end": 28.581333
+    },
+    {
+      "id": "V011-c030",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "参数全用默认",
+      "start": 28.581333,
+      "end": 30.041333
+    },
+    {
+      "id": "V011-c031",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "不挑也不反复抽卡",
+      "start": 30.041333,
+      "end": 32.001333
+    },
+    {
+      "id": "V011-c032",
+      "segment_id": "V011",
+      "speaker": "A",
+      "text": "模拟日常的实际使用情况",
+      "start": 32.001333,
+      "end": 33.421333
+    }
+  ],
+  "planned_windows_only": false
+}

@@ -1,0 +1,64 @@
+{
+  "authoring_model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "frameworks": {
+    "hyperframes": {
+      "package": "hyperframes",
+      "version": "0.8.152",
+      "official_skills_repository": "https://github.com/heygen-com/hyperframes",
+      "official_skills_commit": "e8eb358fe21d6f1a611e04f8df27ca366b337ce9",
+      "official_skills_snapshot_sha256": "b2a53727aba0eb7b4dbc171b5131e9400942921bc590110ee5fefe83d7a93e93",
+      "browser_version": "152.0.7977.30",
+      "browser_sha256_original_macos": "ed7c5c6aff7cc4dd88ee7746c0df97f08a454180b62b7063fc961ba42e10b6a1"
+    },
+    "remotion": {
+      "package": "remotion",
+      "version": "4.0.535",
+      "official_skills_repository": "https://github.com/remotion-dev/skills",
+      "official_skills_commit": "7ba4dcf8ebe1626b00baa41e1f2478113719b60b",
+      "official_skills_snapshot_sha256": "7cb7ba6755b87da3980e60e7e8b3dc8d3a235fcb99f98bcd0fc69e019d0f6962",
+      "browser_version": "157.0.8080.0",
+      "browser_sha256_original_macos": "a6516527d27e69244beafc04f347fc90ef363c23598b951ae05fc96c999b7f54"
+    }
+  },
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "container": "mp4",
+    "codec": "h264",
+    "target_encoder": "libx264",
+    "crf": 18,
+    "preset": "medium",
+    "pixel_format": "yuv420p",
+    "audio_sample_rate": 48000,
+    "audio_bitrate_kbps": 192,
+    "software_encoding_for_primary_speed_test": true,
+    "capture_worker_cap": 4,
+    "native_portrait_cases": [
+      "S04",
+      "P06"
+    ],
+    "native_portrait_dimensions": [
+      1080,
+      1920
+    ],
+    "revision_portrait_cases": [
+      "T04",
+      "S04",
+      "P06"
+    ]
+  },
+  "budgets": {
+    "initial_authoring_seconds": 1200,
+    "initial_technical_fixes_max": 2,
+    "revision_authoring_seconds": 600,
+    "revision_technical_fixes_max": 1,
+    "export_budget_seconds": 900
+  },
+  "order_seeds": {
+    "batch1": 20261014,
+    "batch2": 20261016
+  },
+  "official_skills_redistributed": false
+}

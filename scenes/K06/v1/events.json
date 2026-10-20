@@ -1,0 +1,57 @@
+{
+ "case_id": "K06",
+ "version": 1,
+ "batch": 2,
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration_seconds": 9.133333333333333,
+ "frames": 274,
+ "kind": "talk",
+ "timing_given": false,
+ "lines": [
+  {
+   "id": "c01",
+   "text": "大家好"
+  },
+  {
+   "id": "c02",
+   "text": "我是木子"
+  },
+  {
+   "id": "c03",
+   "text": "做视频离不开配音"
+  },
+  {
+   "id": "c04",
+   "text": "但市面上模型这么多"
+  },
+  {
+   "id": "c05",
+   "text": "免费的、收费的都有"
+  },
+  {
+   "id": "c06",
+   "text": "到底该怎么选？"
+  },
+  {
+   "id": "c07",
+   "text": "这期视频就来告诉你"
+  }
+ ],
+ "clips": [
+  {
+   "order": 1,
+   "video": "assets/host.mp4",
+   "audio": "assets/voice.wav",
+   "frames": 274,
+   "seconds": 9.133333333333333,
+   "note": null
+  }
+ ],
+ "layout_requirements": [
+  "说“我是木子”时画面下方出名牌条：主名“木子”，副标题“AI 实践”，停留约 3 秒后收起",
+  "说“到底该怎么选？”时整屏切成金句卡（大字“到底该怎么选？”），这句说完切回人物"
+ ],
+ "audio_mix": "背景音乐用 assets/bgm.wav，从 0 秒起截取；无人声处相对原文件 −18 dB，人声期间再压低 8 dB（即 −26 dB），升降渐变约 0.3 秒；开头 0.5 秒淡入，结尾 1 秒淡出。人声按原样 0 dB 放置，不变速、不剪改。成片峰值不超过 −1 dBFS。"
+}
